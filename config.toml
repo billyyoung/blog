@@ -1,0 +1,4 @@
+baseURL = "https://blog.billy.dev/"
+languageCode = "en-us"
+title = "Billy's Blog"
+theme = "ananke"

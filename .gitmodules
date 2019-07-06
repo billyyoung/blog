@@ -5,3 +5,6 @@
 	path = public
 	url = git@billyyoung.github.com:billyyoung/billyyoung.github.io.git
 	branch = master
+[submodule "themes/ezhil"]
+	path = themes/ezhil
+	url = git@billyyoung.github.com:billyyoung/ezhil.git

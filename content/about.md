@@ -6,7 +6,9 @@ draft: true
 
 My motivations, in the simplest terms: bring joy to others, and bring joy to myself.
 
-Thanks for visiting my fledgeling corner of the Internet.
+Thanks for visiting my fledgeling corner of the Internet.  
+
+Here you'll find posts about: thinking, learning, music, education, personality, and tech.
 
 ## ABOUT
 I'm a Software Engineer at Wish in San Francisco, CA
@@ -17,7 +19,7 @@ University of Waterloo alum
 
 Originally from Windsor, ON, Canada
 
-Enneagram 4w5 and INTJ-T
+Enneagram 4,5 and INTJ-T
 
 ---
 

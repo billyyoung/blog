@@ -1,6 +1,7 @@
 ---
 title: "LINKS"
 date: 2019-06-30T22:59:46-07:00
+type: "page"
 draft: true
 ---
 

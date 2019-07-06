@@ -1,6 +1,7 @@
 ---
 title: "Coming soon"
 date: 2019-06-30T22:54:36-07:00
+type: "posts"
 draft: true
 ---
 

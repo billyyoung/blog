@@ -1,8 +1,45 @@
 baseURL = "https://billy.dev/"
+CanonifyUrls = true
 languageCode = "en-us"
-title = "Billy's Blog"
-theme = "ananke"
+title = "Ramblings"
+theme = "ezhil"
+
+googleAnalytics = ""
 
 [blackfriday]
   hrefTargetBlank = true
   fractions = false
+
+[params]
+  subtitle = "test"
+  disableDisqusTypes = ["page", "posts"]
+
+# menu
+[[menu.main]]
+name = "Start Here"
+url = "/start-here"
+weight = 1
+
+[[menu.main]]
+name = "All Posts"
+url = "/posts"
+weight = 2
+
+[[menu.main]]
+name = "Links"
+url = "/links"
+weight = 3
+
+# socials
+[[params.social]]
+name = "Twitter"
+icon = "twitter"
+url = "https://twitter.com/billyisyoung"
+
+[[params.social]]
+name = "Github"
+icon = "github"
+url = "https://github.com/billyyoung/blog"
+
+[taxonomies]
+   tag = "tags"

@@ -1,6 +1,7 @@
 ---
 title: "BILLY YOUNG"
 date: 2019-06-30T16:30:31-07:00
+type: "page"
 draft: true
 ---
 

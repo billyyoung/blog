@@ -1,8 +1,7 @@
 ---
 title: "BILLY YOUNG"
-date: 2019-06-30T16:30:31-07:00
+date: 2019-07-07T02:30:31-07:00
 type: "page"
-draft: true
 ---
 
 My motivations, in the simplest terms: bring joy to others, and bring joy to myself.

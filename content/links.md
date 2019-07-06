@@ -1,8 +1,7 @@
 ---
 title: "LINKS"
-date: 2019-06-30T22:59:46-07:00
+date: 2019-07-06T02:39:46-07:00
 type: "page"
-draft: true
 ---
 
 I like reading things that bring joy to myself and others, or teach me how to better do so.  Here are some of those things.  

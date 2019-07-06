@@ -13,7 +13,7 @@ Here you'll find posts about: thinking, learning, music, education, personality,
 ## ABOUT
 I'm a Software Engineer at Wish in San Francisco, CA
 
-Tenor in <a target='_blank' href='https://www.instagram.com/p/BzQufySnZaF/'>Internote</a>, the Bay Area's inter-tech company a cappella group
+Tenor in [Internote](https://www.instagram.com/p/BzQufySnZaF/), the Bay Area's inter-tech company a cappella group
 
 University of Waterloo alum
 
@@ -23,9 +23,9 @@ Enneagram 4,5 and INTJ-T
 
 ---
 
-Recent favourite band: <a target='_blank' href='https://youtu.be/-zBGN9wLQ3I'>Lawrence</a>
+Recent favourite band: [Lawrence](https://youtu.be/-zBGN9wLQ3I)
 
-Recent favourite book: <a target='_blank' href='https://smile.amazon.com/dp/132854639X'>AI Superpowers by Kai-Fu Lee</a>
+Recent favourite book: [AI Superpowers by Kai-Fu Lee](https://smile.amazon.com/dp/132854639X)
 
 ## CONTACT
-Connect with me on Twitter at <a target='_blank' href='https://twitter.com/billyisyoung'>@billyisyoung</a>, or email me at hello@billy.dev.
+Connect with me on Twitter at [@billyisyoung](https://twitter.com/billyisyoung), or email me at hello@billy.dev.

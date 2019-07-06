@@ -1,7 +1,7 @@
 baseURL = "https://billy.dev/"
 CanonifyUrls = true
 languageCode = "en-us"
-title = "Ramblings"
+title = "Billy's Thoughts"
 theme = "ezhil"
 
 googleAnalytics = "UA-143355000-1"
@@ -11,7 +11,6 @@ googleAnalytics = "UA-143355000-1"
   fractions = false
 
 [params]
-  subtitle = "test"
   disableDisqusTypes = ["page", "posts"]
 
 # menu

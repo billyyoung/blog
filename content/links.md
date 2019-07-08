@@ -17,7 +17,7 @@ Also consider following all of these awesome people on Twitter!
 
 [Dumb Tweeting/Smart Writing](https://twitter.com/visakanv/status/1088347054974201858)
 ([Visakan Veerasamy](https://twitter.com/visakanv))
---- A thread on writing, taste, and being yourself (one of Visa's many many threads).  He also writes about navigating life, thinking, EQ, improving, infinite games, and more. Including dumb tweets.
+--- A thread on writing, taste, and being yourself (one of Visa's many many threads).  He also writes about navigating life, thinking, EQ, improving, infinite games, and more. Dumb tweets included.
 
 ["Why Is It Interesting?" - War Strategy](https://twitter.com/TheAnnaGat/status/1137403902561857536)
 ([Anna Gát](https://twitter.com/TheAnnaGat))

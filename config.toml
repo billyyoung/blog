@@ -20,13 +20,13 @@ url = "/start-here"
 weight = 1
 
 [[menu.main]]
-name = "All Posts"
-url = "/posts"
+name = "Links"
+url = "/links"
 weight = 2
 
 [[menu.main]]
-name = "Links"
-url = "/links"
+name = "Blog"
+url = "/posts"
 weight = 3
 
 # socials

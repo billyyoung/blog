@@ -7,4 +7,4 @@ type: "posts"
 
 I'm currently working on a first post!
 
-In the meantime, [here](/about)'s a bit about me and [here](/links) are some of my favourite links.
+In the meantime, [here](/start-here)'s a bit about me and [here](/links) are some of my favourite links.

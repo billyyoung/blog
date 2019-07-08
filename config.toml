@@ -40,5 +40,10 @@ name = "Github"
 icon = "github"
 url = "https://github.com/billyyoung/blog"
 
+[[params.social]]
+name = "RSS"
+icon = "rss"
+url = "/index.xml"
+
 [taxonomies]
    tag = "tags"

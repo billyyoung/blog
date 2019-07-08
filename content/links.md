@@ -1,5 +1,5 @@
 ---
-title: "LINKS"
+title: "Links"
 date: 2019-07-06T02:39:46-07:00
 type: "page"
 ---

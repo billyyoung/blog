@@ -3,7 +3,7 @@ title: "The Minimum Viable Blog"
 date: 2019-08-18T01:26:03-07:00
 description: "Building and launching a website and blog from scratch..."
 type: "posts"
-mins: 5
+mins: 8
 draft: true
 ---
 
@@ -78,12 +78,12 @@ GitHub Pages has more great [documentation](https://help.github.com/en/articles/
 * Registering a domain on your preferred platform/DNS Provider
   * e.g. I'm using [Google Domains](https://domains.google/)
 * [Adding](https://help.github.com/en/articles/adding-or-removing-a-custom-domain-for-your-github-pages-site) your custom domain for your GitHub Pages site
-* Seting up your custom domain with your DNS Provider  
+* Setting up your custom domain with your DNS Provider  
   * Note: this differs depending on what URL format you want for your domain
   * e.g. <a>billy.dev</a>, <a>www.billy.dev</a>, <a>blog.billy.dev</a>
   * For my apex domain (<a>billy.dev</a>), I configured it using [A records](https://help.github.com/en/articles/setting-up-an-apex-domain#configuring-a-records-with-your-dns-provider)
 
-After finishing all of that (and waiting an hour or so for the DNS updates to propagage), v0 of <a>billy.dev</a> was up and running.
+After finishing all of that (and waiting an hour or so for the DNS updates to propagate), v0 of <a>billy.dev</a> was up and running.
 
 ### Step 3/5: Setting up Hugo
 
@@ -103,7 +103,7 @@ In my #goals, I describe my Minimum Viable Blog (inspired by David Perell's [gui
 * A way to measure traffic
 * A mailing list people could subscribe to
 
-To actualize this, the work divides into three categories: content, configs/customizations, and auxiliary services.
+To actualize this, the work is divided into three categories: content, configs/customizations, and auxiliary services.
 
 #### Content
 The actual content I started the site with was the [Start Here](https://billy.dev/start-here) and [Links](https://billy.dev/links) pages.  These include ideas and topics I'm interested in and essentially put my tastes on display.  
@@ -123,7 +123,7 @@ The main config file for your site is [config.toml](https://github.com/billyyoun
 
 The full list of config options is in the Hugo [docs](https://gohugo.io/getting-started/configuration/).  Some themes also have theme-specific configs that you can set (docs for these are usually found in the README in the theme's git repo).
 
-I also [forked](https://github.com/billyyoung/ezhil) the Ezhil theme I'm using, so I can tweak it it to fit my purposes, e.g.:  
+I also [forked](https://github.com/billyyoung/ezhil) the Ezhil theme I'm using, so I can tweak it to fit my purposes, e.g.:  
 
 * Making the blog title a link and moving the icon links under the title
 * Putting a "Subscribe" form and a link to my Twitter in the footer

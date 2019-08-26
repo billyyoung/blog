@@ -1,10 +1,9 @@
 ---
 title: "The Minimum Viable Blog"
-date: 2019-08-18T01:26:03-07:00
+date: 2019-08-31T01:26:03-07:00
 description: "Building and launching a website and blog from scratch..."
 type: "posts"
-mins: 8
-draft: true
+mins: 10
 ---
 
 I've always been fascinated by how great writers can break apart complex systems, stir up emotions, and build worlds.  Writing is an especially important skill now, as we live and breathe email, iMessage, and Slack.  Where you can find friends, and even a tribe, solely via [Twitter](https://twitter.com/billyisyoung/status/1128179415182000129).  

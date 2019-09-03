@@ -1,6 +1,6 @@
 ---
 title: "The Minimum Viable Blog"
-date: 2019-09-2T22:26:03-07:00
+date: 2019-09-02T22:26:03-07:00
 description: "Building and launching a website and blog from scratch..."
 type: "posts"
 mins: 10

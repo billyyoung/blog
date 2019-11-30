@@ -15,11 +15,11 @@ I'm a Software Engineer at Wish in San Francisco, CA
 
 Tenor in [Internote](https://www.instagram.com/p/BzQufySnZaF/), the Bay Area's inter-tech company a cappella group
 
+Enneagram 4/5 and INTJ-T
+
 University of Waterloo alum
 
 Originally from Windsor, ON, Canada
-
-Enneagram 4/5 and INTJ-T
 
 ## Aperatifs
 

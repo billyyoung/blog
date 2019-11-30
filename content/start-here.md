@@ -6,7 +6,7 @@ type: "page"
 
 Thanks for visiting my fledgeling corner of the Internet.  
 
-My motivations, in the simplest terms: bring joy to others, and bring joy to myself.
+My motivations, in the simplest terms: become the best version of myself I can be, bring joy to others, and bring joy to myself.
 
 Here you'll find posts about: thinking, learning, music, education, personality, and tech.
 

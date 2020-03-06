@@ -61,6 +61,8 @@ And the important part, especially for younger people? You lower your chances of
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Dr. Fauci confirms that around 20% of <a href="https://twitter.com/hashtag/coronavirus?src=hash&amp;ref_src=twsrc%5Etfw">#coronavirus</a> patients require hospitalization. That&#39;s the crux of the problem. Our hospitals don&#39;t have this capacity.</p>&mdash; Karen Piper (@PiperK) <a href="https://twitter.com/PiperK/status/1233846607419977728?ref_src=twsrc%5Etfw">February 29, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Probably the single most important headline this week:<br><br>- After just one week from the outbreak, Northern Italy is already considering expanding its hospital beds capacity because 1 in 11 patients goes in ICU</p>&mdash; Luca Dellanna (@DellAnnaLuca) <a href="https://twitter.com/DellAnnaLuca/status/1233938781616521216?ref_src=twsrc%5Etfw">March 1, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <br>
 
 Now this is where the second-order effects bring exponential power.
@@ -78,9 +80,10 @@ Bringing it back to base-10: if the virus were to take 10 days to double instead
 
 So thank you for washing your hands.  You’re helping save lives.
 
-
 ## A little extra, as a treat
 Here are some highlights from people who recognize the exponential growth at play: [sharing info](https://twitter.com/balajis/status/1235061303334625280), [asking questions](https://twitter.com/diviacaroline/status/1234316133060116481), and [taking action](https://twitter.com/Seattle2019nCov/status/1235359313171898370).
 
 Extra reading: Tyler Cowen on the ["growthers" and "base-raters"](https://www.bloomberg.com/opinion/articles/2020-03-03/how-fast-will-the-new-coronavirus-spread-two-sides-of-the-debate), the different camps discussing the growth rate of COVID-19.
 
+## Leave a comment
+Drop a reply, or just come say hi [here](https://twitter.com/billyisyoung/status/1235775930385252355)!

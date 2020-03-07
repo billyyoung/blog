@@ -48,6 +48,7 @@ The number of new COVID-19 cases [doubles every 7 days](https://twitter.com/trvr
 
 _Assume there are 2,000 cases in the US today, on March 5._  
 _(conservative IMO given the lack of test kits available)_  
+_By March 28 - 20,000 cases._  
 _By April 20 - 200,000 cases._  
 _By May 13 - 2,000,000 cases._
 

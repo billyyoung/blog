@@ -46,7 +46,12 @@ The number of new COVID-19 cases [doubles every 7 days](https://twitter.com/trvr
 
 **Or 100x-ing every 1.5 months.**
 
-What do we need to do now to prepare for 100x the volume in 1.5 months?
+_Assume there are 2,000 cases in the US today, on March 5._  
+_(conservative IMO given the lack of test kits available)_  
+_By April 20 - 200,000 cases._  
+_By May 13 - 2,000,000 cases._
+
+What do we need to do now to prepare for 100x the volume in the next 1.5 months, and beyond?
 
 ## Wash your hands, save the world?
 By now we’ve been inundated with directives to “wash your hands for 20s”, “don't shake hands”, and “avoid touching your face”.  (Like that last one is even possible.)

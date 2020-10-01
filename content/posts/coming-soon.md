@@ -1,5 +1,5 @@
 ---
-title: "Coming soon"
+title: "Coming Soon"
 date: 2019-07-06T02:54:36-07:00
 description: "I'm currently working on a first post! In the meantime..."
 type: "posts"

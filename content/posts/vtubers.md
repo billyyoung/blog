@@ -31,4 +31,4 @@ And as anime girls and boys, these content creators can **[exaggerate](https://t
 All in all, I think VTubers are just a fascinating form of play that's emerged from our culture and technology today.
 
 ## Let's chat!
-Drop a reply, or just come say hi [here](https://twitter.com/billyisyoung/status/1311591527932555264)!
+Drop a reply, or just come say hi [here](https://twitter.com/billyisyoung/status/1311595508205404160)!

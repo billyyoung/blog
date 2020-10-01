@@ -91,5 +91,5 @@ Here are some highlights from people who recognize the exponential growth at pla
 
 Extra reading: Tyler Cowen on the ["growthers" and "base-raters"](https://www.bloomberg.com/opinion/articles/2020-03-03/how-fast-will-the-new-coronavirus-spread-two-sides-of-the-debate), the different camps discussing the growth rate of COVID-19.
 
-## Leave a comment
+## Let's chat!
 Drop a reply, or just come say hi [here](https://twitter.com/billyisyoung/status/1235775930385252355)!

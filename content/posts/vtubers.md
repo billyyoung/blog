@@ -18,7 +18,7 @@ Before I knew it I was way down the rabbit hole, watching VTubers like Inguami K
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0AksGdCJ06c" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### Some things I've noticed:
+## Some things I've noticed:
 
 **The top VTubers already start out as professionally produced idols/entertainers.**  [hololive production](https://en.wikipedia.org/wiki/Hololive_Production) is an example of an agency that manages and produces some of the largest VTubers out there (Inugami Korone and Nekomata Okayu are under hololive).  Like with their recently debuted hololive-EN English-speaking cohort of VTubers, hololive holds auditions to find their talent and presumably sets them up with their network and resources so they can hit the ground running.  
 
@@ -29,3 +29,6 @@ And as anime girls and boys, these content creators can **[exaggerate](https://t
 **Finally, there's the [kayfabe](https://www.edge.org/response-detail/11783) of it all.**  For example, I know in my brain that these VTubers are really just people playing characters and hamming it up for the camera, but some part of the production still feels like something "not real" is being brought to life.  (It would be a very different feeling if it was Idina Menzel streaming as a motion-tracked rendering of Elsa.)
 
 All in all, I think VTubers are just a fascinating form of play that's emerged from our culture and technology today.
+
+## Let's chat!
+Drop a reply, or just come say hi [here](https://twitter.com/billyisyoung/status/1311591527932555264)!

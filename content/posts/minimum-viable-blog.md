@@ -65,6 +65,14 @@ I have separate GitHub accounts for work and personal use, and I wanted both cre
 
 Thankfully I'm not the first person who's been in this situation, and I found a handy [post](https://medium.com/@trionkidnapper/ssh-keys-with-multiple-github-accounts-c67db56f191e) on setting up multiple SSH keys and your SSH config to use the correct credentials based on the repo you're looking at.  Note: the <a>me.github.com</a> mentioned in the post should be <a>\<your_username\>.github.com</a>.
 
+Once your project is using the correct SSH keys, update the git config of your local repo with the correct username and email:  
+
+<code>
+cd /path/to/local_repo  
+git config --local user.name "your_username"  
+git config --local user.email "your_email"  
+</code>
+
 ### Step 2/5: Configuring a custom domain  
 _**Goals:** branding and clout_  
 

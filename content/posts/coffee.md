@@ -118,6 +118,6 @@ Graham Stephan's [$0.20 Iced Coffee](https://www.youtube.com/watch?v=tvL4FF2lMnw
 <hr>
 
 ## Let's chat!
-Drop a reply, or just come say hi [here](https://twitter.com/billyisyoung/)!
+Drop a reply, or just come say hi [here](https://twitter.com/billyisyoung/status/1356002430010355713)!
 
 If you'd like to support me, you can [buy me 3-5 coffees](https://www.buymeacoffee.com/billyy)!

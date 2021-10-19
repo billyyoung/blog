@@ -3,12 +3,15 @@ CanonifyUrls = true
 languageCode = "en-us"
 title = "Billy's Thoughts"
 theme = "ezhil"
+contentDir = "content/posts"
 
 googleAnalytics = "UA-143355000-1"
 
-[blackfriday]
-  hrefTargetBlank = true
-  fractions = false
+[markup]
+  defaultMarkdownHandler = 'blackfriday'
+  [markup.blackfriday]
+    hrefTargetBlank = true
+    fractions = false
 
 [params]
   disableDisqusTypes = ["page", "posts"]

@@ -1,0 +1,11 @@
+Reading speed:
+200 wpm for adults
+
+Local server:
+$ hugo server -D
+
+Draft:
+add "draft: true" in the header of a post, see blog/archetypes/default.md
+
+Install a Hugo theme:
+clone it into themes/ (e.g. my fork of ezhil - https://github.com/billyyoung/ezhil)

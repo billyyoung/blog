@@ -8,4 +8,11 @@ Draft:
 add "draft: true" in the header of a post, see blog/archetypes/default.md
 
 Install a Hugo theme:
-clone it into themes/ (e.g. my fork of ezhil - https://github.com/billyyoung/ezhil)
+- add it as a submodule (e.g. my fork of ezhil - https://github.com/billyyoung/ezhil)
+
+Recover on a new machine:
+- check submodules, `.gitmodules`
+- repull submodules - `$ git submodule update --init --recursive`
+
+[2021-10-19]
+updated the config on my submodules (.gitmodules) to no longer use the billyyoung.github.com domain and just use github.com. This is because I no longer have the conflicting SSH keys problem and am using the default SSH key setup, so I don't have special SSH behaviour for billyyoung.github.com

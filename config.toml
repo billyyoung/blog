@@ -3,7 +3,6 @@ CanonifyUrls = true
 languageCode = "en-us"
 title = "Billy's Thoughts"
 theme = "ezhil"
-contentDir = "content/posts"
 
 googleAnalytics = "UA-143355000-1"
 

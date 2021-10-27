@@ -10,7 +10,7 @@ Also consider following all of these awesome people on Twitter!
 
 ---
 
-[6am](http://idealistmag.com/sleep/6am/)
+[6am](http://idealistmag.com/6am/)
 ([Riva-Melissa Tez](https://twitter.com/rivatez))
 --- A reflection on how much there is to marvel at and learn about and do.  Big mood.  
 "It’s a weird paradox to be so in awe with life that it leaves you detached from important sleep. To be in awe. That’s what the days are for."

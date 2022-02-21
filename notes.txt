@@ -14,5 +14,10 @@ Recover on a new machine:
 - check submodules, `.gitmodules`
 - repull submodules - `$ git submodule update --init --recursive`
 
+[2022-02-20]
+If I ever want to convert my posts to /yyyy/mm/dd/name format:
+- setup permalinks in config - https://gohugo.io/content-management/urls/#permalinks-configuration-example
+- back-compat for existing posts - https://gohugo.io/content-management/urls/#yaml-front-matter
+
 [2021-10-19]
 updated the config on my submodules (.gitmodules) to no longer use the billyyoung.github.com domain and just use github.com. This is because I no longer have the conflicting SSH keys problem and am using the default SSH key setup, so I don't have special SSH behaviour for billyyoung.github.com

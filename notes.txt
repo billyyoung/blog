@@ -2,7 +2,7 @@ Reading speed:
 200 wpm for adults
 
 Local server:
-$ hugo server -D
+$ hugo server --buildDrafts --buildFuture
 
 Draft:
 add "draft: true" in the header of a post, see blog/archetypes/default.md

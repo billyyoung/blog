@@ -19,7 +19,7 @@ I'm paying to keep the [Reserve](https://creditcards.chase.com/rewards-credit-ca
 In the US credit system, one metric your credit score is based on is Age of Oldest Account. Cancelling a credit card wipes out the history of that line of credit, which can hurt your credit score if it's your oldest account. So it's generally recommended to downgrade to a free card if you can (which keeps your line of credit alive), instead of cancelling your card.
 
 ### Why downgrade? (cont'd)
-I think the CSR is still worth keeping if you have a lot of Chase Ultimate Rewards points ("UR points") or you have a lot of spend on Chase cards to generate UR points.
+I think the CSR is still worth keeping if you have a lot of Chase Ultimate Rewards points ("UR points") or you have a lot of spend on Chase cards to generate UR points. And you're enjoying the card's other benefits.
 
 In my case:
 

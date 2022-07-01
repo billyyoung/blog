@@ -1,7 +1,7 @@
 ---
 title: "Modeling the Brain and Ego"
 date: 2022-05-02T02:00:00-07:00
-description: "\"All models are wrong, but some are useful\"..."
+description: "All models are wrong, but some are useful..."
 type: "posts"
 mins: 4
 ---

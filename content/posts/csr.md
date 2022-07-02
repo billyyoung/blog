@@ -95,3 +95,7 @@ Factor in my plans to reapply for the CSR if/when a new big sign-up bonus offer 
 I'll admit, all this number-crunching is effectively over some $100-$200.
 
 But the credit card game runs deep if you want to play it, where you can have 5+ cards that _each_ give you some $500-$1000 in one-time sign-up bonuses, and $100-$200 in net value annually. Stack these up for a stay in the Maldives or a round trip first-class flight to Singapore paid with points.
+
+<hr>
+
+Let's chat! I'd love to hear your thoughts on [twitter](https://twitter.com/billyisyoung/status/1543022678985957376) or by email at [hello@billy.dev](mailto:hello@billy.dev).

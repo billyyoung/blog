@@ -39,3 +39,7 @@ It's not too late. All of your decisions and experiences have served you by lead
 I view it less like "did I just f*ck up the last 10 years of my life?", and more like "OK the last 10 years were fine, if not pretty good actually. I did what I did because I wanted to. Now I want something else, and it's time to pursue that. (And who knows what lessons from those previous experiences might turn out to be useful in helping me achieve my new goals?)"
 
 Another frame: one year from now, you can be the version of yourself that did The Thing you want to do, or you can be the version of yourself that didn't do The Thing. Which do you want?
+
+<hr>
+
+Let's chat! I'd love to hear your thoughts on [twitter](https://twitter.com/billyisyoung/status/1540913136110227456) or by email at [hello@billy.dev](mailto:hello@billy.dev).

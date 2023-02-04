@@ -1,7 +1,7 @@
 ---
 title: "Comparisons"
 date: 2023-02-04T14:00:00-08:00
-description: "Ah, my old friend the thief of joy..."
+description: "Ah, the thief of joy, my old friend..."
 type: "posts"
 mins: 2
 ---

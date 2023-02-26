@@ -4,6 +4,10 @@ date: 2019-07-06T02:30:31-07:00
 type: "page"
 ---
 
+<<< Under Maintenance >>>  
+Planing updates in 2023. In the meantime, enjoy this snapshot of me from 2019  
+<<< Under Maintenance >>>  
+
 Thanks for visiting my fledgeling corner of the Internet.  
 
 My motivations, in the simplest terms: become the best version of myself I can be, bring joy to others, and bring joy to myself.

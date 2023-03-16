@@ -1,6 +1,6 @@
 ---
 title: "A Letter to my 20s"
-date: 2023-03-15T20:00:00-08:00
+date: 2023-03-15T20:00:00-07:00
 description: "We've come a long way..."
 type: "posts"
 mins: 4

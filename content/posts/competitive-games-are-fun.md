@@ -14,7 +14,7 @@ Go through this experience enough times (and you will end up here, a lot, given 
 
 "I'm going to quit this game," you say the next day. But you don't.
 
-Why are competitive games like this? Why are we like this?
+Why are competitive games like this? Why are _we_ like this?
 
 ---
 
@@ -24,11 +24,11 @@ In non-competitive games, it's you against the game (and arguably against yourse
 
 (Not to say that these games aren't intense or frustrating. Games like Dark Souls, or even Overcooked, often involve lots of swearing and desk-slamming.)
 
-Now pit player versus player ("PVP") and you've got the basis for a competitive game. Beating a single-player game is fun, sure, but very few activities can hold a candle to the heart-pounding, head-buzzing feeling of clutching out a 1-vs-3 in overtime to win your team the match in Valorant. Or red-shelling your friend in 1st place at the last second to snatch away the victory in Mario Kart. For a split second, winning can feel like the most significant achievement of your life.
+Now pit player versus player ("PVP") and you've got the basis for a competitive game. Beating a single-player game is fun, sure, but very few activities can hold a candle to the heart-pounding, head-buzzing feeling of clutching out a 1-vs-3 in overtime to win your team the match in Valorant. Or red-shelling your friend in 1st place at the last second to snatch away the victory in Mario Kart. For a split second, winning feels like the most significant achievement of your life.
 
-<blockquote class="twitter-tweet" data-conversation="none"><p lang="en" dir="ltr">same feeling, different form. it&#39;s all connected<a href="https://t.co/BbxOJjhXZ8">https://t.co/BbxOJjhXZ8</a></p>&mdash; Billy is wrangling ghouls (@billyisyoung) <a href="https://twitter.com/billyisyoung/status/1399418529703596034?ref_src=twsrc%5Etfw">May 31, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">same feeling, different form. it&#39;s all connected<a href="https://t.co/BbxOJjhXZ8">https://t.co/BbxOJjhXZ8</a></p>&mdash; billy is writing again (14/100) (@billyisyoung) <a href="https://twitter.com/billyisyoung/status/1399418529703596034?ref_src=twsrc%5Etfw">May 31, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-The game itself changes over time too, in a couple ways, which keeps things fresh. The fabric of the game can change: game devs can continue to add more ways to play (characters, maps, game modes) and tweak existing mechanics and rules. Which then impacts the metagame: how players play, how they think about the game, what strategies they use. And outside of developer updates, players themselves push the metagame forward by constantly testing out new strategies, tricks, and combos to give themselves an edge over everyone else.
+The game itself changes over time too. The fabric of the game can change: game devs can continue to add more ways to play (characters, maps, game modes) and tweak existing mechanics and rules. Which then impacts the metagame: how players play, how they think about the game, what strategies they use. And outside of developer updates, players themselves [push the metagame forward](https://twitter.com/billyisyoung/status/1278939482981453829) by constantly testing out new strategies, tricks, and combos to give themselves an edge over everyone else.
 
 Competitive games just have that extra something to them that I like. I guess if you give people (kids and adults) an easily-accessible way to opt in, fight each other, and win through their own skill, it'll draw in a lot of folks.
 

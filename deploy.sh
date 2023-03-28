@@ -1,7 +1,7 @@
 #!/bin/bash
 
-# to run a local server:
-# hugo server -D
+# to run a local server see notes.txt, or:
+# hugo server --buildDrafts --buildFuture
 
 echo -e "\033[0;32mDeploying updates to GitHub...\033[0m"
 

@@ -22,7 +22,7 @@ Take some time to think about _why_ you like these things (this goes deeper than
 
 Also, be mindful of _other_ things you might want to do (and why). 
 
-Write them all down, and then **Prioritize, prioritize, prioritize**. This will be painful and require sacrifice, but it's necessary (related post on "5/25" is incoming). You can only do so many things at once, and if you try to do too many things you won't progress much in any of them.
+Write them all down, and then **Prioritize, prioritize, prioritize**. This will be painful and require sacrifice, but it's necessary (see [the 5/25 Rule](https://billy.dev/posts/5-25/)). You can only do so many things at once, and if you try to do too many things you won't progress much in any of them.
 
 It's OK if the prioritization is rough and not perfect. We can always iterate–you can try, learn, and adjust whenever you decide.
 

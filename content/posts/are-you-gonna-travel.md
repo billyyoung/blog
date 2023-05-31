@@ -10,7 +10,7 @@ When I tell friends I plan to take a sabbatical later this year, their first que
 
 And I get the feeling that my answer is a bit weird. What I want to do is kind of the opposite–I want to stay home, hunker down, and _create_. I jokingly liken it to grinding skill points in a video game. I have schemes I want to execute on. I want to write, mainly. Write and write and get my reps in. _Git gud_. See what patterns emerge, and then go from there.
 
-I want to eventually publish 100 blog posts (this is #18). I want to write some fanfic. I have a few more YouTube video ideas. I want to try tech career coaching, and some other solopreneur-type stuff. I want to play more music. I want to cook a ton of recipes I've saved from YouTube and Instagram.
+I want to eventually [publish 100 blog posts](https://twitter.com/billyisyoung/status/1148394257486471169) (you're reading #18). I want to write some fanfic. I have a few more YouTube video ideas. I want to try tech career coaching, and some other solopreneur-type stuff. I want to play more music. I want to cook a ton of recipes I've saved from YouTube and Instagram.
 
 I want to live 6 months at a time, because who knows where I'll be 6 months from now. Maybe one thing takes off and I double-down on it, or maybe nothing does (yet). Maybe I decide to keep working at my personal projects and not return to work for another 6 months. 
 

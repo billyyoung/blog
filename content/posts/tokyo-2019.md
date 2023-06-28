@@ -60,7 +60,7 @@ In my experience, the easiest way to do this (without paying for additional serv
 ## Districts
 Recommendations:  
 
-* **Daikanyama & Nakameguro**: Two districts right next to each other that I'd definitely recommend visiting.  **Daikanyama** is a beautifully hipster area full of cool clothign stores and small winding roads.  Check out the Tsutuya bookstore and the unique Starbucks located inside.  **Nakameguro** is home to the Meguro River which is [stunning](https://www.instagram.com/p/BSe7IQMhc0H/) during cherry blossom season, and is lined with various cute shops for food/clothing/accessories.  The Tokyo [Starbucks Reserve Roastery](https://www.starbucksreserve.com/en-us/locations/tokyo) is also here.
+* **Daikanyama & Nakameguro**: Two districts right next to each other that I'd definitely recommend visiting.  **Daikanyama** is a beautifully hipster area full of cool clothing stores and small winding roads.  Check out the Tsutaya bookstore and the unique Starbucks located inside.  **Nakameguro** is home to the Meguro River which is [stunning](https://www.instagram.com/p/BSe7IQMhc0H/) during cherry blossom season, and is lined with various cute shops for food/clothing/accessories.  The Tokyo [Starbucks Reserve Roastery](https://www.starbucksreserve.com/en-us/locations/tokyo) is also here.
 * **Harajuku & Omotesando**: Another two districts that are right next to each other.  Walk down [Takeshita-dori Street](https://www.tripadvisor.com/Attraction_Review-g14129746-d1373790-Reviews-Takeshita_Street-Jingumae_Shibuya_Tokyo_Tokyo_Prefecture_Kanto.html) (a crazy dense street lined with cool shops) and people-watch.  There are also a lot of brand name stores in the area, as well as the popular [kaleidoscope escalator](http://www.spoon-tamago.com/2012/04/25/now-open-tokyu-plaza-omotesando-harajuku-by-hiroshi-nakamura/).  
 * **Akihabara**: Anime, electronics, and maid cafés.  Visit Mandarake for secondhand manga and other paraphernalia.  If you're looking for anime figurines, the prices can actually vary wildly between stores -- I'd recommend looking at shops that are farther away from Akihabara Station (e.g. TRADERS).
 * **Tsukiji Fish Market**: This used to be where they did live tuna auctions every morning around 3 AM. 
@@ -100,7 +100,7 @@ Cafés, in descending order of how much I liked them:
 * **[Cafe de l'ambre](https://tokyocoffee.org/2016/05/29/cafe-de-lambre/) (Ginza)**: Get their specialty: the Blanc & Noir.  They chill their coffee by putting it in a cocktail mixer and spinning it on a giant slab of ice!
 * **Onibus Coffee (Nakameguro)**: Cute storefront with an upstairs with treehouse vibes
 * **[Starbucks Reserve Roastery](https://www.starbucksreserve.com/en-us/locations/tokyo) (Nakameguro)**: Beautiful location with 3 floors and a terrace
-* **Starbucks in Tsutuya Books (Daikanyama)**: Very cool interior, though mainly to walk through
+* **Starbucks in Tsutaya Books (Daikanyama)**: Very cool interior, though mainly to walk through
 * -- Below these ones are just 'alright' -- 
 * **Mocha Coffee (Daikanyama)**
 * **Coffee Seibu (Shinjuku)**
@@ -112,7 +112,7 @@ Cafés, in descending order of how much I liked them:
 ## Arcade Games  
 The other large portion of my time was spent at the arcade, mostly playing a rhythm game called [Chunithm](https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/Chunithm).  
 
-This game both is fun to watch and feels very fun to play.  Chunithm involves tapping/holding notes, plus raising your hand in the air and lowering it on beat to hit "air notes".  See some high level gameplay [here](https://www.youtube.com/watch?v=LkKWpSJkxUI).
+This game is both fun to watch and very fun to play.  Chunithm involves tapping/holding notes, plus raising your hand in the air and lowering it on beat to hit "air notes".  See some high level gameplay [here](https://www.youtube.com/watch?v=LkKWpSJkxUI).
 
 Besides rhythm games (including piano-, guitar-, drum-, and DJ-based games), arcades have online arena games (e.g. Gundam battles), token games (where you buy tokens to play games that give you tokens, but tokens can't be traded in for real money...), and photo booths. And, of course, crane/prize games on the 1st floor.  
 

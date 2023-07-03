@@ -6,7 +6,7 @@ type: "posts"
 mins: 12
 ---
 
-_2023 Update: Check out my latest recs [here](http://localhost:1313/posts/tokyo-2023/)!_
+_2023 Update: Check out my latest recs [here](https://billy.dev/posts/tokyo-2023/)!_
 
 In the span of two weeks, 3 friends asked me for Tokyo recommendations from my trip earlier this year.  So I'm putting those recommendations here as a sort of log / for future reference.  
 

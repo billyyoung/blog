@@ -1,8 +1,8 @@
 ---
 title: "Hi, I'm Billy"
 date: 2019-07-06T02:30:31-07:00
+lastupdated: 2023-08-13T20:00:00-07:00
 type: "page"
-last_updated: 2023-08-13T20:00-07:00
 ---
 
 Hello! Welcome to my fledgling corner of the internet.
@@ -20,7 +20,7 @@ I like playing music (drums, singing, piano), cooking, drawing, volleyball, codi
 In June 2023 [I left my job](https://billy.dev/posts/new-game-plus/) of 7 years in software engineering, and I'm currently on a sabbatical!
 
 ## What I'm doing now
-<small>_Inspired by Derek Sivers' [now page](https://nownownow.com/about) movement. Last updated: August 13, 2023._</small>
+<small>_Inspired by Derek Sivers' [now page](https://nownownow.com/about) movement. Last updated on Aug 13, 2023._</small>
 
 ### Living in SF
 I moved to San Francisco after graduating college in 2016, and I've been living here since (7 years now!). But I think from 2020 onward is when I really started to enjoy living here. Most Sunday mornings you can find me playing [volleyball](https://heylo.group/sfbv) at Ocean Beach.

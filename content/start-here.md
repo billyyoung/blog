@@ -1,37 +1,64 @@
 ---
-title: "Billy Young"
+title: "Hi, I'm Billy"
 date: 2019-07-06T02:30:31-07:00
 type: "page"
+last_updated: 2023-08-13T20:00-07:00
 ---
 
-<<< Under Maintenance >>>  
-Planing updates in 2023. In the meantime, enjoy this snapshot of me from 2019  
-<<< Under Maintenance >>>  
+Hello! Welcome to my fledgling corner of the internet.
 
-Thanks for visiting my fledgeling corner of the Internet.  
+This is a place for me to write and focus on what I want to see more of. A big one for me is: **I want to see more people doing the things they love**. And that starts with myself.
 
-My motivations, in the simplest terms: become the best version of myself I can be, bring joy to others, and bring joy to myself.
+Some of my values include: **Beauty**, **Industry** ("to work hard and well at my life tasks"), **Passion**, **Intimacy**, and **Self-Knowledge**.
 
-Here you'll find posts about: thinking, learning, music, education, personality, and tech.
+My interests tend to cluster around two topics: Personal Development and Doing The Thing.
 
-## About
-I'm a Software Engineer at Wish in San Francisco, CA
+I like [introspection](https://billy.dev/posts/letter-29/) and [figuring myself out](https://billy.dev/posts/comparisons/). I like [improving](https://billy.dev/posts/5-25/). I like chatting about psychology, [neuroscience](https://billy.dev/posts/brain-and-ego/) and philosophy of mind, and personality stuff (Enneagram: 4w5; INTJ; cusp-y ♍️☼♐☾♋↑).
 
-Tenor in [Internote](https://www.instagram.com/p/BzQufySnZaF/), the Bay Area's inter-tech company a cappella group
+I like playing music (drums, singing, piano), cooking, drawing, volleyball, coding, and making the occasional [spreadsheet](https://billy.dev/posts/taxes/).
 
-Enneagram 4/5 and INTJ-T
+In June 2023 [I left my job](https://billy.dev/posts/new-game-plus/) of 7 years in software engineering, and I'm currently on a sabbatical!
 
-University of Waterloo alum
+## What I'm doing now
+<small>_Inspired by Derek Sivers' [now page](https://nownownow.com/about) movement. Last updated: August 13, 2023._</small>
 
-Originally from Windsor, ON, Canada
+### Living in SF
+I moved to San Francisco after graduating college in 2016, and I've been living here since (7 years now!). But I think from 2020 onward is when I really started to enjoy living here. Most Sunday mornings you can find me playing [volleyball](https://heylo.group/sfbv) at Ocean Beach.
 
-## Aperatifs
+If you're ever in town, [DM me](https://twitter.com/billyisyoung) and let's grab coffee!
 
-Recent favourite music: [Lawrence](https://youtu.be/-zBGN9wLQ3I), [Maggie Rogers](https://youtu.be/MSFjYe54uv4)
+### On sabbatical
+In June 2023 I left my job of 7 years in software engineering, and started on a sabbatical.
 
-Recent favourite books: [AI Superpowers by Kai-Fu Lee](https://smile.amazon.com/dp/132854639X), [Inventive Minds by Marvin Minsky](https://smile.amazon.com/dp/0262039095)
+I'd love to eventually carve out a way of living and working that's more satisfying for me than my prior experience with the typical corporate path. (Maybe I become a feral free agent, maybe I do something else, maybe I end up going back to corporate life for another season. Who knows!)
 
-[Some cool content by cool people](/links)
+For now, my gameplan is:
 
-## Contact
-Connect with me on Twitter at [@billyisyoung](https://twitter.com/billyisyoung), or email me at hello@billy.dev.
+1. Do My Thing and iterate a lot while cultivating taste, in search of product/market fit
+2. [Solve for distribution](https://visakanv.com/marketing/solve-for-distribution/)
+3. Manage my psychology so I don't burn out
+
+Week to week, it's been a lot of internal work: reassessing what I want vs what I think I want, reconnecting with what I find [Fun](https://billy.dev/posts/sabbatical-notes/2-fun/), and Doing The Thing.
+
+### Sabbatical projects
+Right now I'm spending my time:
+
+- Playing the drums, learning new songs, and making the occasional [cover video](https://www.youtube.com/watch?v=H7jtI4stySI)
+- Writing blog posts here
+- [Drawing](https://www.instagram.com/billyy_art/)
+
+Projects I've completed so far:
+
+1. [Give Your Gift](https://tasshin.com/give-your-gift/) program, cohort #2
+2. [Taylor Swift - Mine (Taylor's Version)](https://www.youtube.com/watch?v=H7jtI4stySI) drum cover
+3. Updating this About Me page and Now page (the one you're reading now!)
+4. 
+
+## All of my various things
+I like to do all sorts of things! Here's where you can find me:
+
+- I **write** here
+- I do most of my online socializing on **Twitter/X**: [@billyisyoung](https://twitter.com/billyisyoung)
+- I post my latest **drawings** at [@billyy_art](https://www.instagram.com/billyy_art/) (or you can see all of them starting with #1 in [this twitter thread](https://twitter.com/billyisyoung/status/1328059097783160838))
+- I have a [YouTube channel](https://www.youtube.com/@billyy) with my **drum** cover, and videos about the **tech** industry
+- I sometimes **sing** covers and post them on [soundcloud](https://soundcloud.com/billyisyoung)

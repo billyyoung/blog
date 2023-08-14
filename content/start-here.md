@@ -19,6 +19,12 @@ I like playing music (drums, singing, piano), cooking, drawing, volleyball, codi
 
 In June 2023 [I left my job](https://billy.dev/posts/new-game-plus/) of 7 years in software engineering, and I'm currently on a sabbatical!
 
+### Other facts
+- Born in Halifax, NS, Canada; raised in Windsor, ON, Canada
+- Bachelor of Mathematics: Computer Science (2016) from the University of Waterloo
+- Currently living in San Francisco, CA
+- Proficient in French
+
 ## What I'm doing now
 <small>_Inspired by Derek Sivers' [now page](https://nownownow.com/about) movement. Last updated on Aug 13, 2023._</small>
 

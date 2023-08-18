@@ -26,7 +26,7 @@ In June 2023 [I left my job](https://billy.dev/posts/new-game-plus/) of 7 years 
 - Proficient in French
 
 ## What I'm doing now
-<small>_Inspired by Derek Sivers' [now page](https://nownownow.com/about) movement. Last updated on Aug 13, 2023._</small>
+<small>_Inspired by Derek Sivers' [now page](https://nownownow.com/about) movement. Last updated on Aug 18, 2023._</small>
 
 ### Living in SF
 I moved to San Francisco after graduating college in 2016, and I've been living here since (7 years now!). But I think from 2020 onward is when I really started to enjoy living here. Most Sunday mornings you can find me playing [volleyball](https://heylo.group/sfbv) at Ocean Beach.
@@ -36,15 +36,9 @@ If you're ever in town, [DM me](https://twitter.com/billyisyoung) and let's grab
 ### On sabbatical
 In June 2023 I left my job of 7 years in software engineering, and started on a sabbatical.
 
-I'd love to eventually carve out a way of living and working that's more satisfying for me than my prior experience with the typical corporate path. (Maybe I become a feral free agent, maybe I do something else, maybe I end up going back to corporate life for another season. Who knows!)
+I’d love to eventually carve out a way of living and working that’s more satisfying for me than my prior experience with the typical corporate path. But really, I have no idea what that entails or where this is headed; I'm making plans up as I go.
 
-For now, my gameplan is:
-
-1. Do My Thing and iterate a lot while cultivating taste, in search of product/market fit
-2. [Solve for distribution](https://visakanv.com/marketing/solve-for-distribution/)
-3. Manage my psychology so I don't burn out
-
-Week to week, it's been a lot of internal work: reassessing what I want vs what I think I want, reconnecting with what I find [Fun](https://billy.dev/posts/sabbatical-notes/2-fun/), and Doing The Thing.
+Week to week, it's been a lot of internal work: reassessing what I want vs what I think I want, reconnecting with what I find [Fun](https://billy.dev/posts/sabbatical-notes/2-fun/), and Doing Things.
 
 ### Sabbatical projects
 Right now I'm spending my time:
@@ -55,10 +49,13 @@ Right now I'm spending my time:
 
 Projects I've completed so far:
 
+1. [Sabbatical Notes #1](https://billy.dev/posts/sabbatical-notes/1-doing/) post
+1. [Sabbatical Notes #2](https://billy.dev/posts/sabbatical-notes/2-fun/) post
 1. [Give Your Gift](https://tasshin.com/give-your-gift/) program, cohort #2
-2. [Taylor Swift - Mine (Taylor's Version)](https://www.youtube.com/watch?v=H7jtI4stySI) drum cover
-3. Updating this About Me page and Now page (the one you're reading now!)
-4. 
+1. [Taylor Swift - Mine (Taylor's Version)](https://www.youtube.com/watch?v=H7jtI4stySI) drum cover
+1. Updating this About Me page and Now page (the one you're reading now!)
+1. [Sabbatical Notes #3](https://billy.dev/posts/sabbatical-notes/3/) post
+1. 
 
 ## All of my various things
 I like to do all sorts of things! Here's where you can find me:

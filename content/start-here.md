@@ -55,13 +55,14 @@ Projects I've completed so far:
 1. [Taylor Swift - Mine (Taylor's Version)](https://www.youtube.com/watch?v=H7jtI4stySI) drum cover
 1. Updating this About Me page and Now page (the one you're reading now!)
 1. [Sabbatical Notes #3](https://billy.dev/posts/sabbatical-notes/3/) post
+1. [An Encounter with The Emptiness](https://billy.dev/posts/emptiness) post
 1. 
 
 ## All of my various things
 I like to do all sorts of things! Here's where you can find me:
 
 - I **write** here
-- I do most of my online socializing on **Twitter/X**: [@billyisyoung](https://twitter.com/billyisyoung)
+- I do most of my online socializing on **twitter**: [@billyisyoung](https://twitter.com/billyisyoung)
 - I post my latest **drawings** at [@billyy_art](https://www.instagram.com/billyy_art/) (or you can see all of them starting with #1 in [this twitter thread](https://twitter.com/billyisyoung/status/1328059097783160838))
-- I have a [YouTube channel](https://www.youtube.com/@billyy) with my **drum** cover, and videos about the **tech** industry
+- I have a [youtube channel](https://www.youtube.com/@billyy) with my **drum** cover, and videos about the **tech** industry
 - I sometimes **sing** covers and post them on [soundcloud](https://soundcloud.com/billyisyoung)

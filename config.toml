@@ -8,6 +8,12 @@ googleAnalytics = "UA-143355000-1"
 
 [markup]
   defaultMarkdownHandler = 'goldmark'
+  [markup.goldmark.extensions]
+    footnote = true
+    strikethrough = true
+  [markup.goldmark.renderer]
+    unsafe = true  # hack to allow <embed>
+
 #  [markup.blackfriday]
 #    hrefTargetBlank = true
 #    fractions = false

@@ -7,10 +7,10 @@ theme = "ezhil"
 googleAnalytics = "UA-143355000-1"
 
 [markup]
-  defaultMarkdownHandler = 'blackfriday'
-  [markup.blackfriday]
-    hrefTargetBlank = true
-    fractions = false
+  defaultMarkdownHandler = 'goldmark'
+#  [markup.blackfriday]
+#    hrefTargetBlank = true
+#    fractions = false
 
 [params]
   disableDisqusTypes = ["page", "posts"]

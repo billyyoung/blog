@@ -26,7 +26,7 @@ In June 2023 [I left my job](https://billy.dev/posts/new-game-plus/) of 7 years 
 - Proficient in French
 
 ## What I'm doing now
-<small>_Inspired by Derek Sivers' [now page](https://nownownow.com/about) movement. Last updated on Aug 18, 2023._</small>
+<small>_Inspired by Derek Sivers' [now page](https://nownownow.com/about) movement. Last updated on Oct 30, 2023._</small>
 
 ### Living in SF
 I moved to San Francisco after graduating college in 2016, and I've been living here since (7 years now!). But I think from 2020 onward is when I really started to enjoy living here. Most Sunday mornings you can find me playing [volleyball](https://heylo.group/sfbv) at Ocean Beach.
@@ -34,7 +34,7 @@ I moved to San Francisco after graduating college in 2016, and I've been living 
 If you're ever in town, [DM me](https://twitter.com/billyisyoung) and let's grab coffee!
 
 ### On sabbatical
-In June 2023 I left my job of 7 years in software engineering, and started on a sabbatical.
+In June 2023 I left my job of 7 years in software engineering, and went on a sabbatical.
 
 I’d love to eventually carve out a way of living and working that’s more satisfying for me than my prior experience with the typical corporate path. But really, I have no idea what that entails or where this is headed; I'm making plans up as I go.
 
@@ -43,8 +43,9 @@ Week to week, it's been a lot of internal work: reassessing what I want vs what 
 ### Sabbatical projects
 Right now I'm spending my time:
 
-- Playing the drums, learning new songs, and making the occasional [cover video](https://www.youtube.com/watch?v=H7jtI4stySI)
+- [Chatting with people](https://www.linkedin.com/feed/update/urn:li:activity:7110433966653935616/) and answering their questions about career and career transitions
 - Writing blog posts here
+- Playing the drums, learning new songs, and making the occasional [cover video](https://www.youtube.com/watch?v=H7jtI4stySI)
 - [Drawing](https://www.instagram.com/billyy_art/)
 
 Projects I've completed so far:
@@ -53,10 +54,11 @@ Projects I've completed so far:
 1. [Sabbatical Notes #2](https://billy.dev/posts/sabbatical-notes/2-fun/) post
 1. [Give Your Gift](https://tasshin.com/give-your-gift/) program, cohort #2
 1. [Taylor Swift - Mine (Taylor's Version)](https://www.youtube.com/watch?v=H7jtI4stySI) drum cover
-1. Updating this About Me page and Now page (the one you're reading now!)
+1. Creating this new About Me page and Now page
 1. [Sabbatical Notes #3](https://billy.dev/posts/sabbatical-notes/3/) post
 1. [An Encounter with The Emptiness](https://billy.dev/posts/emptiness) post
-1. 
+1. [Sabbatical Notes #4: October](https://billy.dev/posts/sabbatical-notes/4/) post
+1.
 
 ## All of my various things
 I like to do all sorts of things! Here's where you can find me:

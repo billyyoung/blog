@@ -21,7 +21,7 @@ I've been on sabbatical since July now. And up until October, something new woul
   * [The neutral zone](#neutral-zone)
   * [Week 3-4 - A door appears](#aug34)
 * **September**
-  * [Week 1-2 - The abyss](#sept12)
+  * [Week 1-2 - Descend](#sept12)
   * [Week 3-4 - Emerge](#sept34)
 * **October**
   * [Objective #4 - Keep doing creative work](#oct)
@@ -188,7 +188,7 @@ I was reminded of what I had to do, and I also knew it would take a long time, w
 
 Funnily enough, life got busy right after this realization, so I didn't have too much time to sit idle and stew. I started drafting this post, but I was mostly busy doing IRL stuff: I saw <a target="_blank" href="https://twitter.com/billyisyoung/status/1695498486920118726">BLACKPINK VIP</a>, flew home to visit my parents (they'd have my hide if I didn't visit when I had no job to get in the way), came back and then immediately drove off to Disneyland, only to come down with COVID upon returning home :(
 
-<big>**September, week 1-2 - The abyss**</big>
+<big>**September, week 1-2 - Descend**</big>
 <a name="sept12"></a>
 <a href="#timeline">↩︎</a>
 

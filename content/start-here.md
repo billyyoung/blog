@@ -27,12 +27,12 @@ In June 2023 [I left my job](https://billy.dev/posts/new-game-plus/) of 7 years 
 
 <a name="now"></a>
 ## What I'm doing now
-<small>_Inspired by Derek Sivers' [now page](https://nownownow.com/about) movement. Last updated on Oct 30, 2023._</small>
+<small>_Inspired by Derek Sivers' [now page](https://nownownow.com/about) movement. Last updated on Jan 12, 2024._</small>
 
 ### Living in SF
 I moved to San Francisco after graduating college in 2016, and I've been living here since (7 years now!). But I think from 2020 onward is when I really started to enjoy living here. Most Sunday mornings you can find me playing [volleyball](https://heylo.group/sfbv) at Ocean Beach.
 
-If you're ever in town, [DM me](https://twitter.com/billyisyoung) and let's grab coffee!
+If you're ever in town, I'd [love](https://twitter.com/billyisyoung/status/1745704925831831706) to hear your story. [DM me](https://twitter.com/billyisyoung) and let's grab coffee!
 
 ### On sabbatical
 In June 2023 I left my job of 7 years in software engineering, and went on a sabbatical.

@@ -8,8 +8,8 @@ mins: 18
 
 I've been on sabbatical since July now. And up until October, something new would shift for me literally every two weeks. This post is intended to be a record of all of those changes, so I don't forget this crazy, wonderful time.
 
-<big>**The timeline**</big>
 <a name="timeline"></a>
+<big>**The timeline**</big>
 
 * [How it started](#start)
 * **July**
@@ -26,8 +26,8 @@ I've been on sabbatical since July now. And up until October, something new woul
 * **October**
   * [Objective #4 - Keep doing creative work](#oct)
 
-<big>**How it started**</big>
 <a name="start"></a>
+<big>**How it started**</big>
 <a href="#timeline">↩︎</a>
 
 My thinking around taking a sabbatical was as follows:
@@ -44,8 +44,8 @@ And so I started on my break with the goal of **finding a more fulfilling way to
 
 ("Because _that'll_ make me happy!" is what I think I was subconsciously tagging on here. More on this to come.)
 
-<big>**July, week 1-2 - Objective #1 - Find a more fulfilling way to work**</big>
 <a name="july12"></a>
+<big>**July, week 1-2 - Objective #1 - Find a more fulfilling way to work**</big>
 <a href="#timeline">↩︎</a>
 
 I'd been mulling over ideas for months, planning, because that's what you're supposed to do when you're trying to branch out into a new career, right? I looked at what I enjoyed doing, and what was most viable to eventually bring in income, and I landed on: 
@@ -58,8 +58,8 @@ And so the first couple weeks of my sabbatical were equal parts me drafting mark
 
 Whew. Somehow I ended up here, writing promotional material instead of doing the actual thing I wanted to do which was talk to people! But at the time, I couldn't see my predicament for what it was: trying to 'set myself up for success' while also avoiding doing the thing itself because I was afraid to fail. Why? Because I'd latched onto the idea that finding a more fulfilling way to work would fix this dissatisfaction I was feeling, so I NEEDED this to work. (Spoiler: this approach still failed in the end anyway haha.)
 
-<big>**Getting another perspective - Give Your Gift**</big>
 <a name="gyg"></a>
+<big>**Getting another perspective - Give Your Gift**</big>
 <a href="#timeline">↩︎</a>
 
 Around the same time, through the magic of <a target="_blank" href="https://twitter.com/dancingbyalake/status/1664689864132943874">tweeting my thoughts + having great twitter friends</a>, I joined <a target="_blank" href="https://tasshin.com/give-your-gift/">Give Your Gift</a>, a sort of incubator for people wanting to do <a target="_blank" href="https://tasshin.com/blog/quests-or-the-ideal-service-project/">service projects</a>.
@@ -105,8 +105,8 @@ Plus, I still had a pressing issue to deal with - what was I going to choose for
 
 <big>_Objective #1 - Find a more fulfilling way to work - PAUSED_</big>
 
-<big>**July, week 3-4 - Objective #2 - Reconnect with Fun**</big>
 <a name="july34"></a>
+<big>**July, week 3-4 - Objective #2 - Reconnect with Fun**</big>
 <a href="#timeline">↩︎</a>
 
 To challenge the idea that I __had__ to be productive, I took Tasshin and Mary's advice and reoriented around fun--what would be a fun project that I'd be really excited about?
@@ -123,8 +123,8 @@ Here's the video:
 
 <big>_Objective #2 - Reconnect with Fun - DONE_</big>
 
-<big>**August, week 1-2 - Objective #3 - Meander**</big>
 <a name="aug12"></a>
+<big>**August, week 1-2 - Objective #3 - Meander**</big>
 <a href="#timeline">↩︎</a>
 
 ... So what now?
@@ -138,8 +138,8 @@ I thought of a few options, but none felt like MUST-DOs:
 
 In the end, I didn't hard-commit to anything. I continued to play drums daily, with the lightly-held intention of finishing learning Red in a couple more weeks (it's harder than Mine). But overall, I distinctly felt like my heart was determined to **meander**.
 
-<big>**The neutral zone**</big>
 <a name="neutral-zone"></a>
+<big>**The neutral zone**</big>
 <a href="#timeline">↩︎</a>
 
 During this time, I was also reading my way through William Bridges' book <a target="_blank" href="https://www.amazon.com/dp/0738285404">Transitions</a>.[^4]
@@ -154,8 +154,8 @@ Reading Bridges' writing, I could see I was firmly in the neutral zone, and sinc
 
 I played drums. I played Street Fighter 6. I went to the gym. I watched Oppenheimer, and then Harry Potter and the Order of the Phoenix in concert. I watched a lot of youtube videos, mostly VTuber clips and podcast interviews. I probably did a lot of other things that I can't recall while writing this post, and maybe that's exactly as it should be. 
 
-<big>**August, week 3-4 - A door appears**</big>
 <a name="aug34"></a>
+<big>**August, week 3-4 - A door appears**</big>
 <a href="#timeline">↩︎</a>
 
 Eventually, somehow, someway, reorientation begins...
@@ -188,8 +188,8 @@ I was reminded of what I had to do, and I also knew it would take a long time, w
 
 Funnily enough, life got busy right after this realization, so I didn't have too much time to sit idle and stew. I started drafting this post, but I was mostly busy doing IRL stuff: I saw <a target="_blank" href="https://twitter.com/billyisyoung/status/1695498486920118726">BLACKPINK VIP</a>, flew home to visit my parents (they'd have my hide if I didn't visit when I had no job to get in the way), came back and then immediately drove off to Disneyland, only to come down with COVID upon returning home :(
 
-<big>**September, week 1-2 - Descend**</big>
 <a name="sept12"></a>
+<big>**September, week 1-2 - Descend**</big>
 <a href="#timeline">↩︎</a>
 
 I was sick, then I was recovering, then I was trying to get back into the swing of things. I was writing again but I struggled with the early drafts of this post, so I wrote about <a target="_blank" href="https://billy.dev/posts/emptiness/">The Emptiness</a> instead. And I continued to meander in other areas.
@@ -204,8 +204,8 @@ I knew I wasn't thinking clearly. I knew I was catastrophizing, I knew I was thi
 
 Thankfully, the Transitions book came to my aid again, and I found encouragement to try to unclench as much as I could and accept that this is where I was. I resolved to just _exist_ though it. Feel these feelings. Continue working on what I could, when I had the energy, and trust that it would clear eventually. "This too shall pass", and all that.
 
-<big>**September, week 3-4 - Emerge**</big>
 <a name="sept34"></a>
+<big>**September, week 3-4 - Emerge**</big>
 <a href="#timeline">↩︎</a>
 
 I was stumbling around in the dark for about a week, and my memory of what I did during this time is fuzzy. My notes tell me I was decently productive: I wrote and rewrote drafts of this post, I tested recipes in preparation for my 30th birthday dinner party that was happening the following weekend, I read books, I played drums, I started a new singing cover. I spent a day or two laying in bed indulgently rereading some of my favourite fanfics. But no matter what I did, I'd always return to feeling the blues after.
@@ -223,8 +223,8 @@ But whatever it was, I knew I was so back.
 
 By the following week, I was full steam ahead on Doing Things again and running this new coaching experiment, as well as recounting my experiences when friends would ask me what I'd been up to, which helped me in my writing process too. I still didn't have any long-term mission or goals, but I was content with just being energized and active again in the short term.
 
-<big>**October - Objective #4 - Keep doing creative work**</big>
 <a name="oct"></a>
+<big>**October - Objective #4 - Keep doing creative work**</big>
 <a href="#timeline">↩︎</a>
 
 It was nice to have a primary focus again, which for me became: (1) running my coaching experiment, and (2) writing this post.

@@ -25,6 +25,7 @@ In June 2023 [I left my job](https://billy.dev/posts/new-game-plus/) of 7 years 
 - Currently living in San Francisco, CA
 - Proficient in French
 
+<a name="now"></a>
 ## What I'm doing now
 <small>_Inspired by Derek Sivers' [now page](https://nownownow.com/about) movement. Last updated on Oct 30, 2023._</small>
 
@@ -54,11 +55,15 @@ Projects I've completed so far:
 1. [Sabbatical Notes #2](https://billy.dev/posts/sabbatical-notes/2-fun/) post
 1. [Give Your Gift](https://tasshin.com/give-your-gift/) program, cohort #2
 1. [Taylor Swift - Mine (Taylor's Version)](https://www.youtube.com/watch?v=H7jtI4stySI) drum cover
-1. Creating this new About Me page and Now page
+1. Creating this new [About Me]() page and [Now](#now) page
 1. [Sabbatical Notes #3](https://billy.dev/posts/sabbatical-notes/3/) post
 1. [An Encounter with The Emptiness](https://billy.dev/posts/emptiness) post
 1. [Sabbatical Notes #4: October](https://billy.dev/posts/sabbatical-notes/4/) post
-1.
+1. [Sabbatical Notes: July - October](https://billy.dev/posts/sabbatical-notes/recap1/) post
+1. [Art vs Artist 2023](https://www.instagram.com/p/C0hcPWjPvPW/) post + [2023 art recap](https://www.instagram.com/reel/C1Fgpi9ObpM/) reel
+1. [Taylor Swift - Red (Taylor's Version)](https://www.youtube.com/watch?v=gpUGLWtg9zY) drum cover
+1. [Sabbatical Notes #5: Self-Love](https://billy.dev/posts/sabbatical-notes/5/) post
+1. 
 
 ## All of my various things
 I like to do all sorts of things! Here's where you can find me:
@@ -66,5 +71,5 @@ I like to do all sorts of things! Here's where you can find me:
 - I **write** here
 - I do most of my online socializing on **twitter**: [@billyisyoung](https://twitter.com/billyisyoung)
 - I post my latest **drawings** at [@billyy_art](https://www.instagram.com/billyy_art/) (or you can see all of them starting with #1 in [this twitter thread](https://twitter.com/billyisyoung/status/1328059097783160838))
-- I have a [youtube channel](https://www.youtube.com/@billyy) with my **drum** cover, and videos about the **tech** industry
+- I have a [youtube channel](https://www.youtube.com/@billyy) with my **drum** covers, and videos about the **tech** industry
 - I sometimes **sing** covers and post them on [soundcloud](https://soundcloud.com/billyisyoung)

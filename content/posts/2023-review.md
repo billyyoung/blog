@@ -121,7 +121,7 @@ I put this on pause after November because of my schedule, but I'm looking to do
 * January - TO
 * February - Vegas
 * May - Maui; Napa; parents'
-* June - Tokyo
+* June - <a target="_blank" href="https://billy.dev/posts/tokyo-2023/">Tokyo</a>
 * Sept - Disneyland
 * October - AZ wellness retreat; Vegas with parents
 * December - Cancun resort; TO; parents'; Puerto Vallarta resort; parents'

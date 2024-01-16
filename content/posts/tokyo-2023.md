@@ -8,7 +8,18 @@ mins: 20
 
 _Here's the 2023 update to my [2019 Tokyo recs](https://billy.dev/posts/tokyo-2019/)._
 
-## Logistics before  
+<a name="sections"></a>
+### Sections
+* [Logistics before](#logistics-before) (flights, lodging, mobile data)
+* [Logistics there](#logistics-there) (transit, cash, restaurants, laundry)
+* [Districts](#districts)
+* [Food recs](#food)
+* [Coffee recs](#coffee)
+* [Personal Colour Analysis](#colour)
+* [Shopping](#shopping)
+
+<a name="logistics-before"></a>
+## Logistics before
 
 **Flights**  
 There are two airports you can fly to: Haneda airport (HND) and Narita airport (NRT).  
@@ -35,6 +46,7 @@ You can also purchase a data e-SIM beforehand via a service like [ubigi.com](htt
 
 If you're traveling in a group, there's also the option to get a Pocket Wi-fi–essentially a portable mobile hotspot device–which you can order ahead online for pick-up/drop-off at the airport. On my 2023 trip, I ordered one from [Ninja WiFi](https://ninjawifi.com/en/) which got me 3GB per day, at $65 for 14 days (so ~$5 USD / day).
 
+<a name="logistics-there"></a>
 ## Logistics when you're there  
 
 **Getting around Tokyo**  
@@ -85,6 +97,7 @@ Alternatively, we found some coin laundromats near us that were fairly cheap and
 * For washing: ¥200 for cold water or ¥300 for warm water, for a 30 min cycle
 * For drying: ¥100 for 10 mins, and 20 mins was usually enough for things like t-shirts and socks
 
+<a name="districts"></a>
 ## Districts
 
 My recommendations:
@@ -128,6 +141,7 @@ Then line up for an early lunch. I'd recommend lining up at these spots, 45 mins
 
 There are also tons of good TikToks/Insta Reels that cover how to enjoy Tsukiji efficiently, so check those out for the visuals and to get some more ideas. 
 
+<a name="food"></a>
 ## Food
 Here are the places I ate at over my few trips that I would recommend. Most have English menus, unless otherwise stated, and take credit card, unless otherwise stated.
 
@@ -170,6 +184,7 @@ Generally considered affordable fast food and late night food in Japan. Here are
 
 There are also a lot of TikToks/Insta Reels with good-looking food recs if you search for Tokyo. 
 
+<a name="coffee"></a>
 ## Coffee/Kissaten
 From a friend’s recommendation I discovered the _Kissaten_ scene in Tokyo, and a large chunk of my 2019 trip was sitting down at various coffeeshops with a good book. 
 
@@ -185,6 +200,7 @@ Cafés, in descending order of how much I liked them:
 * **[Coffee Fragile](https://tabelog.com/tokyo/A1304/A130401/13165114/) (Shinjuku):** 1-man operation serving quality pour-over in a dark room lined with wood shelves of old American records. Would recommend the chocolate cake set.
 * **[Starbucks Reserve Roastery](https://www.starbucksreserve.com/en-us/locations/tokyo) (Nakameguro):** One of the many around the world, to ensure that Starbucks will survive in case of an apocalyptic event. Beautiful location with 3 floors and a terrace. There _will be_ a wait at peak times and on weekends–I tried stopping by on my 2023 trip and the wait was 75-90 mins 😲 so we walked over to the Tsutaya Books instead
 
+<a name="colour"></a>
 ## Personal Colour Analysis
 Would recommend!
 
@@ -204,6 +220,7 @@ There are lots of salons in Tokyo offering this service at a reasonable price, w
     * Note: this salon appears to be [booked out months in advance](https://bestcolors4you.com/%e3%81%94%e4%ba%88%e7%b4%84%e5%8f%af%e8%83%bd%e6%97%a5/), so book early!
 * To find other options, I'd recommend googling "パーソナルカラー診断 東京" (= "personal colour analysis tokyo"), contacting them (ideally in English + some Google-Translated-Japanese), and asking if they offer service in English. This is how I found my place actually!
 
+<a name="shooping"></a>
 ## Shopping
 I did A LOT of shopping this time around, split between luxury thrift stores, Japanese modern brands, and dinnerware.
 

@@ -11,7 +11,7 @@ This is a place for me to write and focus on what I want to see more of. A big o
 
 Some of my values include: **Beauty**, **Industry** ("to work hard and well at my life tasks"), **Passion**, **Intimacy**, and **Self-Knowledge**.
 
-My interests tend to cluster around two topics: Personal Development and Doing The Thing.
+My interests tend to cluster around two topics: Personal Development and Doing Things.
 
 I like [introspection](https://billy.dev/posts/letter-29/) and [figuring myself out](https://billy.dev/posts/comparisons/). I like [improving](https://billy.dev/posts/5-25/). I like chatting about psychology, [neuroscience](https://billy.dev/posts/brain-and-ego/) and philosophy of mind, and personality stuff (Enneagram: 4w5; INTJ; cusp-y ♍️☼♐☾♋↑).
 
@@ -27,24 +27,26 @@ In June 2023 [I left my job](https://billy.dev/posts/new-game-plus/) of 7 years 
 
 <a name="now"></a>
 ## What I'm doing now
-<small>_Inspired by Derek Sivers' [now page](https://nownownow.com/about) movement. Last updated on Jan 12, 2024._</small>
+<small>_Inspired by Derek Sivers' [now page](https://nownownow.com/about) movement. Last updated on Jan 17, 2024._</small>
 
 ### Living in SF
-I moved to San Francisco after graduating college in 2016, and I've been living here since (7 years now!). But I think from 2020 onward is when I really started to enjoy living here. Most Sunday mornings you can find me playing [volleyball](https://heylo.group/sfbv) at Ocean Beach.
+I moved to San Francisco after graduating college in 2016, and I've been living here since (8 years now!). But I think from 2020 onward is when I really started to enjoy living here. Most Sunday mornings you can find me playing [volleyball](https://heylo.group/sfbv) at Ocean Beach.
 
 If you're ever in town, I'd [love](https://twitter.com/billyisyoung/status/1745704925831831706) to hear your story. [DM me](https://twitter.com/billyisyoung) and let's grab coffee!
 
 ### On sabbatical
 In June 2023 I left my job of 7 years in software engineering, and went on a sabbatical.
 
-I’d love to eventually carve out a way of living and working that’s more satisfying for me than my prior experience with the typical corporate path. But really, I have no idea what that entails or where this is headed; I'm making plans up as I go.
+After 6 months, I realized that the main thing I want to focus on is: rewiring myself away from grasping for external validation of my work as a necessary component of my worth, and cultivating an internal wellspring of self-worth and self-love.
 
-Week to week, it's been a lot of internal work: reassessing what I want vs what I think I want, reconnecting with what I find [Fun](https://billy.dev/posts/sabbatical-notes/2-fun/), and Doing Things.
+I recognize now that more achievements and other external things won't truly satisfy me, and that satisfaction must come from within. So I'm <a target="_blank" href="https://billy.dev/posts/sabbatical-notes/5/">working on that</a>.
+
+In the meantime, I'm doing creative work that I love.
 
 ### Sabbatical projects
 Right now I'm spending my time:
 
-- [Chatting with people](https://www.linkedin.com/feed/update/urn:li:activity:7110433966653935616/) and answering their questions about career and career transitions
+- Doing (free) [career consults](https://www.linkedin.com/feed/update/urn:li:activity:7110433966653935616/), answering people's questions about career and career transitions
 - Writing blog posts here
 - Playing the drums, learning new songs, and making the occasional [cover video](https://www.youtube.com/watch?v=H7jtI4stySI)
 - [Drawing](https://www.instagram.com/billyy_art/)
@@ -63,6 +65,7 @@ Projects I've completed so far:
 1. [Art vs Artist 2023](https://www.instagram.com/p/C0hcPWjPvPW/) post + [2023 art recap](https://www.instagram.com/reel/C1Fgpi9ObpM/) reel
 1. [Taylor Swift - Red (Taylor's Version)](https://www.youtube.com/watch?v=gpUGLWtg9zY) drum cover
 1. [Sabbatical Notes #5: Self-Love](https://billy.dev/posts/sabbatical-notes/5/) post
+1. [2023: Year In Review](https://billy.dev/posts/2023-review/) post
 1. 
 
 ## All of my various things

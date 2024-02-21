@@ -6,7 +6,11 @@ type: "posts"
 mins: 20
 ---
 
-_Here's the 2023 update to my [2019 Tokyo recs](https://billy.dev/posts/tokyo-2019/)._
+<!--
+lastupdated: 2024-02-20T19:00:00-07:00
+-->
+
+_Last updated on Feb 20, 2024._  
 
 <a name="sections"></a>
 ### Sections
@@ -23,54 +27,56 @@ _Here's the 2023 update to my [2019 Tokyo recs](https://billy.dev/posts/tokyo-20
 
 **Flights**  
 There are two airports you can fly to: Haneda airport (HND) and Narita airport (NRT).  
-I’d recommend HND over NRT if you have the choice.
+I’d recommend HND if you have the choice.
 
-HND is closer to Tokyo (45 mins to 1h for ~¥600 by subway) vs NRT (1h to 1.5h for ~¥3,500 by NRT Express + subway).
+HND is closer to Tokyo (45 mins to 1h for ~¥600 by subway) vs NRT (1.5h for ~¥3,000 by NRT Express + subway).
 
 **Getting around Japan (prep version)**  
 If you’ll be in Japan for over 7 days and plan to take the Shinkansen (high speed trains) between Tokyo, Kyoto/Osaka, and beyond, look into getting the **JR Pass**.
 
-This pass includes rides on the Shinkansen (non-express lines), as well as the JR subway lines in Tokyo. You can still ride the trains/metro without a JR Pass by paying directly, but buying the pass will likely save you some money in the end.
+This pass includes rides on the Shinkansen (high speed train, non-express lines), as well as the JR subway lines in Tokyo. You can still ride the trains/metro without a JR Pass by paying directly, but buying the pass will likely save you some money in the end.
 
 You can order the JR Pass online to either be shipped to you beforehand, or to be picked up at the airport (~1h line). They come in 7/14/21-day options.
 
 **Stay**  
 I’d recommend staying in Shinjuku, one of the most populous areas, where you'll find lots of restaurants, malls/shops, and subway stops nearby.  Shibuya is another area that's good for the same reasons, though central Shibuya and the famous Shibuya Scramble Crossing can feel a bit like Times Square with the crowds, so I prefer it less. 
 
-For lodging, Airbnbs look to be much cheaper than hotels (30%+ cheaper), especially for longer stays. But Airbnbs can be a bit hit-or-miss with things like: mattress quality or only having Japanese floor futons, your A/C's ability to fight off the Japanese summer humidity, and noise (the Airbnb we stayed at was next to an elementary school so there was a lot of activity in the mornings). YMMV.
+For lodging, Airbnbs look to be much cheaper than hotels (30%+ cheaper), especially for longer stays. But Airbnbs can be a bit hit-or-miss with things like: mattress quality or only having Japanese floor futons, your A/C's ability to fight off the Japanese summer humidity, and noise (I've stayed at one that was next to an elementary school so there was a lot of activity in the early mornings). YMMV.
 
 **Internet and Phone**  
 If you're traveling alone, you can purchase a data SIM card at the airport for some reasonable price (I didn't do this so idk the exact numbers).
 
-You can also purchase a data e-SIM beforehand via a service like [ubigi.com](https://ubigi.com/), which runs you around $17 for 10GB over 30 days (data only). 
+You can also purchase a data e-SIM online via a service like <a target="_blank" href="https://ubigi.com/">Ubigi</a>, which runs you around $17 for 10GB over 30 days (data only). 
 
 If you're traveling in a group, there's also the option to get a Pocket Wi-fi–essentially a portable mobile hotspot device–which you can order ahead online for pick-up/drop-off at the airport. On my 2023 trip, I ordered one from [Ninja WiFi](https://ninjawifi.com/en/) which got me 3GB per day, at $65 for 14 days (so ~$5 USD / day).
 
 <a name="logistics-there"></a>
 ## Logistics when you're there  
 
-**Getting around Tokyo**  
+**Getting around**  
 May Google Maps guide you.
 
-The subway system in Tokyo is extremely robust (with all signs translated in EN too) and reaches all popular areas. I got around mainly by subway, or walking short distances. I took the bus once, which was smooth too (and also had EN translations).
+The subway system in Tokyo is extremely robust (with all signs translated in EN too) and reaches all popular areas. I got around mainly by subway and bus (also has EN translations).
 
-If you don’t have a JR pass, you can get a metro card at the airport or any subway station (an "IC card", from either PASSMO or SUICA brands, but they function the same) or via the SUICA app, and load money onto it (cash only). This lets you ride any subway line in Tokyo (whereas the JR Pass which only lets you ride free on JR lines).
+To pay for the subway and bus, you'll need a metro card (an "IC card", from either PASSMO or SUICA brands, but they function the same).
+* You can set up and load your metro card on Apple/Google Pay or the PASSMO or SUICA apps
+* If your phone is like mine (Samsung Galaxy S23U) and doesn't have the appropriate hardware to support this, you'll need to buy a physical metro card which only loads with cash :(
 
 Subway fares are usually ~¥200-300 one way.
 
 **Money**  
 Japan is still a very cash-heavy country, with many small shops and restaurants not accepting credit cards (larger establishments likely will though).
 
-Metro cards are also only loadable by cash, and if you're out and about a lot expect to spend ~¥1,000 per day on the subway. (Pro-tip: there are unlimited use day-passes for within Tokyo for ¥900 that you can buy at the machine and load onto your card. Or consider even getting a monthly pass if you're going to be there for more than 14d, it was priced at ~¥17,500 IIRC.)
+Physical IC cards are also only loadable by cash (digital ones can be loaded by credit card), and if you're out and about expect to spend ~¥1,000 per day on the subway.
 
-For reference: on my 2023 trip I exchanged ~$400 USD over my 14-day trip, mainly spent on the metro and restaurants/food stalls.
+For reference: on my 2023 trip I exchanged ~$400 USD total over 14 days, mainly spent on the metro and restaurants/food stalls.
 
 On exchanging currency:  
 
-* Kinda obvious but worth mentioning: check the exchange rate on Google ("usd to yen") and try to get as close to that as you can anytime you exchange currency
+* Kinda obvious but worth mentioning: check the exchange rate on Google ("1 usd to yen") and try to get as close to that as you can anytime you exchange currency
 * Airport rates are actually pretty good, so don't hesitate to exchange currency at the airport
 * In the city, the best rate I saw was at this [Interbank](https://www.interbank.co.jp/) shop near Shinjuku station (~1% off). There are also local currency exchange shops in hubs like Shinjuku and Shibuya that can be hit or miss in efficiency (~5% off), and then there are Travelex's which had the worst rates I saw (~10% off)
-* 7 BANK ATMs (similar logo to 7-ELEVEN, but these ATMs can also be found in malls) are worth mentioning as a last last resort. You can withdraw yen from your bank account via your debit card, but US banks will hit you with a $5 fee + 3% foreign exchange fee, which makes your effective exchange rate like 10% worse
+* 7 BANK ATMs (similar logo to 7-ELEVEN, but these ATMs can also be found in malls) are worth mentioning as a last last resort. You can withdraw yen from your bank account via your debit card, but you will incur a ~$2 ATM fee + US banks will hit you with an additional $5 fee + 3% foreign exchange fee, which makes your effective exchange rate like 10% worse
 
 
 **Searching restaurants**  
@@ -83,11 +89,12 @@ To see more local ratings and reviews, try [Tabelog](https://tabelog.com/en/toky
 **Restaurant reservations**  
 One downside of data SIMs or pocket Wi-fis is that you won't have a phone number, which is frustratingly useful in Japan mostly for calling restaurants or services to make reservations. So if you're trying to dine at fancy restaurants that need reservations, consider getting a SIM that has calling capabilities. Normal restaurants do take walk-ins though.
 
-Alternatives to having a phone number are:  
+Alternatives to having a JP phone number are:  
 
 * If you're staying at a hotel, you can ask the hotel concierge to call the restaurant to make a reservation for you
 * Some restaurants are contactable by LINE (the primary messaging app in Japan), so try via LINE (would also recommend downloading the app and making an account beforehand)
 * If you're extroverted enough and make friends with a Japanese person and get their contact info, they may be able to help make reservations for you at their favourite places
+* If you're willing to eat any international calling fees from your US phone plan, you can call JP phone numbers using your US phone number
 
 **Laundry**  
 Japanese apartments (and therefore Airbnbs) will commonly have a washer but no dryer, and you dry your clothes on the patio or on hanging rods inside the room. But in the summer when it's humid, it might take clothes a couple of days to air-dry, depending on your place.
@@ -104,14 +111,17 @@ My recommendations:
 
 * **Daikanyama & Nakameguro:** Two districts right next to each other that I’d definitely recommend visiting. **Daikanyama** is a beautifully hip area full of cool clothing stores and small winding roads. Check out the Tsutaya bookstore and the unique Starbucks located inside. **Nakameguro** is right along the Meguro River which is [stunning](https://www.instagram.com/p/BSe7IQMhc0H/) during cherry blossom season, and is lined with various cute shops for food/clothing/accessories. The Tokyo [Starbucks Reserve Roastery](https://www.starbucksreserve.com/en-us/locations/tokyo) is also here
 * **Harajuku:** Mostly for walking and beholding IMO (actual shopping is covered next). Stroll through [Takeshita-dori Street](https://www.tripadvisor.com/Attraction_Review-g1066456-d1373790-Reviews-Takeshita_Street-Shibuya_Tokyo_Tokyo_Prefecture_Kanto.html) in Harajuku, a crazy dense street lined with cool shops, and people-watch. If you're into shrines and trees, visit Meiji Jingu
-* **Omotesando & Ura-Harajuku:** Right next to Harajuku is **Omotensando**. This is Shopping Central for your more typical retail experience; find your global brands and Japanese brands here, as well as the popular [kaleidoscope escalator](https://www.pursuitofart.com/blog/kaleidoscopic-mirrored-escalator-tokyo-plaza-omotesando-harajuku). Then go to "**Ura-hara**" (meaning "behind Harajuku") to shop some lauded but kinda secret local brands (see "Shopping" section below)
+* **Omotesando & Ura-Harajuku:** Right next to Harajuku is **Omotensando**. This is Shopping Central for your more typical retail experience; find your global brands and Japanese brands here, as well as the popular [kaleidoscope escalator](https://www.pursuitofart.com/blog/kaleidoscopic-mirrored-escalator-tokyo-plaza-omotesando-harajuku). Then go to "**Ura-hara**" (meaning "behind Harajuku") to shop some lauded but kinda secret local brands (see "[Shopping](#shopping)" section below)
 * **Shinjuku:** My favourite place to walk around. A bustling area with tons of restaurants, shops, malls, and arcades
-* **Shibuya:** Mainly for the famous Shibuya Crossing. There are also a lot of stores and restaurants in the area. If you're into luxury thrift shopping, check out the two [Kindals](https://www.kind.co.jp/) here
-* **Asakusa:** Visit [Sensoji Temple](https://www.japan-guide.com/e/e3001.html) and the shops that precede it. Check out [Sokichi](https://goo.gl/maps/5FNPoL85dXAvVDiG6), a shop that sells beautiful [edo-kiriko](https://kogeijapan.com/locale/en_US/edokiriko/)-style sake cups and other glassware, if you're into that sort of thing. Grab lunch at Namiki Yabusoba (see "Food" section below). The Uniqlo in Asakusa also offers their custom print and embroidery service, and is [supposedly faster](https://www.tripadvisor.com/ShowTopic-g298184-i861-k14339135-Uniqlo_shops_with_embroidery-Tokyo_Tokyo_Prefecture_Kanto.html) than the Ginza store (I ordered a couple shirts to be embroidered that were ready at noon the next day)
+* **Shibuya:** Mainly for the famous Shibuya Crossing. There are also a lot of big malls and restaurants in the area
+* **Aoyama:** Directly west of Shibuya. Similar-ish vibe to Daikanyama and Ura-hara, this area is also beautifully hip and full of shopping. If you're into museums, the <a target="_blank" href="https://maps.app.goo.gl/J9Soqmf9AGgY7oaVA">Nezu Museum</a> in the area is quite nice
+* **Tsukiji Market:** Covered in its own [section](#tsukiji) below
+* **Asakusa:** Visit [Sensoji Temple](https://www.japan-guide.com/e/e3001.html) and the shops that precede it.  The Uniqlo in Asakusa also offers their custom print and embroidery service, and is <a target="_blank" href="https://www.tripadvisor.com/ShowTopic-g298184-i861-k14339135-Uniqlo_shops_with_embroidery-Tokyo_Tokyo_Prefecture_Kanto.html">supposedly faster</a> than the Ginza store (I ordered a couple shirts to be embroidered that were ready at noon the next day). If you're into glassware, check out [Sokichi](https://goo.gl/maps/5FNPoL85dXAvVDiG6), a shop that sells beautiful [edo-kiriko](https://kogeijapan.com/locale/en_US/edokiriko/)-style sake cups and other pretty glassware
 * **Tokyo Skytree:** 1 stop after Asakusa. Would recommend going for the view, and marvelling at just how huge Tokyo is
-* **Ginza:** Like 5th Avenue in NYC, with all the luxury brand stores. Visit the massive 12-floor Uniqlo flagship store, especially for their sweet exclusive t-shirt and tote bag designs. There are also a bunch of good restaurants in Ginza
-* **Akihabara:** Anime, trading cards, electronics, and what I call "maid zombies". Visit Animate for the latest anime releases and merch, and Mandarake for secondhand manga and other paraphernalia. For secondhand anime figurines, the prices can vary wildly between stores – I’d recommend looking at shops that are farther away from Akihabara Station, like TRADERS. For new figures, check out AmiAmi (or DM me if you want any tips 😛). Arcades here are pretty crowded so I prefer going to the ones in Shinjuku or Shibuya instead. Also, a depressing number of girls in maid outfits line the main streets soliciting for the maid cafes that employ them (it was like 5x less in 2019, I swear)
+* **Ginza:** Like 5th Avenue in NYC, with all the luxury brand stores. Visit the massive 12-floor Uniqlo flagship store, especially for their sweet exclusive t-shirt and tote bag designs. There are also a bunch of good restaurants here
+* **Akihabara:** Anime, trading cards, electronics, and what I call "maid zombies". Visit Animate for the latest anime releases and merch, and Mandarake for secondhand manga and other paraphernalia. For secondhand anime figurines, the prices can vary wildly between stores – I’d recommend looking at shops that are farther away from Akihabara Station, like TRADERS. For new figures, check out AmiAmi (or DM me if you want any tips 😛). Arcades here are pretty crowded so I prefer going to the ones in Shinjuku or Shibuya instead. Also, a depressing number of girls in maid outfits line the main streets soliciting for the maid cafes that employ them (the "maid zombies". It was like 5x less in 2019, I swear)
 
+<a name="tsukiji"></a>
 ### Tsukiji Market
 This one gets its own subsection. Beware: a lot of the shops are closed on Wednesdays so plan accordingly.
 
@@ -155,22 +165,27 @@ Generally considered affordable fast food and late night food in Japan. Here are
 
 ### Other Noodles
 
-* **\*STRONG REC\* [Tsukemen Gonokami Seisakuso](https://goo.gl/maps/eZNwnJXAy1BZ7Z5z5) (Shinjuku):** The noodles I still think about regularly. Delicious shrimp tsukemen (dipping noodles) near Shinjuku Station. Go at least 15 mins before they open on a weekday morning. Order by vending machine (cash).
+* **\*STRONG REC\* [Tsukemen Gonokami Seisakuso](https://goo.gl/maps/eZNwnJXAy1BZ7Z5z5) (Shinjuku):** I still think about The noodles here regularly. Delicious shrimp tsukemen (dipping noodles) near Shinjuku Station. Go at least 20 mins before they open on a weekday morning to make the first seating. Order by vending machine (cash).
 * **[Namiki Yabusoba](https://goo.gl/maps/pGQDqmRFgGbpagbF7) (Asakusa):** Soba restaurant recommended by our chef at Sushi Yuu, where his family has been dining at since his great-grandparents' time. Solid; would recommend the hot or cold tempura soba.
 
 ### Seafood
 * **\*STRONG REC\* [Tsujihan](https://goo.gl/maps/9gmdCVVxXjepUy7G8) (Nihombashi):** Trendy/hyped luxurious seafood rice bowl that is worth the wait. Go 1h before they open, or at an off-hour like 3 PM (though expect a 30min+ wait still). This is the main branch, and other branches in the city might have smaller lines though YMMV. Cash only.
-* **\*STRONG REC\* [Kanemasu](https://goo.gl/maps/w3jfthdtJAizZv7F9) (Kachidoki):** This 12-person standing-bar-service-only restaurant is an absolute hidden gem. Really fresh and exquisite seafood dishes. I’d highly recommend the crab salad, and the wagyu + uni dish. No English menu, but I was able to show them [pictures](https://www.tripadvisor.com/Restaurant_Review-g1066444-d11909267-Reviews-Kanemasu-Chuo_Tokyo_Tokyo_Prefecture_Kanto.html) on my phone of what I wanted to order. Cash only.
-* **[Tsunahachi](https://goo.gl/maps/cm3xpQAb3Q6ZDqPV8) (Shinjuku):** Tempura restaurant with various prix fixe and à la carte options for seafood, fish, and vegetables. Their anago (freshwater eel) tempura is insane. Reservation likely not needed, but it can get busy.
+* **\*STRONG REC\* [Kanemasu](https://goo.gl/maps/w3jfthdtJAizZv7F9) (Kachidoki):** Last visited in 2019 so idk if it's still around. This 12-person standing-bar-service-only restaurant is an absolute hidden gem. Really fresh and exquisite seafood dishes. I’d highly recommend the crab salad, and the wagyu + uni dish. No English menu, but I was able to show them [pictures](https://www.tripadvisor.com/Restaurant_Review-g1066444-d11909267-Reviews-Kanemasu-Chuo_Tokyo_Tokyo_Prefecture_Kanto.html) on my phone of what I wanted to order. Cash only.
+* **[Tsunahachi](https://goo.gl/maps/cm3xpQAb3Q6ZDqPV8) (Shinjuku):** Tempura restaurant with various prix fixe and à la carte options for seafood, fish, and vegetables. Their anago (freshwater eel) tempura is insane. Reservation (phone only) likely not needed, but it can get busy.
 
 ### Sushi
-* **[Sushi Yuu](https://goo.gl/maps/G4Y2kURrp8st3wcd8) (Nishiazabu):** Omakase sushi with Daisuke-san, the stellar chef and host who speaks English. My prior SF vs Tokyo omakase experiences have been pretty close, so I wasn't seeking out omakase in Tokyo again, but this place is worth it. Best toro-taku roll I've had in my life (kinda like negitoro but it's minced fatty tuna, shiso, and pickled radish).  Reservations required.
-* **[Kaiten Sushi Numazuko](https://goo.gl/maps/yEbe54DVLvKTmVoQ8) (Shinjuku):** I have a soft spot for this no-frills conveyor belt sushi spot that I went to multiple times on my 2019 trip. It's lost a bit of its luster since then but it was still a solid lunch when I went in 2023. They have all the good stuff: seared salmon, salmon belly, aji, kinmedai, shima-aji, negitoro, toro-taku. The aburi (seared) engawa was killer. Uni and o-toro were just meh though, get your fill at Tsukiji or fancy sushi instead.
+* **[Sushi Yuu](https://goo.gl/maps/G4Y2kURrp8st3wcd8) (Nishiazabu):** Omakase sushi with Daisuke-san, the stellar chef and host who speaks English. I generally think omakase in SF vs Tokyo do not differ by that much besides maybe price, but this place is worth going to. Best toro-taku roll I've had in my life (like negitoro but it's minced fatty tuna, shiso, and pickled radish).  Reservation required.
+* **Conveyor belt sushi or Standing sushi:** These are no-frills everyday options for great quality sushi for the price (enjoy an absolute feast for like $30). They also often still have the interesting stuff like seared salmon, salmon belly, seared (_"aburi"_) engawa, etc. Usually the _uni_ and _o-toro_ are just meh though, get your fill at Tsukiji or fancy sushi instead. Example spots I've been to that are good:
+    * [Kaiten Sushi Numazuko](https://goo.gl/maps/yEbe54DVLvKTmVoQ8) (Shinjuku)
+    * [Kanazawa Maimon Sushi](https://maps.app.goo.gl/XUEFZLnfK4VePXxU6) (Shibuya)
+    * [Uogashi Nihon-ichi](https://maps.app.goo.gl/UC9cK9KLzoDZYWDJ9) (Shibuya)
 
 ### Izakaya and Yakitori
-* **[魚まみれ眞吉 渋谷店](https://goo.gl/maps/YDDPfMaJhfaXiMMQ9) (Shibuya):** solid seafood izakaya, recommended by our personal colour analyst Emi. We got the "Foreginer's Set Menu" which was actually pretty legit (i.e. it included a steamed fish head).
-* **[Omoide Yokocho](https://goo.gl/maps/sHnZa7jTd8nUNiG46) (Shinjuku):** Dive-y alleyway full of yakitori (grilled skewers) spots. Most places only have seats for 10-ish. Cool vibes, though lots of smoke, and good for some late night grilled meat (chicken skin!) and beer. Fairly tourist-y nowadays and can get packed.
+* **\*STRONG REC\* [Saitamaya](https://maps.app.goo.gl/RXr6m5V1KA94k7hs6) (Higashi-Jujo):** Yakiton restaurant, i.e. pork skewers. Absolutely incredible experince, though not for everyone. See my [review](https://goo.gl/maps/DBBvFjksVcqnn6Ak6) for more details.
+* **[魚まみれ眞吉 渋谷店](https://goo.gl/maps/YDDPfMaJhfaXiMMQ9) (Shibuya):** solid seafood izakaya, recommended by our personal colour analyst Emi. We got the "Foreginer's Set Menu" which was actually pretty legit (it included a steamed fish head).
 * **[新宿のけむり 焼鳥 居酒屋](https://goo.gl/maps/emrmxczxLYKY2k518) (Shinjuku):** More of a full sit-down restaurant than the 12-seaters in Omoide Yokocho. Order by iPad, but still with all the classsics like negima, tsukune, skin, gizzard, heart, etc. at a good price. More local too.
+* **[Teppan Baby](https://maps.app.goo.gl/ovewXeUTWzx1dXvcA) (Shinjuku):** Okonomiyaki spot that's very lively, legit, and foreigner-friendly. Reservation (online) recommended.
+* **[Omoide Yokocho](https://goo.gl/maps/sHnZa7jTd8nUNiG46) (Shinjuku):** Dive-y alleyway full of yakitori (grilled skewers) spots. Most places only have seats for 10-ish. Cool vibes, though lots of smoke, and good for some late night grilled meat (chicken skin!) and beer. Fairly tourist-y nowadays and can get packed.
 
 ### Meat
 * **[Katsukura](https://goo.gl/maps/H6XFSbLndJfwCDYF7) (Shinjuku):** Pork tonkatsu restaurant with high quality meat, located on the 14th floor of the Takashimaya mall. Reservation likely not needed, but it can get busy.
@@ -178,9 +193,9 @@ Generally considered affordable fast food and late night food in Japan. Here are
 * **[Nabezo](https://goo.gl/maps/4BqEe5TdE3PtXvfL7) (Shinjuku):** Shabu shabu (JP hot pot) restaurant with high quality meat. Reservation recommended.
 * **[KINTAN](https://goo.gl/maps/shosnJwt6cfGwptY6) (Harajuku):** Yakiniku (JP BBQ) restaurant with some high quality beef. Reservations available though maybe not needed.
 
-### Other
-* **Dashi Chazuke (Shinjuku):** Not sure if it still exists... Tiny ochazuke place (tea + dashi over rice) inside Shinjuku Station; good for a light breakfast. Order via vending machine (cash).
-* **[Seirinkan](https://goo.gl/maps/hYDm7CCaLozAFsXi8) (Nakameguro):** I didn't get to go here, but apparently they make _incredible_ Napoli pizza.
+### Napoli Pizza (I'm serious)
+* **[Seirinkan](https://goo.gl/maps/hYDm7CCaLozAFsXi8) (Nakameguro):** Great lunch spot if you're in Nakameguro/Daikanyama. Pretty good margherita, and very good pizza bianca.
+* **[SAVOY](https://maps.app.goo.gl/UJyPtWrhW7LgzqcT9)** or **[Savoy Tomato & Cheese](https://maps.app.goo.gl/pMXZDGn5awGC3GZU9) (Azabujuban):** Haven't been, but they're on my list. I've been told they make fantastic Napoli pizza.
 
 There are also a lot of TikToks/Insta Reels with good-looking food recs if you search for Tokyo. 
 
@@ -188,14 +203,15 @@ There are also a lot of TikToks/Insta Reels with good-looking food recs if you s
 ## Coffee/Kissaten
 From a friend’s recommendation I discovered the _Kissaten_ scene in Tokyo, and a large chunk of my 2019 trip was sitting down at various coffeeshops with a good book. 
 
-_Kissaten_ are Japanese-style tearooms/coffee shops. Most are based on, and some are actually from!, the Showa Era in Japan (1926-1989), with their signature wood counters where they serve you pour-over coffee in a china teacup.
+_Kissaten_ are Japanese-style tearooms/coffee shops. Most are based on -- and some are actually from! -- the Showa Era in Japan (1926-1989), with their signature wood counters where they serve you pour-over coffee in a china teacup.
 
 Cafés, in descending order of how much I liked them:
 
-* **[Chatei Hatou](https://peoplemakeplaces.com/place/chatei-hatou/) (Shibuya):** Beautiful and classy kissaten. The GOAT, maybe. Their aged coffee is a must-try.
-* **[Tajimaya Coffee](https://tajimaya-coffeeten.com/) (Shinjuku):** Another great kissaten. Would recommend the Choco-Nut Toast set (comes with coffee). Can get packed on weekends, and is a smoking establishment. Cash only.
+* **[Chatei Hatou](https://peoplemakeplaces.com/place/chatei-hatou/) (Shibuya):** Beautiful and classy kissaten. The GOAT, maybe. If you get a counter seat, get their aged coffee for a unique pour-over experience.
+* **[Tajimaya Coffee](https://tajimaya-coffeeten.com/) (Shinjuku):** Another great kissaten. Would recommend the Choco-Nut Toast set (comes with coffee). Can get packed on weekends. Smoking establishment. Cash only.
 * **[Cafe de l’ambre](https://tokyocoffee.org/2016/05/29/cafe-de-lambre/) (Ginza):** Get their specialty: the Blanc & Noir. They chill their coffee by putting it in a cocktail mixer and spinning it on a giant slab of ice!
 * **[Onibus Coffee](https://onibuscoffee.com/en/pages/copy-of-onibus-coffee-nakameguro) (Nakameguro):** Cute storefront with an upstairs with treehouse vibes
+* **[Coffee Times](https://maps.app.goo.gl/wN3tvycWVRDVMCJaA) (Shinjuku):** Kissaten in the middle of a populous section of Shinjuku. Also serves pasta. Smoking establishment. Cash only.
 * **[Double Tall Coffee](https://doubletall.com/cafe/shinjukugyoen/) (Shinjuku):** Coffee stand with 4 bar seats indoors + some outdoor seating. Cute decor, and a tasty banana caramel latte.
 * **[Coffee Fragile](https://tabelog.com/tokyo/A1304/A130401/13165114/) (Shinjuku):** 1-man operation serving quality pour-over in a dark room lined with wood shelves of old American records. Would recommend the chocolate cake set.
 * **[Starbucks Reserve Roastery](https://www.starbucksreserve.com/en-us/locations/tokyo) (Nakameguro):** One of the many around the world, to ensure that Starbucks will survive in case of an apocalyptic event. Beautiful location with 3 floors and a terrace. There _will be_ a wait at peak times and on weekends–I tried stopping by on my 2023 trip and the wait was 75-90 mins 😲 so we walked over to the Tsutaya Books instead
@@ -220,7 +236,7 @@ There are lots of salons in Tokyo offering this service at a reasonable price, w
     * Note: this salon appears to be [booked out months in advance](https://bestcolors4you.com/%e3%81%94%e4%ba%88%e7%b4%84%e5%8f%af%e8%83%bd%e6%97%a5/), so book early!
 * To find other options, I'd recommend googling "パーソナルカラー診断 東京" (= "personal colour analysis tokyo"), contacting them (ideally in English + some Google-Translated-Japanese), and asking if they offer service in English. This is how I found my place actually!
 
-<a name="shooping"></a>
+<a name="shopping"></a>
 ## Shopping
 I did A LOT of shopping this time around, split between luxury thrift stores, Japanese modern brands, and dinnerware.
 

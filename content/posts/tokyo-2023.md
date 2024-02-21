@@ -17,6 +17,7 @@ _Last updated on Feb 20, 2024._
 * [Logistics before](#logistics-before) (flights, lodging, mobile data)
 * [Logistics there](#logistics-there) (transit, cash, restaurants, laundry)
 * [Districts](#districts)
+    * [Tsukiji Market](#tsukiji) specifically
 * [Food recs](#food)
 * [Coffee recs](#coffee)
 * [Personal Colour Analysis](#colour)

@@ -244,17 +244,16 @@ Part of this was a superb (for me but not for my wallet) [Airbnb Experience](htt
 
 Here are some of my favourite brands/stores we went to, with Keisuke-san and also on our own:
 
-* [Kindal](https://www.kind.co.jp/) (luxury thrift store chain with locations all around Tokyo and Osaka, we went to like 5 of these lol)
-* [UNITED ARROWS](https://store.united-arrows.co.jp/) (Harajuku and Roppongi Hills locations)
-* [BEAMS](https://www.beams.co.jp/) (Shinjuku) and BEAMS Plus (Harajuku)
+* [Kindal](https://www.kind.co.jp/) -- A luxury thrift store chain with locations all around Tokyo and Osaka. I've been to like 7 of their locations lol
+* [THE NORTH FACE PURPLE LABEL / nanamica](https://www.instagram.com/reel/C1zrzixBKwh/?igsh=MTc4MmM1YmI2Ng==) -- A Japan-exclusive sub-brand of The North Face where every piece is designed by the brand [nanamica](https://us.nanamica.com/). The main PURPLE LABEL store I found in Tokyo is [here](https://maps.app.goo.gl/nxeAnx8udJcFPF9h7)
+* [United Arrows](https://store.united-arrows.co.jp/), and their sub-brand [United Arrows & Sons](https://store.united-arrows.co.jp/brand/uasons/?wovn=en)
+* [BEAMS](https://www.beams.co.jp/), and their sub-retailer [BEAMS PLUS](https://www.beams.co.jp/global/label/beamsplus/)
+* [POST O'ALLS](https://postoveralls.com/) -- Sold at BEAMS PLUS, and they also have a [store](https://maps.app.goo.gl/5gpmzSgsv4JGYN6VA) in Nakameguro
+* [glamb](https://www.glamb-lodge.com/) -- Some cool anime collab pieces with JoJo and Chainsaw Man
+* [Snow Peak](https://www.snowpeak.com/)
 * [FreshService](https://freshservice.jp/)
-* [MINEDENIM](https://minedenim.co.jp/)
-* [GLAD HAND & Co.](https://shop.glad-hand.com/)
-* [glamb](https://www.glamb-lodge.com/)
 * [sacai](https://www.sacai.jp/en-pt/)
-* [White Mountaineering](https://whitemountaineering.com/)
-* [Yohji Yamamoto](https://www.yohjiyamamoto.co.jp/en/)
-* [Stone Island](https://www.stoneisland.com/us) (not a JP brand, but was sold a lot in stores in Tokyo and I like their stuff)
+* [Yohji Yamamoto](https://www.yohjiyamamoto.co.jp/en/) -- mostly to look at, as art
 
 [Here](https://www.google.com/maps/dir/Tokyu+Plaza+Omotesando+Harajuku/BEAMS+Plus/UNITED+ARROWS+HARAJUKU/GLADHAND+core/FreshService+headquarters/Minedenim/glamb+Tokyo%E3%80%90%E3%82%B0%E3%83%A9%E3%83%A0%E3%83%88%E3%83%BC%E3%82%AD%E3%83%A7%E3%83%BC%E3%80%91/@35.6722778,139.7109542,18.14z/data=!3m1!5s0x60188ca2a71475a9:0xeb0156632639acb9!4m44!4m43!1m5!1m1!1s0x60188ca47d9d408f:0xcad336117f4b7838!2m2!1d139.7059549!2d35.6687294!1m5!1m1!1s0x60188ca337af3f83:0xf01d94c88ad9d9e2!2m2!1d139.7079074!2d35.6713425!1m5!1m1!1s0x60188ca2d100f971:0xc6dc5cba5976a3de!2m2!1d139.7093964!2d35.6720009!1m5!1m1!1s0x60188cbd3909383d:0x6cf055878a364fde!2m2!1d139.7100641!2d35.6734258!1m5!1m1!1s0x60188c97dbf95555:0x8bde526f8c128d7f!2m2!1d139.7121599!2d35.6727041!1m5!1m1!1s0x60188c9841d70eab:0x80896f8c7449838d!2m2!1d139.7128494!2d35.6724846!1m5!1m1!1s0x60188c980a7ade45:0x5904be2a497b99ef!2m2!1d139.7114913!2d35.6725055!3e2?entry=ttu)'s the route we walked for our Airbnb Experience, which hit most of these.
 

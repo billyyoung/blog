@@ -154,7 +154,9 @@ There are also tons of good TikToks/Insta Reels that cover how to enjoy Tsukiji 
 
 <a name="food"></a>
 ## Food
-Here are the places I ate at over my few trips that I would recommend. Most have English menus, unless otherwise stated, and take credit card, unless otherwise stated.
+Here are some places I would recommend. Most have English menus, unless otherwise stated, and take credit card, unless otherwise stated.
+
+For a more comprehensive list with additional commentary (of ~80 spots, including the ones mentioned below), here's my [list](https://maps.app.goo.gl/JkKpqANEaDnb5Pm3A) on Google Maps.
 
 ### Ramen
 Generally considered affordable fast food and late night food in Japan. Here are the few spots that are worth seeking out.

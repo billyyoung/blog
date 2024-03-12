@@ -12,11 +12,11 @@ Prior to the trip I'd finally started making consistent progress on losing some 
 
 Alas, I know I'll be eating much more on this trip than in my usual day-to-day in SF. I'll definitely, absolutely gain a few pounds (Narrator: it was more like 5-6). And I'm OK with that; I _want_ to eat a lot on this trip and enjoy all the delicious local food, and I _also know_ I'll be able to work my weight back down once I'm home and on my normal routine again.
 
-But this post isn't about how to lose weight. Or at least not like in a "5 Weight Loss Hacks You Need To Try" kind of way. No, this post is about all the thoughts and feelings and history so many of us have surrounding the topic of weight and weight loss. For me it's my messy entangled web of my relationships with: food, my physical body, my body image, how I'm viewed and how I think I'm viewed, goal-setting and failure, habits, cultural and societal bloatware, and more.  
+But this post isn't about how to lose weight. Or at least not like in a "5 Weight Loss Hacks You Need To Try" kind of way. No, this post is about all the thoughts and feelings and history so many of us have surrounding the topic of weight and weight loss. For me it's my messy entangled web of my relationships with: food, my physical body, my body image, how I view myself, how I think I'm viewed, goal-setting, failure, habits, cultural and societal bloatware, and more.
 
 (E.g. even at 180 lbs, I fall into the [BMI category of 'Overweight'](https://www.cdc.gov/healthyweight/assessing/bmi/adult_bmi/index.html#Interpreted). Not a particularly useful measure IMO, but it's one that I've had applied to me since I was a kid. I also happen to weigh more than \*I\* would like to, and I've been working to change that, also roughly since I was a kid.)
 
-Trying to make change within this context has been quite hairy! I cycled through the typical New Year's Resolution type of process of trying to change something (e.g. diet, exercise), failing due to emotional reasons or logistical reasons or both, beating myself up about failing or avoiding the thing after, processing, then trying again or trying a different tactic. And nothing seemed to really work. But then all of a sudden, it did. 
+Trying to make change within this context has been quite hairy! I cycled through the typical New Year's Resolution type of process of trying to change something (e.g. diet, exercise), failing due to emotional reasons or logistical reasons or both, beating myself up about failing, avoidance, processing, then trying again / trying a different tactic. And nothing seemed to really work. But then all of a sudden, it did.
 
 I realize now that in the years (years!) I've been trying, I've come to understand myself better and I _have_ slowly been changing my relationships with food, body image, how I view myself, and change management.  And I've started carving out a path of less and less resistance to continue losing weight--I found some combination of things that work for me, and that I can keep up. 
 
@@ -24,12 +24,12 @@ I realize now that in the years (years!) I've been trying, I've come to understa
 
 **Lifting to lose weight**
 
-* My theory was if I got bigger muscles, but ate the same amount, then the muscles would consume more energy = weight loss, lol
+* My theory was if I got bigger muscles, but ate the same amount, then the muscles would consume more energy = weight loss
 * In reality, working out increased my appetite so I ended up just bulking. I got stronger, but gained weight/muscle
 
 **Cutting / eating clean**  
 
-* The stereotype of just eating brown rice, boiled chicken breast, and blanched veg is real and it works, but there's not too enough joy and variety in it for me
+* The stereotype of just eating brown rice, boiled chicken breast, and blanched veg is real and it works, but there's too little joy and variety in it for me
 
 **Counting calories / macros**
 
@@ -39,13 +39,13 @@ I realize now that in the years (years!) I've been trying, I've come to understa
 
 **Lifting to gain muscle to look and feel good**
 
-* Putting on some muscle got me to like my body more, like "Oh I can look like this?"
+* Putting on some muscle got me to like my body more, like "Oh I'm kinda hot. I can look like this?"
 
 **Learning tidbits about food science, diet, satiety**
 
-* Understanding it's about having a calorie deficit
-* Having a reference for the size of the deficit: there is an apparently not so accurate measure of 1 lb of body fat = 3,500 calories, meaning that's how many calories you need to be in deficit over time to lose 1 lb of body fat
-  * It may not be accurate but it's probably in the ballpark, and even just knowing the ballpark is useful
+* Caloric deficit is king, truly
+* Having a reference for the size of the deficit: there is a sort-of-accurate measure of 1 lb of body fat = 3,500 calories, meaning that's how many calories you need to be in deficit over time to lose 1 lb of body fat
+  * It may not be 100% accurate but it's probably in the ballpark, and even just knowing the ballpark is useful
 * Satiety, and how eating protein makes you feel more full, for longer, than eating carbs does, and when you're hungry at midnight it's often cus your body wants more protein
 
 **Intermittent Fasting (IF)**
@@ -60,14 +60,14 @@ I realize now that in the years (years!) I've been trying, I've come to understa
 
 **Exercise**  
 
-* 2x volleyball and 1x running per week, and biking around the city
+* 2x lifting, 2x volleyball, and 1x running per week, and biking around the city
 * Most of this is from having a roommate to cocreate a [supportive context](https://twitter.com/visakanv/status/1527658417044656128) with
 
 **Cooking at home**
 
 * I cook most of my meals, and I don't eat out very much (where it's easy for me to overeat, get dessert, etc.)
 * Nothing too extreme. [Here](https://twitter.com/billyisyoung/status/1537582264485179392) are some low- to medium-effort dinners I've cooked
-* I try to get in a reasonable amount of protein if possible (callback to the Food Science section)
+* I try to get in a reasonable amount of protein if possible (callback to the section on satiety)
 * I _have_ decided to cut down on pasta because while it's delicious, it's not enough protein to be filling nor conducive to my goals
   * Shrimp scampi is still OK because I can put in a lot of shrimp and reduce the amount of pasta
   * Carbonara is less OK but still not terrible (and also entirely too delicious)

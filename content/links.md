@@ -10,10 +10,10 @@ Also consider following all of these awesome people on Twitter!
 
 ---
 
-[6am](http://idealistmag.com/6am/)
-([Riva-Melissa Tez](https://twitter.com/rivatez))
+[6am](https://www.hardtowrite.com/6am-published-the-idealist/)
+([Riva Tez](https://twitter.com/rivatez))
 --- A reflection on how much there is to marvel at and learn about and do.  Big mood.  
-"It’s a weird paradox to be so in awe with life that it leaves you detached from important sleep. To be in awe. That’s what the days are for."
+"It’s a weird paradox to be so in awe with life that it leaves you detached from important sleep. _To be in awe._ That’s what the days are for."
 
 [Dumb Tweeting/Smart Writing](https://twitter.com/visakanv/status/1088347054974201858)
 ([Visakan Veerasamy](https://twitter.com/visakanv))

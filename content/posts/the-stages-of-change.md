@@ -1,7 +1,7 @@
 ---
 title: "The Stages of Change"
 date: 2024-03-23T16:00:00-07:00
-description: "Why is this taking forever?"
+description: "\"Why is this taking forever?\""
 type: "posts"
 mins: 2
 ---

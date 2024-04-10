@@ -27,7 +27,7 @@ In June 2023 [I left my job](https://billy.dev/posts/new-game-plus/) of 7 years 
 
 <a name="now"></a>
 ## What I'm doing now
-<small>_Inspired by Derek Sivers' [now page](https://nownownow.com/about) movement. Last updated on Jan 17, 2024._</small>
+<small>_Inspired by Derek Sivers' [now page](https://nownownow.com/about) movement. Last updated on Apr 9, 2024._</small>
 
 ### Living in SF
 I moved to San Francisco after graduating college in 2016, and I've been living here since (8 years now!). But I think from 2020 onward is when I really started to enjoy living here. Most Sunday mornings you can find me playing [volleyball](https://heylo.group/sfbv) at Ocean Beach.
@@ -51,14 +51,14 @@ Right now I'm spending my time:
 - Playing the drums, learning new songs, and making the occasional [cover video](https://www.youtube.com/watch?v=H7jtI4stySI)
 - [Drawing](https://www.instagram.com/billyy_art/)
 
-Projects I've completed so far:
+Projects I've completed since June 2023:
 
 1. [Sabbatical Notes #1](https://billy.dev/posts/sabbatical-notes/1-doing/) post
-1. [Sabbatical Notes #2](https://billy.dev/posts/sabbatical-notes/2-fun/) post
+1. [Sabbatical Notes #2: Fun](https://billy.dev/posts/sabbatical-notes/2-fun/) post
 1. [Give Your Gift](https://tasshin.com/give-your-gift/) program, cohort #2
 1. [Taylor Swift - Mine (Taylor's Version)](https://www.youtube.com/watch?v=H7jtI4stySI) drum cover
 1. Creating this new [About Me]() page and [Now](#now) page
-1. [Sabbatical Notes #3](https://billy.dev/posts/sabbatical-notes/3/) post
+1. [Sabbatical Notes #3: Goals](https://billy.dev/posts/sabbatical-notes/3/) post
 1. [An Encounter with The Emptiness](https://billy.dev/posts/emptiness) post
 1. [Sabbatical Notes #4: October](https://billy.dev/posts/sabbatical-notes/4/) post
 1. [Sabbatical Notes: July - October](https://billy.dev/posts/sabbatical-notes/recap1/) post
@@ -66,6 +66,8 @@ Projects I've completed so far:
 1. [Taylor Swift - Red (Taylor's Version)](https://www.youtube.com/watch?v=gpUGLWtg9zY) drum cover
 1. [Sabbatical Notes #5: Self-Love](https://billy.dev/posts/sabbatical-notes/5/) post
 1. [2023: Year In Review](https://billy.dev/posts/2023-review/) post
+1. [(How to) Love The Grind](https://billy.dev/posts/love-the-grind/) post
+1. [The Stages of Change](https://billy.dev/posts/the-stages-of-change/) post
 1. 
 
 ## All of my various things

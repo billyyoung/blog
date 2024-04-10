@@ -51,23 +51,32 @@ Right now I'm spending my time:
 - Playing the drums, learning new songs, and making the occasional [cover video](https://www.youtube.com/watch?v=H7jtI4stySI)
 - [Drawing](https://www.instagram.com/billyy_art/)
 
-Projects I've completed since June 2023:
+**Projects I've completed since June 2023**
 
-1. [Sabbatical Notes #1](https://billy.dev/posts/sabbatical-notes/1-doing/) post
-1. [Sabbatical Notes #2: Fun](https://billy.dev/posts/sabbatical-notes/2-fun/) post
-1. [Give Your Gift](https://tasshin.com/give-your-gift/) program, cohort #2
-1. [Taylor Swift - Mine (Taylor's Version)](https://www.youtube.com/watch?v=H7jtI4stySI) drum cover
+Blog
+1. [Sabbatical Notes #1](https://billy.dev/posts/sabbatical-notes/1-doing/)
+1. [Sabbatical Notes #2: Fun](https://billy.dev/posts/sabbatical-notes/2-fun/)
 1. Creating this new [About Me]() page and [Now](#now) page
-1. [Sabbatical Notes #3: Goals](https://billy.dev/posts/sabbatical-notes/3/) post
-1. [An Encounter with The Emptiness](https://billy.dev/posts/emptiness) post
-1. [Sabbatical Notes #4: October](https://billy.dev/posts/sabbatical-notes/4/) post
-1. [Sabbatical Notes: July - October](https://billy.dev/posts/sabbatical-notes/recap1/) post
+1. [Sabbatical Notes #3: Goals](https://billy.dev/posts/sabbatical-notes/3/)
+1. [An Encounter with The Emptiness](https://billy.dev/posts/emptiness)
+1. [Sabbatical Notes #4: October](https://billy.dev/posts/sabbatical-notes/4/)
+1. [Sabbatical Notes: July October](https://billy.dev/posts/sabbatical-notes/recap1/)
+1. [Sabbatical Notes #5: Self-Love](https://billy.dev/posts/sabbatical-notes/5/)
+1. [2023: Year In Review](https://billy.dev/posts/2023-review/)
+1. [(How to) Love The Grind](https://billy.dev/posts/love-the-grind/)
+1. [The Stages of Change](https://billy.dev/posts/the-stages-of-change/)
+1. 
+
+Music
+1. [Hamilton -- Dear Theodosia](https://soundcloud.com/billyisyoung/hamilton-dear-theodosia) (song cover)
+1. [Oasis -- Wonderwall](https://soundcloud.com/billyisyoung/oasis-wonderwall) (song cover)
+1. [Taylor Swift -- Mine (Taylor's Version)](https://www.youtube.com/watch?v=H7jtI4stySI) (drum cover)
+1. [Taylor Swift -- Red (Taylor's Version)](https://www.youtube.com/watch?v=gpUGLWtg9zY) (drum cover)
+1. 
+
+Drawing
+1. [Portrait study sketches](https://www.instagram.com/billyy_art/); current cadence is 1/week
 1. [Art vs Artist 2023](https://www.instagram.com/p/C0hcPWjPvPW/) post + [2023 art recap](https://www.instagram.com/reel/C1Fgpi9ObpM/) reel
-1. [Taylor Swift - Red (Taylor's Version)](https://www.youtube.com/watch?v=gpUGLWtg9zY) drum cover
-1. [Sabbatical Notes #5: Self-Love](https://billy.dev/posts/sabbatical-notes/5/) post
-1. [2023: Year In Review](https://billy.dev/posts/2023-review/) post
-1. [(How to) Love The Grind](https://billy.dev/posts/love-the-grind/) post
-1. [The Stages of Change](https://billy.dev/posts/the-stages-of-change/) post
 1. 
 
 ## All of my various things

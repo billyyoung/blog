@@ -65,6 +65,7 @@ Blog
 1. [2023: Year In Review](https://billy.dev/posts/2023-review/)
 1. [(How to) Love The Grind](https://billy.dev/posts/love-the-grind/)
 1. [The Stages of Change](https://billy.dev/posts/the-stages-of-change/)
+1. [Becoming a Fit Person](https://billy.dev/posts/becoming-a-fit-person/)
 1. 
 
 Music

@@ -140,12 +140,12 @@ I regularly fail, slip up, underperform, miss, etc. Beating myself up about prog
 So I'm always thinking about how to manage my psychology better–how do I not smother a spark that's trying to grow? And how do I learn from my mistakes, and then let them go and move on?
 
 ### **Focus my time on what I want to see more of**
-What do I do in my free time? Who am I hanging out with? What content am I consuming?
+What do I do in my free time? Who am I hanging out with? What content am I consuming?[^3]  
 How is my life structured, and how am I spending my time and energy?
 
-Find what you enjoy doing, that's in line with your goals, and do more of that. [^3]
+Find what you enjoy doing, that's in line with your goals, and do more of that.
 
-[^3]: A huge hack that works for me: making my content consumption work for me. Much of the content I follow on Instagram and YouTube now is just stuff I'm passionate about. Psychology, emotions, how to change, interpersonal relationships, high protein meals that are easy to cook, drawing inspiration. So a lot of my screen time ends up being fun and at least somewhat useful to my larger goals. It's kind of like an auto-feeder for my brain. But for <a target="_blank" href="https://www.instagram.com/reel/C5RIHedrxwO/?igsh=MzRlODBiNWFlZA==">good stuff</a>, instead of <a target="_blank" href="https://twitter.com/kendrawcandraw/status/1498023144325582850">like this</a>.
+[^3]: A **huge** hack that I use: making my Content Feed work for me. Much of the content I follow on IG and YouTube now is just stuff I'm passionate about. So a lot of my screen time ends up being fun and at least somewhat useful to my larger goals. E.g. videos on: <a target="_blank" href="https://www.youtube.com/watch?v=10zSvgqwZR0">psychology</a> / <a target="_blank" href="https://www.youtube.com/watch?v=Oj5lA7FfUkI">how to change</a> / <a target="_blank" href="https://www.youtube.com/watch?v=nTWXfo7narw">interpersonal relationships</a> / <a target="_blank" href="https://www.instagram.com/reel/C4y8cpbPqn8/?igsh=MzRlODBiNWFlZA==">high protein meals</a> that are easy to cook / <a target="_blank" href="https://www.youtube.com/watch?v=t4I8O98oWfs">minimalist fitness training</a> / <a target="_blank" href="https://www.instagram.com/p/CvYnvplrcri/?igsh=MzRlODBiNWFlZA==">drawing inspiration</a>. It's kind of like an auto-feeder for my brain, giving me +Wisdom, as opposed to causing <a target="_blank" href="https://twitter.com/kendrawcandraw/status/1498023144325582850">psychic damage</a>.
 
 # Self-love
 I don't really know where to fit this into the larger post, but I want to talk about it so we're sticking it here.

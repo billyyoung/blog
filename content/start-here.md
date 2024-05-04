@@ -13,11 +13,11 @@ Some of my values include: **Beauty**, **Industry** ("to work hard and well at m
 
 My interests tend to cluster around two topics: Personal Development and Doing Things.
 
-I like [introspection](https://billy.dev/posts/letter-29/) and [figuring myself out](https://billy.dev/posts/comparisons/). I like [improving](https://billy.dev/posts/5-25/). I like chatting about psychology, [neuroscience](https://billy.dev/posts/brain-and-ego/) and philosophy of mind, and personality stuff (Enneagram: 4w5; INTJ; cusp-y ♍️☼♐☾♋↑).
+I like <a target="_blank" href="https://billy.dev/posts/letter-29/">introspection</a> and <a target="_blank" href="https://billy.dev/posts/comparisons/">figuring myself out</a>. I like <a target="_blank" href="https://billy.dev/posts/5-25/">improving</a>. I like chatting about psychology, <a target="_blank" href="https://billy.dev/posts/brain-and-ego/">neuroscience</a> and philosophy of mind, and personality stuff (Enneagram: 4w5; INTJ; cusp-y ♍️☼♐☾♋↑).
 
-I like playing music (drums, singing, piano), cooking, drawing, volleyball, coding, and making the occasional [spreadsheet](https://billy.dev/posts/taxes/).
+I like playing music (drums, singing, piano), cooking, drawing, volleyball, coding, and making the occasional <a target="_blank" href="https://billy.dev/posts/taxes/">spreadsheet</a>.
 
-In June 2023 [I left my job](https://billy.dev/posts/new-game-plus/) of 7 years in software engineering, and I'm currently on a sabbatical!
+In June 2023 <a target="_blank" href="https://billy.dev/posts/new-game-plus/">I left my job</a> of 7 years in software engineering, and I'm currently on a sabbatical!
 
 ### Other facts
 - Born in Halifax, NS, Canada; raised in Windsor, ON, Canada
@@ -27,12 +27,12 @@ In June 2023 [I left my job](https://billy.dev/posts/new-game-plus/) of 7 years 
 
 <a name="now"></a>
 ## What I'm doing now
-<small>_Inspired by Derek Sivers' [now page](https://nownownow.com/about) movement. Last updated on Apr 9, 2024._</small>
+<small>_Inspired by Derek Sivers' <a target="_blank" href="https://nownownow.com/about">now page</a> movement. Last updated on Apr 9, 2024._</small>
 
 ### Living in SF
-I moved to San Francisco after graduating college in 2016, and I've been living here since (8 years now!). But I think from 2020 onward is when I really started to enjoy living here. Most Sunday mornings you can find me playing [volleyball](https://heylo.group/sfbv) at Ocean Beach.
+I moved to San Francisco after graduating college in 2016, and I've been living here since (8 years now!). But I think from 2020 onward is when I really started to enjoy living here. Most Sunday mornings you can find me playing <a target="_blank" href="https://heylo.group/sfbv">volleyball</a> at Ocean Beach.
 
-If you're ever in town, I'd [love](https://twitter.com/billyisyoung/status/1745704925831831706) to hear your story. [DM me](https://twitter.com/billyisyoung) and let's grab coffee!
+If you're ever in town, I'd <a target="_blank" href="https://twitter.com/billyisyoung/status/1745704925831831706">love</a> to hear your story. <a target="_blank" href="https://twitter.com/billyisyoung">DM me</a> and let's grab coffee!
 
 ### On sabbatical
 In June 2023 I left my job of 7 years in software engineering, and went on a sabbatical.
@@ -46,45 +46,45 @@ In the meantime, I'm doing creative work that I love.
 ### Sabbatical projects
 Right now I'm spending my time:
 
-- Doing (free) [career consults](https://www.linkedin.com/feed/update/urn:li:activity:7110433966653935616/), answering people's questions about career and career transitions
+- Doing (free) <a target="_blank" href="https://www.linkedin.com/feed/update/urn:li:activity:7110433966653935616/">career consults</a>, answering people's questions about career and career transitions
 - Writing blog posts here
-- Playing the drums, learning new songs, and making the occasional [cover video](https://www.youtube.com/watch?v=H7jtI4stySI)
-- [Drawing](https://www.instagram.com/billyy_art/)
+- Playing the drums, learning new songs, and making the occasional <a target="_blank" href="https://www.youtube.com/watch?v=H7jtI4stySI">cover video</a>
+- <a target="_blank" href="https://www.instagram.com/billyy_art/">Drawing</a>
 
 **Projects I've completed since June 2023**
 
 Blog
-1. [Sabbatical Notes #1](https://billy.dev/posts/sabbatical-notes/1-doing/)
-1. [Sabbatical Notes #2: Fun](https://billy.dev/posts/sabbatical-notes/2-fun/)
-1. Creating this new [About Me]() page and [Now](#now) page
-1. [Sabbatical Notes #3: Goals](https://billy.dev/posts/sabbatical-notes/3/)
-1. [An Encounter with The Emptiness](https://billy.dev/posts/emptiness)
-1. [Sabbatical Notes #4: October](https://billy.dev/posts/sabbatical-notes/4/)
-1. [Sabbatical Notes: July October](https://billy.dev/posts/sabbatical-notes/recap1/)
-1. [Sabbatical Notes #5: Self-Love](https://billy.dev/posts/sabbatical-notes/5/)
-1. [2023: Year In Review](https://billy.dev/posts/2023-review/)
-1. [(How to) Love The Grind](https://billy.dev/posts/love-the-grind/)
-1. [The Stages of Change](https://billy.dev/posts/the-stages-of-change/)
-1. [Becoming a Fit Person](https://billy.dev/posts/becoming-a-fit-person/)
+1. <a target="_blank" href="https://billy.dev/posts/sabbatical-notes/1-doing/">Sabbatical Notes #1</a>
+1. <a target="_blank" href="https://billy.dev/posts/sabbatical-notes/2-fun/">Sabbatical Notes #2: Fun</a>
+1. Creating this new [About Me](#) page and [Now](#now) page
+1. <a target="_blank" href="https://billy.dev/posts/sabbatical-notes/3/">Sabbatical Notes #3: Goals</a>
+1. <a target="_blank" href="https://billy.dev/posts/emptiness">An Encounter with The Emptiness</a>
+1. <a target="_blank" href="https://billy.dev/posts/sabbatical-notes/4/">Sabbatical Notes #4: October</a>
+1. <a target="_blank" href="https://billy.dev/posts/sabbatical-notes/recap1/">Sabbatical Notes: July October</a>
+1. <a target="_blank" href="https://billy.dev/posts/sabbatical-notes/5/">Sabbatical Notes #5: Self-Love</a>
+1. <a target="_blank" href="https://billy.dev/posts/2023-review/">2023: Year In Review</a>
+1. <a target="_blank" href="https://billy.dev/posts/love-the-grind/">(How to) Love The Grind</a>
+1. <a target="_blank" href="https://billy.dev/posts/the-stages-of-change/">The Stages of Change</a>
+1. <a target="_blank" href="https://billy.dev/posts/becoming-a-fit-person/">Becoming a Fit Person</a>
 1. 
 
 Music
-1. [Hamilton -- Dear Theodosia](https://soundcloud.com/billyisyoung/hamilton-dear-theodosia) (song cover)
-1. [Oasis -- Wonderwall](https://soundcloud.com/billyisyoung/oasis-wonderwall) (song cover)
-1. [Taylor Swift -- Mine (Taylor's Version)](https://www.youtube.com/watch?v=H7jtI4stySI) (drum cover)
-1. [Taylor Swift -- Red (Taylor's Version)](https://www.youtube.com/watch?v=gpUGLWtg9zY) (drum cover)
+1. <a target="_blank" href="https://soundcloud.com/billyisyoung/hamilton-dear-theodosia">Hamilton -- Dear Theodosia</a> (song cover)
+1. <a target="_blank" href="https://soundcloud.com/billyisyoung/oasis-wonderwall">Oasis -- Wonderwall</a> (song cover)
+1. <a target="_blank" href="https://www.youtube.com/watch?v=H7jtI4stySI">Taylor Swift -- Mine (Taylor's Version)</a> (drum cover)
+1. <a target="_blank" href="https://www.youtube.com/watch?v=gpUGLWtg9zY">Taylor Swift -- Red (Taylor's Version)</a> (drum cover)
 1. 
 
 Drawing
-1. [Portrait study sketches](https://www.instagram.com/billyy_art/); current cadence is 1/week
-1. [Art vs Artist 2023](https://www.instagram.com/p/C0hcPWjPvPW/) post + [2023 art recap](https://www.instagram.com/reel/C1Fgpi9ObpM/) reel
+1. <a target="_blank" href="https://www.instagram.com/billyy_art/">Portrait study sketches</a>; current cadence is 1/week
+1. <a target="_blank" href="https://www.instagram.com/p/C0hcPWjPvPW/">Art vs Artist 2023</a> post + <a target="_blank" href="https://www.instagram.com/reel/C1Fgpi9ObpM/">2023 art recap</a> reel
 1. 
 
 ## All of my various things
 I like to do all sorts of things! Here's where you can find me:
 
 - I **write** here
-- I do most of my online socializing on **twitter**: [@billyisyoung](https://twitter.com/billyisyoung)
-- I post my latest **drawings** at [@billyy_art](https://www.instagram.com/billyy_art/) (or you can see all of them starting with #1 in [this twitter thread](https://twitter.com/billyisyoung/status/1328059097783160838))
-- I have a [youtube channel](https://www.youtube.com/@billyy) with my **drum** covers, and videos about the **tech** industry
-- I sometimes **sing** covers and post them on [soundcloud](https://soundcloud.com/billyisyoung)
+- I do most of my online socializing on **twitter**: <a target="_blank" href="https://twitter.com/billyisyoung">@billyisyoung</a>
+- I post my latest **drawings** at <a target="_blank" href="https://www.instagram.com/billyy_art/">@billyy_art</a> (or you can see all of them starting with #1 in <a target="_blank" href="https://twitter.com/billyisyoung/status/1328059097783160838">this twitter thread</a>)
+- I have a <a target="_blank" href="https://www.youtube.com/@billyy">youtube channel</a> with my **drum** covers, and videos about the **tech** industry
+- I sometimes **sing** covers and post them on <a target="_blank" href="https://soundcloud.com/billyisyoung">soundcloud</a>

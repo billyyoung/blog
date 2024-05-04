@@ -26,13 +26,13 @@ Until one day, I _understood_. I'd been daydreaming, half-seriously imagining wh
 
 It's about the past and the future. About decisions and bridges crossed and consequences and values and sunk costs and baggage. And optionality and potential and dreams and possibility, and the loss of those things.
 
-It was easy for me to spiral from there. _"I spent my 20s, literally a decade, the first decade in my life where I had any real agency, making choices and getting to a point that I'm no longer that happy with. I've maxed out the wrong stats! It'll take me another 10 years from this point to start something new and [create great work](https://twitter.com/NeilThanedar/status/1517528945280884736)! Do I even have 10 years to spend? Is it too late to do what I really want to do?"_
+It was easy for me to spiral from there. _"I spent my 20s, literally a decade, the first decade in my life where I had any real agency, making choices and getting to a point that I'm no longer that happy with. I've maxed out the wrong stats! It'll take me another 10 years from this point to start something new and <a target="_blank" href="https://twitter.com/NeilThanedar/status/1517528945280884736">create great work</a>! Do I even have 10 years to spend? Is it too late to do what I really want to do?"_
 
 I felt my stomach drop from thinking about it. So I get it now.
 
 ...
 
-But I also reject this idea! In fact, I'm a proponent of the exact opposite frame (funnily enough I'd already written about it in a [twitter thread](https://twitter.com/billyisyoung/status/1469525279773102081) a few months prior to having this experience): 
+But I also reject this idea! In fact, I'm a proponent of the exact opposite frame (funnily enough I'd already written about it in a <a target="_blank" href="https://twitter.com/billyisyoung/status/1469525279773102081">twitter thread</a> a few months prior to having this experience): 
 
 It's not too late. All of your decisions and experiences have served you by leading you up to this point, preparing you to even be able to consider wanting to do something new. And you can start doing the things you want to do, today, and become the person you want to be.
 
@@ -42,4 +42,4 @@ Another frame: one year from now, you can be the version of yourself that did Th
 
 <hr>
 
-Let's chat! I'd love to hear your thoughts on [twitter](https://twitter.com/billyisyoung/status/1540913136110227456) or by email at [hello@billy.dev](mailto:hello@billy.dev).
+Let's chat! I'd love to hear your thoughts on <a target="_blank" href="https://twitter.com/billyisyoung/status/1540913136110227456">twitter</a> or by email at <a target="_blank" href="mailto:hello@billy.dev">hello@billy.dev</a>.

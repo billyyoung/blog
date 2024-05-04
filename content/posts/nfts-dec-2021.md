@@ -8,7 +8,7 @@ mins: 12
 
 I spent a sizable chunk of my December diving into NFTs and NFT communities. I didn't expect to, beyond maybe doing some cursory digging into smart contracts and trying to understand what "web3" actually meant (feels prudent, idk). But NFTs turned out to be one of those vortexes that latched onto me and just didn't let go. I turned into _that_ guy in my friend circle.
 
-And NFTs are becoming more than just an online-only fad or a hobbyist thing. They're bleeding into the Discourse, they're showing up in the meatspace. I met someone after a rec league volleyball game who owned a [Bored Ape](https://opensea.io/collection/boredapeyachtclub). You don't expect your online and offline worlds to ever collide like that. It was weird, and it's probably not the last time it's going to happen.
+And NFTs are becoming more than just an online-only fad or a hobbyist thing. They're bleeding into the Discourse, they're showing up in the meatspace. I met someone after a rec league volleyball game who owned a <a target="_blank" href="https://opensea.io/collection/boredapeyachtclub">Bored Ape</a>. You don't expect your online and offline worlds to ever collide like that. It was weird, and it's probably not the last time it's going to happen.
 
 So here's to trying to wrap my brain around all of it: digital assets, ownership, smart contracts, art, price, and looking for the "so what?" of it all. No doubt I have a basic understanding that's likely to change drastically in the coming months. But here's where I'm at now:
 
@@ -27,11 +27,11 @@ There is some version of owning of digital assets pre-web3:
 But this isn't a strong form of ownership. The same files can be copied and distributed easily and endlessly (i.e. the assets are _fungible_), which is what they're made to do right now.
 
 ### Level 1: Cryptocurrency and public ledgers
-Crypto (specifically Bitcoin) is built on the idea of a decentralized public ledger of where you can conduct transactions that are [roughly impossible to fake](https://ethereum.org/en/developers/docs/consensus-mechanisms/pow/#security). 
+Crypto (specifically Bitcoin) is built on the idea of a decentralized public ledger of where you can conduct transactions that are <a target="_blank" href="https://ethereum.org/en/developers/docs/consensus-mechanisms/pow/#security">roughly impossible to fake</a>. 
 
 The Ethereum network (where most NFT activity takes place today) takes this a step further by allowing you to store more complex data in the ledger ("on-chain"), including messages, links, metadata, and even executable code.
 
-[(More on the differences here)](https://www.investopedia.com/articles/investing/031416/bitcoin-vs-ethereum-driven-different-purposes.asp)
+<a target="_blank" href="https://www.investopedia.com/articles/investing/031416/bitcoin-vs-ethereum-driven-different-purposes.asp">(More on the differences here)</a>
 
 ### Level 2: Tokens and Ownership on-chain
 On the technical side, you can store some metadata on-chain, call that a token, and give that token data to someone. Now they're in possession of it; they "own" it. Taking this further, you can use smart contracts (more on these later) to create tokens that cannot be replaced or duplicated, i.e. _non-fungible_.
@@ -54,7 +54,7 @@ _"Price vs. Value" sold for 0.99 ETH, or $2,600 at time of sale._
 _"Chisel" sold for 33.888 ETH, or $61,000 at time of sale._
 
 ### Level 3: Smart Contracts
-It just so happens that with Ethereum you can store executable code on-chain and run it too–these are [smart contracts](https://ethereum.org/en/developers/docs/smart-contracts/#a-digital-vending-machine).  
+It just so happens that with Ethereum you can store executable code on-chain and run it too–these are <a target="_blank" href="https://ethereum.org/en/developers/docs/smart-contracts/#a-digital-vending-machine">smart contracts</a>.  
 (A very brief summary is that you write code onto the ledger via a txn, and then others can send specifically formatted data to that address, like function inputs, to have the network execute that code on those inputs.)
 
 This makes NFTs that much more compelling. Some very rudimentary examples of smart contracts in action are:  
@@ -83,9 +83,9 @@ There are iterations of RNG Art where creators give some additional value or "ut
 
 Examples:  
 
-* [Loom](https://www.artblocks.io/project/213) is one such project that I like: RNG quilts with some RNG holes punched into them. [Here's mine](https://www.artblocks.io/token/213000106)
-* [Loot](https://www.lootproject.com/), by [Dom Hofmann](https://twitter.com/dhof/): a stunning case study in emergent complexity that deserves its own page in the history books. Read more about it [here](https://nftnow.com/guides/loot-nft-guide/)
-* [Cryptopunks](https://www.larvalabs.com/cryptopunks): one of the earliest RNG Art projects, Punks sell for [$250K+](https://www.larvalabs.com/cryptopunks/sales) (as of 2021-01-03). IMO Punks have transcended the base version of RNG Art since they now give you so much status in the NFT community, which comes with visibility, access, etc. It's far more than just owning a jpeg
+* <a target="_blank" href="https://www.artblocks.io/project/213">Loom</a> is one such project that I like: RNG quilts with some RNG holes punched into them. <a target="_blank" href="https://www.artblocks.io/token/213000106">Here's mine</a>
+* <a target="_blank" href="https://www.lootproject.com/">Loot</a>, by <a target="_blank" href="https://twitter.com/dhof/">Dom Hofmann</a>: a stunning case study in emergent complexity that deserves its own page in the history books. Read more about it <a target="_blank" href="https://nftnow.com/guides/loot-nft-guide/">here</a>
+* <a target="_blank" href="https://www.larvalabs.com/cryptopunks">Cryptopunks</a>: one of the earliest RNG Art projects, Punks sell for <a target="_blank" href="https://www.larvalabs.com/cryptopunks/sales">$250K+</a> (as of 2021-01-03). IMO Punks have transcended the base version of RNG Art since they now give you so much status in the NFT community, which comes with visibility, access, etc. It's far more than just owning a jpeg
 
 ### Level 5: Art, Community, Utility, Fundraising
 So you want to generate 9999 pieces of RNG art. What can you do from there?
@@ -96,30 +96,30 @@ Then I create a Discord for anyone who owns a CrypDonald's Burger (NFT "holders"
 
 This is a popular model right now–Art projects that provide Community and Utility, and that are Fundraising for future plans.
 
-(There are also non-RNG-Art-based NFT projects that are Community-focused (e.g. [Poolsuite](https://opensea.io/collection/poolsuite-executive-member)) or Utility-focused (e.g. [Gallery](https://gallery.so/membership/silver)), where owning a token acts as your ticket to entry.)
+(There are also non-RNG-Art-based NFT projects that are Community-focused (e.g. <a target="_blank" href="https://opensea.io/collection/poolsuite-executive-member">Poolsuite</a>) or Utility-focused (e.g. <a target="_blank" href="https://gallery.so/membership/silver">Gallery</a>), where owning a token acts as your ticket to entry.)
 
 **Level 5.1: Explicit value, and Investment**  
 One area I haven't really touched on yet is the financial side of things, but it's a foundational part of the NFT ecosystem and I think it's going to have a lot of impact on what can be built in web3 and what problems we can solve. 
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">there&#39;s something ,, subtle about everything in web3 having a price so explicitly attached to it. makes me wonder if and how limiting that might end up being. from a &#39;future tech / tools for solving problems&#39; perspective<br><br>like there can be no deviantart in web3. it&#39;s not the same</p>&mdash; Billy is writing (7/100) (@billyisyoung) <a href="https://twitter.com/billyisyoung/status/1478103135189090309?ref_src=twsrc%5Etfw">January 3, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-NFTs are directly tied to a dollar value, whether that's the price to mint it or the price to purchase it from someone else on the secondary market. Any token you own doubles as a [financial investment](https://twitter.com/mims/status/1473398324178919429), whether you want it to or not, whether you plan to "flip" it or never sell (everyone has a price...). 
+NFTs are directly tied to a dollar value, whether that's the price to mint it or the price to purchase it from someone else on the secondary market. Any token you own doubles as a <a target="_blank" href="https://twitter.com/mims/status/1473398324178919429">financial investment</a>, whether you want it to or not, whether you plan to "flip" it or never sell (everyone has a price...). 
 
 And there's something strange about assigning a dollar value to art, utility, community, status, and potential in such a direct way. It's ever-present, even if just in the back of your mind, in your interactions with your tokens. At worst some holders might just be around to see if the project skyrockets ("moons") so they can flip their NFT for a profit, or they try to pump up demand by "sweeping the floor" and buying up the lowest priced tokens of a collection so the price of entry seems higher and therefore more valuable. Then, maybe FOMO kicks in and you buy in too since the price is going up.
 
-([Here's](https://twitter.com/billyisyoung/status/1478420397645312003) my exchange with dame.eth on this for more of the other side of the fence)
+(<a target="_blank" href="https://twitter.com/billyisyoung/status/1478420397645312003">Here's</a> my exchange with dame.eth on this for more of the other side of the fence)
 
 **Level 5.2: Crypto Coven, and discerning projects**  
-Not all projects are funds-focused though. Creators and projects can choose to actively shift the atmosphere of their community away from focusing on price or rarity, and one project I absolutely adore that does this is [Crypto Coven](https://www.cryptocoven.xyz/).
+Not all projects are funds-focused though. Creators and projects can choose to actively shift the atmosphere of their community away from focusing on price or rarity, and one project I absolutely adore that does this is <a target="_blank" href="https://www.cryptocoven.xyz/">Crypto Coven</a>.
 
-Not only do they have some of the most [beautiful](https://cryptocoven.xyz/witches/8334) and [inspired](https://cryptocoven.xyz/witches/2711) and [tasteful](https://cryptocoven.xyz/witches/7644) and [inclusive](https://cryptocoven.xyz/witches/2480) art I've seen from an NFT project, but the creators (the five High Witches of the coven, and yes they're all women) have also cultivated a delightful and inclusive community that focuses on art, aesthetics, lore (the [Weird Wilds](https://twitter.com/crypto_coven/status/1452816519478620167)), and helping onboard people into web3. (Discussion about price or rarity is discouraged as "not the focus of this project" and so it just doesn't come up much now.)
+Not only do they have some of the most <a target="_blank" href="https://cryptocoven.xyz/witches/8334">beautiful</a> and <a target="_blank" href="https://cryptocoven.xyz/witches/2711">inspired</a> and <a target="_blank" href="https://cryptocoven.xyz/witches/7644">tasteful</a> and <a target="_blank" href="https://cryptocoven.xyz/witches/2480">inclusive</a> art I've seen from an NFT project, but the creators (the five High Witches of the coven, and yes they're all women) have also cultivated a delightful and inclusive community that focuses on art, aesthetics, lore (the <a target="_blank" href="https://twitter.com/crypto_coven/status/1452816519478620167">Weird Wilds</a>), and helping onboard people into web3. (Discussion about price or rarity is discouraged as "not the focus of this project" and so it just doesn't come up much now.)
 
 So it is possible to have spaces like this in web3, though Crypto Coven is definitely an outlier in this regard.
 
-### Level 6: [Non-Fungible Olive Gardens (NFOGs)](https://nonfungibleolivegardens.com/)
+### Level 6: <a target="_blank" href="https://nonfungibleolivegardens.com/">Non-Fungible Olive Gardens (NFOGs)</a>
 We reached self-parody surprisingly quickly. Or maybe it's not so surprising in this age of memes and with how quickly things move in web3.
  
-Anyway we have Olive Garden NFTs, of different Olive Garden franchise locations, that are entirely a fan project and not associated with the Olive Garden brand proper. Oh and these were $20 to mint and reached a [floor price of 0.5 ETH](https://twitter.com/jacksondame/status/1475169209353134080), or $2000... before they got [DMCA'd by the actual Olive Garden](https://twitter.com/billyisyoung/status/1476792598769643547) and got delisted from the largest NFT marketplace, OpenSea. (But because data is public in web3, NFOGs can still be bought/sold on other marketplaces like [ZORA](https://zora.co/collections/0xfEe84e716845ec7423c863fc72881804F8BD8441)!)
+Anyway we have Olive Garden NFTs, of different Olive Garden franchise locations, that are entirely a fan project and not associated with the Olive Garden brand proper. Oh and these were $20 to mint and reached a <a target="_blank" href="https://twitter.com/jacksondame/status/1475169209353134080">floor price of 0.5 ETH</a>, or $2000... before they got <a target="_blank" href="https://twitter.com/billyisyoung/status/1476792598769643547">DMCA'd by the actual Olive Garden</a> and got delisted from the largest NFT marketplace, OpenSea. (But because data is public in web3, NFOGs can still be bought/sold on other marketplaces like <a target="_blank" href="https://zora.co/collections/0xfEe84e716845ec7423c863fc72881804F8BD8441">ZORA</a>!)
 
 > _"haha good one lemme throw some money at this even though it'll probably be nothing haha but imagine if it 10x'd or something haha"_  
 
@@ -130,10 +130,10 @@ Web3 is a sprawling...well...web of different technologies, use-cases, and poten
 
 * **"Open Garden"** - your data is yours, or at least not owned by a big tech company. All data on-chain is public, and therefore acts as a public database of sorts that you can build on. Don't like Metamask or another crypto wallet app you're using? You can build your own that reads from the ledger
 * **Gaming in web3** - all items can be turned into tokens and be public and sellable, so you could in theory make money from grinding game items and selling them to other players (or collectors, or speculators). IMO I see this mainly as a new form of Work in web3; call me a boomer but I want my 100k gp or my rune scimitar to just be imaginary internet items
-* **DAOs (Distributed Autonomous Organizations)** - you buy some tokens that represent some % ownership in the org which gives you some equivalent voting power on decisions (like stocks). Yes, you can [raise $40M+ to try to buy a copy of the Constitution](https://www.theverge.com/22820563/constitution-meme-47-million-crypto-crowdfunding-blockchain-ethereum-constitution), but I'm not sold on the idea voting all the time to make decisions. Might have legit use-cases though, idk
+* **DAOs (Distributed Autonomous Organizations)** - you buy some tokens that represent some % ownership in the org which gives you some equivalent voting power on decisions (like stocks). Yes, you can <a target="_blank" href="https://www.theverge.com/22820563/constitution-meme-47-million-crypto-crowdfunding-blockchain-ethereum-constitution">raise $40M+ to try to buy a copy of the Constitution</a>, but I'm not sold on the idea voting all the time to make decisions. Might have legit use-cases though, idk
 * **DeFi** - I am sad to report that I am not getting 10000% APY right now, ngmi
 
 ## Some resources to learn more about web3
-* Crypto Coven's community-led [Library](https://cryptocoven.notion.site/98e0b55d3c2c415bb0bdbb78f68be4a0?v=b26c95c978304acf97abb0840cce0097)
-* [@katiewav's Primer to web3](https://twitter.com/katiewav/status/1445856680235917317)
-* [Linda Xie's beginner guides on DeFi, NFTs, DAOs, and social tokens](https://twitter.com/ljxie/status/1471313801307820032)
+* Crypto Coven's community-led <a target="_blank" href="https://cryptocoven.notion.site/98e0b55d3c2c415bb0bdbb78f68be4a0?v=b26c95c978304acf97abb0840cce0097">Library</a>
+* <a target="_blank" href="https://twitter.com/katiewav/status/1445856680235917317">@katiewav's Primer to web3</a>
+* <a target="_blank" href="https://twitter.com/ljxie/status/1471313801307820032">Linda Xie's beginner guides on DeFi, NFTs, DAOs, and social tokens</a>

@@ -6,15 +6,15 @@ type: "posts"
 mins: 7
 ---
 
-I'm currently writing this post in Singapore, at the beginning of a vacation in Southeast Asia to attend my close friends' wedding, and also to enjoy lots and lots of yummy food (Hainanese chicken rice, [curry chicken noodles](https://sethlui.com/heng-kee-curry-chicken-noodle-singapore/), kaya toast, nasi lemak, mee goreng, roti canai, chili crab, etc.).
+I'm currently writing this post in Singapore, at the beginning of a vacation in Southeast Asia to attend my close friends' wedding, and also to enjoy lots and lots of yummy food (Hainanese chicken rice, <a target="_blank" href="https://sethlui.com/heng-kee-curry-chicken-noodle-singapore/">curry chicken noodles</a>, kaya toast, nasi lemak, mee goreng, roti canai, chili crab, etc.).
 
-Prior to the trip I'd finally started making consistent progress on losing some weight. I reached a low of 180 lbs, a milestone I'd only been able to hit a [few times](https://twitter.com/billyisyoung/status/1193630662512656386) in the last 10 years. Woo! 
+Prior to the trip I'd finally started making consistent progress on losing some weight. I reached a low of 180 lbs, a milestone I'd only been able to hit a <a target="_blank" href="https://twitter.com/billyisyoung/status/1193630662512656386">few times</a> in the last 10 years. Woo! 
 
 Alas, I know I'll be eating much more on this trip than in my usual day-to-day in SF. I'll definitely, absolutely gain a few pounds (Narrator: it was more like 5-6). And I'm OK with that; I _want_ to eat a lot on this trip and enjoy all the delicious local food, and I _also know_ I'll be able to work my weight back down once I'm home and on my normal routine again.
 
 But this post isn't about how to lose weight. Or at least not like in a "5 Weight Loss Hacks You Need To Try" kind of way. No, this post is about all the thoughts and feelings and history so many of us have surrounding the topic of weight and weight loss. For me it's my messy entangled web of my relationships with: food, my physical body, my body image, how I view myself, how I think I'm viewed, goal-setting, failure, habits, cultural and societal bloatware, and more.
 
-(E.g. even at 180 lbs, I fall into the [BMI category of 'Overweight'](https://www.cdc.gov/healthyweight/assessing/bmi/adult_bmi/index.html#Interpreted). Not a particularly useful measure IMO, but it's one that I've had applied to me since I was a kid. I also happen to weigh more than \*I\* would like to, and I've been working to change that, also roughly since I was a kid.)
+(e.g. even at 180 lbs, I fall into the <a target="_blank" href="https://www.cdc.gov/healthyweight/assessing/bmi/adult_bmi/index.html#Interpreted">BMI category of 'Overweight'</a>. Not a particularly useful measure IMO, but it's one that I've had applied to me since I was a kid. I also happen to weigh more than \*I\* would like to, and I've been working to change that, also roughly since I was a kid.)
 
 Trying to make change within this context has been quite hairy! I cycled through the typical New Year's Resolution type of process of trying to change something (e.g. diet, exercise), failing due to emotional reasons or logistical reasons or both, beating myself up about failing, avoidance, processing, then trying again / trying a different tactic. And nothing seemed to really work. But then all of a sudden, it did.
 
@@ -56,17 +56,17 @@ I realize now that in the years (years!) I've been trying, I've come to understa
   * Not being too strict about it - sometimes I'll eat between 9am-5pm, sometimes between 12pm-8pm
   * Provided some reframing / reward structure of "if I stick through fasting today, I can enjoy all the junk food that I'm craving now in the morning" and sometimes I eat chips for breakfast then next day and sometimes I don't
   * OTOH my roommate says he would absolutely not be able to do IF for sustained periods of time, he'd get too hungry
-* I learned how to sort of "turn off my sense of hunger" after reading [Sasha Chapin's fasting post](https://www.piratewires.com/p/inside-silicon-valleys-dangerous) and trying a few multi-day fasts. Among other benefits, this makes doing IF easier
+* I learned how to sort of "turn off my sense of hunger" after reading <a target="_blank" href="https://www.piratewires.com/p/inside-silicon-valleys-dangerous">Sasha Chapin's fasting post</a> and trying a few multi-day fasts. Among other benefits, this makes doing IF easier
 
 **Exercise**  
 
 * 2x lifting, 2x volleyball, and 1x running per week, and biking around the city
-* Most of this is from having a roommate to cocreate a [supportive context](https://twitter.com/visakanv/status/1527658417044656128) with
+* Most of this is from having a roommate to cocreate a <a target="_blank" href="https://twitter.com/visakanv/status/1527658417044656128">supportive context</a> with
 
 **Cooking at home**
 
 * I cook most of my meals, and I don't eat out very much (where it's easy for me to overeat, get dessert, etc.)
-* Nothing too extreme. [Here](https://twitter.com/billyisyoung/status/1537582264485179392) are some low- to medium-effort dinners I've cooked
+* Nothing too extreme. <a target="_blank" href="https://twitter.com/billyisyoung/status/1537582264485179392">Here</a> are some low- to medium-effort dinners I've cooked
 * I try to get in a reasonable amount of protein if possible (callback to the section on satiety)
 * I _have_ decided to cut down on pasta because while it's delicious, it's not enough protein to be filling nor conducive to my goals
   * Shrimp scampi is still OK because I can put in a lot of shrimp and reduce the amount of pasta
@@ -75,10 +75,10 @@ I realize now that in the years (years!) I've been trying, I've come to understa
 
 **Mentality**
 
-* This [BBC video (cw: graphic)](https://www.youtube.com/watch?v=ZagG-rXrgPA) of them autopsying an obese person and showing what the belly fat and visceral fat (surrounding the organs) looked like
+* This <a target="_blank" href="https://www.youtube.com/watch?v=ZagG-rXrgPA">BBC video (cw: graphic)</a> of them autopsying an obese person and showing what the belly fat and visceral fat (surrounding the organs) looked like
 * Not having family around as much to tell me "you know you should lose some weight" all the time
 * Reframing and viewing this whole process as a "10+ year journey" because it has been, and being kinder to myself and giving myself credit for the amount of time and effort I've put in
-* [Knowing that I can keep making progress](https://twitter.com/billyisyoung/status/1557475609177075712), now that I have indeed made some progress
+* <a target="_blank" href="https://twitter.com/billyisyoung/status/1557475609177075712">Knowing that I can keep making progress</a>, now that I have indeed made some progress
 
 This is a surprising amount of factors! But I do think each piece has its role to play in getting me to where I am today with something that works for me.
 

@@ -22,7 +22,7 @@ Take some time to think about _why_ you like these things (this goes deeper than
 
 Also, be mindful of _other_ things you might want to do (and why). 
 
-Write them all down, and then **Prioritize, prioritize, prioritize**. This will be painful and require sacrifice, but it's necessary (see [the 5/25 Rule](https://billy.dev/posts/5-25/)). You can only do so many things at once, and if you try to do too many things you won't progress much in any of them.
+Write them all down, and then **Prioritize, prioritize, prioritize**. This will be painful and require sacrifice, but it's necessary (see <a target="_blank" href="https://billy.dev/posts/5-25/">the 5/25 Rule</a>). You can only do so many things at once, and if you try to do too many things you won't progress much in any of them.
 
 It's OK if the prioritization is rough and not perfect. We can always iterate–you can try, learn, and adjust whenever you decide.
 
@@ -40,7 +40,7 @@ Now it's time to chase after what you've prioritized, and **chase hard**. Try, t
 
 **You're smart, you've got it from here.** Keep pushing. I'm supremely confident that you will work hard in this arena and search. And think. And chase, and chase. And you'll get closer and closer to what you're looking for.
 
-**Enjoy the trip.** While we continue to aspire to keep improving, to reach some "better" state than now, it's important to also enjoy the moment! One framing: the present is all that you can experience, so live in the present more (vs judging what's already done in the past or worrying about futures that have yet to come). Read some [Alan Watts](https://www.goodreads.com/review/show/3325901975), you'll like him.
+**Enjoy the trip.** While we continue to aspire to keep improving, to reach some "better" state than now, it's important to also enjoy the moment! One framing: the present is all that you can experience, so live in the present more (vs judging what's already done in the past or worrying about futures that have yet to come). Read some <a target="_blank" href="https://www.goodreads.com/review/show/3325901975">Alan Watts</a>, you'll like him.
 
 **What other people think doesn't matter** (of course it can matter, but you need this more than the other end of the spectrum). We tend to latch onto advice in the form of "Do X, it's good for you," and then for some reason we subsequently think "if I don't do X then I'm Bad". This is simply not true! It's OK to find what works for you, discard what doesn't, and move on. People speak from their own contexts which can be vastly different from yours. Sometimes things resonate or really work for us, sometimes they really don't.
 

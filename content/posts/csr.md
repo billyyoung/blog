@@ -13,7 +13,7 @@ Here's an example subproblem from the midgame.
 ## Downgrading my Chase Sapphire Reserve
 
 ### Why?
-I'm paying to keep the [Reserve](https://creditcards.chase.com/rewards-credit-cards/sapphire/reserve) (or CSR) and I'm not getting enough value out of it for what I'm paying. And I can downgrade the card to a Freedom Flex which has no annual fee (meaning I can replace this expensive card with a no-cost one, without needing to cancel the card).
+I'm paying to keep the <a target="_blank" href="https://creditcards.chase.com/rewards-credit-cards/sapphire/reserve">Reserve</a> (or CSR) and I'm not getting enough value out of it for what I'm paying. And I can downgrade the card to a Freedom Flex which has no annual fee (meaning I can replace this expensive card with a no-cost one, without needing to cancel the card).
 
 ### Why not cancel the card?
 In the US credit system, one metric your credit score is based on is Age of Oldest Account. Cancelling a credit card wipes out the history of that line of credit, which can hurt your credit score if it's your oldest account. So it's generally recommended to downgrade to a free card if you can (which keeps your line of credit alive), instead of cancelling your card.
@@ -29,7 +29,7 @@ In my case:
 
 * I'm no longer generating a lot of UR points from regular spend (I'm using other cards for most categories I used to use the CSR for)
 
-* I think a new big sign-up bonus offer for the CSP/CSR may be coming (80,000+ points?), and I'll be eligible for this since I'm past the [48-month rule](https://www.uponarriving.com/2021/03/18/chase-sapphire-48-month-rule-explained-2021/#:~:text=What%20is%20the%20Chase%20Sapphire%2048%20month%20rule%3F,into%20detail%20about%20the%20Sapphire%2048%20month%20rule.). So I'll be reapplying for one again anyway, if the sign-up bonus is worthwhile
+* I think a new big sign-up bonus offer for the CSP/CSR may be coming (80,000+ points?), and I'll be eligible for this since I'm past the <a target="_blank" href="https://www.uponarriving.com/2021/03/18/chase-sapphire-48-month-rule-explained-2021/#:~:text=What%20is%20the%20Chase%20Sapphire%2048%20month%20rule%3F,into%20detail%20about%20the%20Sapphire%2048%20month%20rule.">48-month rule</a>. So I'll be reapplying for one again anyway, if the sign-up bonus is worthwhile
 
 ### Number-crunching
 #### Effective Annual Fee
@@ -42,7 +42,7 @@ Benefits I use = +$400
 * <strike>Global Entry / TSA Pre / Nexus credit</strike> = $0, I've used this + I get this from other cards too
 * <strike>Lounge access</strike> = $0, I get this from other cards too
 * <strike>Travel and purchase protection</strike> = $0, I get this from other cards too
-* <strike>Daordash dashpass + credits</strike> = $0, I don't order delivery
+* <strike>Doordash dashpass + credits</strike> = $0, I don't order delivery
 
 -> Effective Annual Fee = -$150
 
@@ -92,10 +92,10 @@ Factor in my plans to reapply for the CSR if/when a new big sign-up bonus offer 
 
 ## The Game
 
-I'll admit, all this number-crunching is effectively over some $100-$200.
+I'll admit, all this number-crunching is effectively over some $100-$200. But I'm having fun!
 
-But the credit card game runs deep if you want to play it, where you can have 5+ cards that _each_ give you some $500-$1000 in one-time sign-up bonuses, and $100-$200 in net value annually. Stack these up for a stay in the Maldives or a round trip first-class flight to Singapore paid with points.
+The credit card game runs deep if you want to play it, where you can have 5+ cards that _each_ give you some $500-$1000 in one-time sign-up bonuses, and $100-$200 in net value annually. Stack these up for a stay in the Maldives or a round trip first-class flight to Singapore paid with points.
 
 <hr>
 
-Let's chat! I'd love to hear your thoughts on [twitter](https://twitter.com/billyisyoung/status/1543022678985957376) or by email at [hello@billy.dev](mailto:hello@billy.dev).
+Let's chat! I'd love to hear your thoughts on <a target="_blank" href="https://twitter.com/billyisyoung/status/1543022678985957376">twitter</a> or by email at <a target="_blank" href="mailto:hello@billy.dev">hello@billy.dev</a>.

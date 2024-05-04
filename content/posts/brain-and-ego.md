@@ -6,7 +6,7 @@ type: "posts"
 mins: 4
 ---
 
-I recently finished reading [What Happened To You?](https://www.goodreads.com/review/show/4259124963), a dialogue between Oprah and Bruce Perry, a psychiatrist who specializes in understanding adverse childhood experiences and trauma and how they impact human behaviour.
+I recently finished reading <a target="_blank" href="https://www.goodreads.com/review/show/4259124963">What Happened To You?</a>, a dialogue between Oprah and Bruce Perry, a psychiatrist who specializes in understanding adverse childhood experiences and trauma and how they impact human behaviour.
 
 Besides offering an invaluable reframe from asking "what's wrong with you?" to asking "what happened to you?" when trying to understand why we might behave or react in the ways we do, another huge takeaway for me was the neurosequential model of the brain.
 
@@ -26,13 +26,13 @@ All of this activity happens _before_ the cortex is able to receive the input an
 
 This whole thing \*gestures wildly\* applies to all sorts of adverse experiences and trauma we've been through, and can help us (1) understand, neurologically, why we are reacting, (2) explore what happened to us, and (3) find how to work around/with it. 
 
-(I highly recommend checking out the [book](https://www.goodreads.com/review/show/4259124963) if you're interested in this kind of modeling of the brain, and understanding and regulating stress responses.  Bonus note: even specific scents can trigger a stress response.)
+(I highly recommend checking out the <a target="_blank" href="https://www.goodreads.com/review/show/4259124963">book</a> if you're interested in this kind of modeling of the brain, and understanding and regulating stress responses.  Bonus note: even specific scents can trigger a stress response.)
 
 But that's not where we end.
 
 ## Ego
 
-I'm currently entertaining this idea that your ego is like a bouncer in your mind, with the goal of [protecting you from emotional pain](https://www.psychologytoday.com/us/blog/theory-knowledge/202105/what-is-the-ego), usually via rationalization.
+I'm currently entertaining this idea that your ego is like a bouncer in your mind, with the goal of <a target="_blank" href="https://www.psychologytoday.com/us/blog/theory-knowledge/202105/what-is-the-ego">protecting you from emotional pain</a>, usually via rationalization.
 
 _Asked out a girl but got rejected? Eh, you weren't that into her anyway._  
 _Missed a deadline at work? Is the world going to end, no._  
@@ -46,4 +46,4 @@ And once you start noticing when your ego kicks in, you can start digging deeper
 
 And how can you start to integrate your ego?
 
-([Bonus video](https://www.youtube.com/watch?v=DW9JLSyYVXY))
+(<a target="_blank" href="https://www.youtube.com/watch?v=DW9JLSyYVXY">Bonus video</a>)

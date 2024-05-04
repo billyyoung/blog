@@ -25,7 +25,7 @@ Do other people experience this too? Is this normal? Does this come from a desir
 "Why do you write like you're running out of time?" - Burr, _Hamilton (2015)_  
 
 ## An explanation, maybe
-The closest thing I've found to an explanation for The Emptiness, and more importantly where it comes from, is [this Dr. K chat](https://www.youtube.com/watch?v=_mwm67Nmiz8). I'm not entirely sure if what he's saying is Exactly How It Is, but it resonated with me and mirrors my experience.
+The closest thing I've found to an explanation for The Emptiness, and more importantly where it comes from, is <a target="_blank" href="https://www.youtube.com/watch?v=_mwm67Nmiz8">this Dr. K chat</a>. I'm not entirely sure if what he's saying is Exactly How It Is, but it resonated with me and mirrors my experience.
 
 To try to recap the idea in my own words:
 
@@ -48,15 +48,15 @@ A: Likely an emotional wound, likely from childhood
     * The first step: Awareness of the emotional wound and when it might be the source of some of my thoughts, recognizing that that corner of my esteem might reject the idea that I have worth apart from my achievements
     * The next step: idk, apparently it's one of those things that will reveal itself in time, but gaining awareness is enough to get you started on the path
 
-I'm probably skipping over a lot of useful connective tissue here, and I'm definitely skipping over the examples and exercises that Dr. K does with Dantes that really help drive home his points. But if any of this resonates with you or intrigues you, I suggest watching [the entire interview](https://www.youtube.com/watch?v=_mwm67Nmiz8), it's so good.<sup>2</sup>
+I'm probably skipping over a lot of useful connective tissue here, and I'm definitely skipping over the examples and exercises that Dr. K does with Dantes that really help drive home his points. But if any of this resonates with you or intrigues you, I suggest watching <a target="_blank" href="https://www.youtube.com/watch?v=_mwm67Nmiz8">the entire interview</a>, it's so good.<sup>2</sup>
 
-If you've had similar experiences feeling this kind of Emptiness, I'd love to chat and exchange notes! Shoot me an email at hello@billy.dev or DM me on [Twitter](https://twitter.com/billyisyoung). 
+If you've had similar experiences feeling this kind of Emptiness, I'd love to chat and exchange notes! Shoot me an email at hello@billy.dev or DM me on <a target="_blank" href="https://twitter.com/billyisyoung">Twitter</a>. 
 
 P.S.: This is just one component of The Thing I've been processing and trying to write about for the past few weeks now. Kind of like the appetizer of the meal. As for the main course, here's a little teaser: what if I thought my sabbatical was about finding a new career, but I was actually grasping at trying to fill The Emptiness this entire time?
 
 ## Further reading / footnotes
 
-1  For some encouragement with the creative struggle: [here's a piece](https://visakanv.substack.com/p/when-the-vision-isnt-manifesting) from Visa. It's like coming up for air hearing other artists also talk about their struggles, and funnily enough to hear that the struggles never really go away (probably because we are essentially chasing after God). If you're also feeling the creative struggle, you're not alone
+1  For some encouragement with the creative struggle: <a target="_blank" href="https://visakanv.substack.com/p/when-the-vision-isnt-manifesting">here's a piece</a> from Visa. It's like coming up for air hearing other artists also talk about their struggles, and funnily enough to hear that the struggles never really go away (probably because we are essentially chasing after God). If you're also feeling the creative struggle, you're not alone
 
-2  [The entire chat](https://www.youtube.com/watch?v=_mwm67Nmiz8) between Dr. K and Dantes is 2.5 hours long, and I highly recommend watching the whole thing, even in and of itself, for a great intellectual and emotional conversation with a very satisfying set-up and pay-off. In a sentence: Dude-bro grindset guy, who is actually extremely self-reflective, comes to see the emotional root of his defense mechanisms and is shown a whole other emotional dimension of how to understand himself and find security
+2  <a target="_blank" href="https://www.youtube.com/watch?v=_mwm67Nmiz8">The entire chat</a> between Dr. K and Dantes is 2.5 hours long, and I highly recommend watching the whole thing, even in and of itself, for a great intellectual and emotional conversation with a very satisfying set-up and pay-off. In a sentence: Dude-bro grindset guy, who is actually extremely self-reflective, comes to see the emotional root of his defense mechanisms and is shown a whole other emotional dimension of how to understand himself and find security
 

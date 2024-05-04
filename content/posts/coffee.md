@@ -8,7 +8,7 @@ hours: 6
 mins: 5
 ---
 
-Last weekend I attended a wonderful [Interintellect Salon on Talking about Money](https://twitter.com/billyisyoung/status/1353122334467518464), where we talked about everything from the philosophy of money, to why there seems to be so much financial illiteracy, to the credit card ecosystem, to the US Tax Code.
+Last weekend I attended a wonderful <a target="_blank" href="https://twitter.com/billyisyoung/status/1353122334467518464">Interintellect Salon on Talking about Money</a>, where we talked about everything from the philosophy of money, to why there seems to be so much financial illiteracy, to the credit card ecosystem, to the US Tax Code.
 
 A recurring point was that good financial advice can be hard to find, and you might not even know where to start looking.  And personal finance has been something I've wanted to write about for a while now.
 
@@ -39,20 +39,19 @@ Making pour-over takes me about 10 minutes:
 ### Equipment
 The majority of the up-front cost is in the equipment to make pour-over coffee:  
 
-* [Chemex coffeemaker](https://www.peets.com/products/chemex-8c-coffeemaker-pcup) - **$40**
-  * Peets.com sometimes has discounts, or you can get one on [Amazon](https://smile.amazon.com/dp/B000I1WP7W)
-  * A [Hario V60](https://www.amazon.com/dp/B000P4D5HG) ceramic funnel also works, though it needs different filters
-* [Chemex coffee filters](https://smile.amazon.com/dp/B017OFOP68) - **$20** for 100
+* <a target="_blank" href="https://smile.amazon.com/dp/B000I1WP7W">Chemex coffeemaker</a> - **$40**
+  * A <a target="_blank" href="https://www.amazon.com/dp/B000P4D5HG">Hario V60</a> ceramic funnel also works well for single servings, though it needs different filters
+* <a target="_blank" href="https://smile.amazon.com/dp/B017OFOP68">Chemex coffee filters</a> - **$20** for 100
   * I use 1 filter to make 2 cups of coffee
-* [Coffee grinder](https://smile.amazon.com/dp/B07ZNXQF4S) - **$60**
+* <a target="_blank" href="https://smile.amazon.com/dp/B07ZNXQF4S">Coffee grinder</a> - **$60**
   * I am paying a little extra for: (1) stainless steel burrs which last longer, (2) 30g bean capacity, (3) faster grinding
   * I prefer buying whole beans and grinding them myself. You can totally skip the grinder and buy pre-ground coffee beans though
-* [Scale](https://smile.amazon.com/dp/B01JTDG084) - **$13**
+* <a target="_blank" href="https://smile.amazon.com/dp/B01JTDG084">Scale</a> - **$13**
   * Needs to be able to measure 2kg (Chemex + beans + water)
-* [Gooseneck kettle](https://www.peets.com/fellow-kettle-black) - **$75**
+* <a target="_blank" href="https://www.amazon.com/dp/B014UN7B7C">Gooseneck kettle</a> - **$75**
   * Gives you more control over your pouring and water temperature
   * You might be able to get away with using a regular kitchen kettle + thermometer but I haven't tried it myself
-* [Chemex caddy](http://www.bluehorseproducts.com/chemex-caddy) - **$35**
+* <a target="_blank" href="http://www.bluehorseproducts.com/chemex-caddy">Chemex caddy</a> - **$35**
   * Optional: a cute holder for my Chemex and some filters
 
 Total cost: **$243** (or $148 without the grinder and caddy)
@@ -82,10 +81,10 @@ As for what kind of beans to buy, there are tons of varieties and flavour profil
 <!-- nbsp hack to make table look somewhat nice... -->
 | Beans | &nbsp;&nbsp; Bag Cost | &nbsp;&nbsp; Bag Size (g) | &nbsp;&nbsp; \# Cups | &nbsp;&nbsp; Cost per cup |
 | :---- | -----------: | ------------: | -------: | ---------: |
-| [Costco Bulk](https://www.costco.com/san-francisco-french-roast-whole-bean-coffee-3-lb%2c-2-pack.product.100039943.html) | $ 39.99 | 2722 | 181.47 | $ 0.22 |
-| [Starbucks x Costco](https://www.costco.com/starbucks-french-roast%2c-whole-bean-coffee%2c-2.5-lbs.product.100377146.html) | $ 20.99  | 1130         | 75.33   | $ 0.28    |
-| [Grocery Brand](https://smile.amazon.com/dp/B086FCPKC1) | $ 10.00  | 340          | 22.67   | $ 0.44    |
-| [Boutique (e.g. Sightglass)](https://sightglasscoffee.com/products/banner-dark)         | $ 19.00  | 340          | 22.67   | $ 0.84    |
+| <a target="_blank" href="https://www.costco.com/san-francisco-french-roast-whole-bean-coffee-3-lb%2c-2-pack.product.100039943.html">Costco Bulk</a> | $ 39.99 | 2722 | 181.47 | $ 0.22 |
+| <a target="_blank" href="https://www.costco.com/starbucks-french-roast%2c-whole-bean-coffee%2c-2.5-lbs.product.100377146.html">Starbucks x Costco</a> | $ 20.99  | 1130         | 75.33   | $ 0.28    |
+| <a target="_blank" href="https://smile.amazon.com/dp/B086FCPKC1">Grocery Brand</a> | $ 10.00  | 340          | 22.67   | $ 0.44    |
+| <a target="_blank" href="https://sightglasscoffee.com/products/banner-dark">Boutique (e.g. Sightglass)</a>         | $ 19.00  | 340          | 22.67   | $ 0.84    |
 
 To normalize and compare costs, I took 15g of beans to equal 1 cup of coffee (15g produces 240ml of coffee at the 16:1 ratio of water to beans for pour-over).
 
@@ -94,7 +93,7 @@ That means the cost in beans alone can vary from **$0.22 to $0.84** per cup.
 #### Margin on beans?
 As a side note, after looking at the unit price of some of these deals I wonder what the margin on coffee beans is.  The 6 lbs of beans at $40 comes out to $0.22 for 15g after all.
 
-Some [quick googling](https://www.quora.com/Whats-the-margin-on-coffee-beans-from-roaster-to-distributor) is showing ~10% margin in some cases, but I couldn't find much more info.
+Some <a target="_blank" href="https://www.quora.com/Whats-the-margin-on-coffee-beans-from-roaster-to-distributor">quick googling</a> is showing ~10% margin in some cases, but I couldn't find much more info.
 
 Meaning the margin on these 340g-for-$19 beans is _quite_ boutique in comparison ($0.84 per cup vs $0.22 per cup).
 
@@ -111,13 +110,13 @@ That $4 cappuccino from Blue Bottle isn't looking so egregious now, is it?
 ## Alternatives
 I like the amount of control I get over various parts of the process with pour-over.  But there are tons of other ways to make coffee at home.  Some notable ones:
 
-Graham Stephan's [$0.20 Iced Coffee](https://www.youtube.com/watch?v=tvL4FF2lMnw) - Graham uses a normal coffee machine, a big bottle of creamer, and a much lower beans-to-cup ratio (~5g per cup to make 66 cups from a 340g bag).
+Graham Stephan's <a target="_blank" href="https://www.youtube.com/watch?v=tvL4FF2lMnw">$0.20 Iced Coffee</a> - Graham uses a normal coffee machine, a big bottle of creamer, and a much lower beans-to-cup ratio (~5g per cup to make 66 cups from a 340g bag).
 
-[Cometeer](https://cometeer.com/how-we-make-it) - this company essentially sells liquid-nitrogen-frozen espresso shots you can store in your freezer, just add water or milk.  Interestingly, their frozen coffee pucks are $2 per serving, which makes them not that much more expensive than my pour-over setup.  Here's my [referral link](https://cometeer.com/products/pilot-program?code=57UJxv) if you want to give them a try.
+<a target="_blank" href="https://cometeer.com/how-we-make-it">Cometeer</a> - this company essentially sells liquid-nitrogen-frozen espresso shots you can store in your freezer, just add water or milk.  Interestingly, their frozen coffee pucks are $2 per serving, which makes them not that much more expensive than my pour-over setup.  Here's my <a target="_blank" href="https://cometeer.com/products/pilot-program?code=57UJxv">referral link</a> if you want to give them a try.
 
 <hr>
 
 ## Let's chat!
-Drop a reply, or just come say hi [here](https://twitter.com/billyisyoung/status/1356002430010355713)!
+Drop a reply, or just come say hi <a target="_blank" href="https://twitter.com/billyisyoung/status/1356002430010355713">here</a>!
 
-If you'd like to support me, you can [buy me 3-5 coffees](https://www.buymeacoffee.com/billyy)!
+If you'd like to support me, you can <a target="_blank" href="https://www.buymeacoffee.com/billyy">buy me a coffee</a>!

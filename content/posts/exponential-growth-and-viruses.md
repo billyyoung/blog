@@ -40,7 +40,7 @@ What does help is localizing.  Untangling the branches, going back to what’s f
 
 To put COVID-19 in a base-10 perspective:
 
-The number of new COVID-19 cases [doubles every 7 days](https://twitter.com/trvrb/status/1234401547364122625).
+The number of new COVID-19 cases <a target="_blank" href="https://twitter.com/trvrb/status/1234401547364122625">doubles every 7 days</a>.
 
 **That’s equivalent to 10x-ing every 23 days.**
 
@@ -87,9 +87,9 @@ Bringing it back to base-10: if the virus were to take 10 days to double instead
 So thank you for washing your hands.  You’re helping save lives.
 
 ## A little extra, as a treat
-Here are some highlights from people who recognize the exponential growth at play: [sharing info](https://twitter.com/balajis/status/1235061303334625280), [asking questions](https://twitter.com/diviacaroline/status/1234316133060116481), and [taking action](https://twitter.com/Seattle2019nCov/status/1235359313171898370).
+Here are some highlights from people who recognize the exponential growth at play: <a target="_blank" href="https://twitter.com/balajis/status/1235061303334625280">sharing info</a>, <a target="_blank" href="https://twitter.com/diviacaroline/status/1234316133060116481">asking questions</a>, and <a target="_blank" href="https://twitter.com/Seattle2019nCov/status/1235359313171898370">taking action</a>.
 
-Extra reading: Tyler Cowen on the ["growthers" and "base-raters"](https://www.bloomberg.com/opinion/articles/2020-03-03/how-fast-will-the-new-coronavirus-spread-two-sides-of-the-debate), the different camps discussing the growth rate of COVID-19.
+Extra reading: Tyler Cowen on the <a target="_blank" href="https://www.bloomberg.com/opinion/articles/2020-03-03/how-fast-will-the-new-coronavirus-spread-two-sides-of-the-debate">"growthers" and "base-raters"</a>, the different camps discussing the growth rate of COVID-19.
 
 ## Let's chat!
-Drop a reply, or just come say hi [here](https://twitter.com/billyisyoung/status/1235775930385252355)!
+Drop a reply, or just come say hi <a target="_blank" href="https://twitter.com/billyisyoung/status/1235775930385252355">here</a>!

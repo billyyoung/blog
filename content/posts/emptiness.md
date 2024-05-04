@@ -8,7 +8,10 @@ mins: 5
 
 A few nights ago I found myself sitting at my desk with this vague sense of discomfort and uncertainty.
 
-I'd made some progress that day on a blog post I'd been writing and rewriting for a few weeks now. The progress was good. But I also felt like I had pages of notes and drafts and rewrites scattered all over the floor, and all I was doing was adding new notes and new drafts to the pile. I had no clue how or when it would all come together; there seemed to be no end in sight, and that was frustrating.<sup>1</sup>
+I'd made some progress that day on a blog post I'd been writing and rewriting for a few weeks now. The progress was good. But I also felt like I had pages of notes and drafts and rewrites scattered all over the floor, and all I was doing was adding new notes and new drafts to the pile. I had no clue how or when it would all come together; there seemed to be no end in sight, and that was frustrating.[^1]
+
+[^1]: For some encouragement with the creative struggle: <a target="_blank" href="https://visakanv.substack.com/p/when-the-vision-isnt-manifesting">here's a piece</a> I like. It's like coming up for air hearing other artists also talk about their struggles, and funnily enough to hear that the struggles never really go away (probably because we are essentially chasing after God). If you're also feeling the creative struggle, you're not alone
+
 
 I was also recovering from my second bout with COVID, contracted at the tail end of 2 weeks of being away from home, so I was congested, cough-y, grumpy, uncomfortable, and also antsy – I wanted to be healthy again so I could get out of my room, move about, get groceries, and just return to regular life already. (Which coincidentally also meant I could get back to fully working on this blog post I wanted to be done with already!)
 
@@ -48,15 +51,13 @@ A: Likely an emotional wound, likely from childhood
     * The first step: Awareness of the emotional wound and when it might be the source of some of my thoughts, recognizing that that corner of my esteem might reject the idea that I have worth apart from my achievements
     * The next step: idk, apparently it's one of those things that will reveal itself in time, but gaining awareness is enough to get you started on the path
 
-I'm probably skipping over a lot of useful connective tissue here, and I'm definitely skipping over the examples and exercises that Dr. K does with Dantes that really help drive home his points. But if any of this resonates with you or intrigues you, I suggest watching <a target="_blank" href="https://www.youtube.com/watch?v=_mwm67Nmiz8">the entire interview</a>, it's so good.<sup>2</sup>
+I'm probably skipping over a lot of useful connective tissue here, and I'm definitely skipping over the examples and exercises that Dr. K does with Dantes that really help drive home his points. But if any of this resonates with you or intrigues you, I suggest watching <a target="_blank" href="https://www.youtube.com/watch?v=_mwm67Nmiz8">the entire interview</a>, it's so good.[^2]
 
-If you've had similar experiences feeling this kind of Emptiness, I'd love to chat and exchange notes! Shoot me an email at hello@billy.dev or DM me on <a target="_blank" href="https://twitter.com/billyisyoung">Twitter</a>. 
+[^2]: <a target="_blank" href="https://www.youtube.com/watch?v=_mwm67Nmiz8">The entire chat</a> between Dr. K and Dantes is 2.5 hours long, and I highly recommend watching the whole thing, even in and of itself, for a great intellectual and emotional conversation with a very satisfying set-up and pay-off. In a sentence: Dude-bro grindset guy, who is actually extremely self-reflective, comes to see the emotional root of his defense mechanisms and is shown a whole other emotional dimension of how to understand himself and find security
 
-P.S.: This is just one component of The Thing I've been processing and trying to write about for the past few weeks now. Kind of like the appetizer of the meal. As for the main course, here's a little teaser: what if I thought my sabbatical was about finding a new career, but I was actually grasping at trying to fill The Emptiness this entire time?
+
+If you've had similar experiences feeling this kind of Emptiness, I'd love to chat and exchange notes! Shoot me an email at hello@billy.dev or DM me on <a target="_blank" href="https://twitter.com/billyisyoung">Twitter</a>.
+
+**P.S.**: This is just one component of The Thing I've been processing and trying to write about for the past few weeks now. Kind of like the appetizer of the meal. As for the main course, here's a little teaser: what if I thought my sabbatical was about finding a new career, but I was actually grasping at trying to fill The Emptiness this entire time? (Edit: <a target="_blank" href="https://billy.dev/posts/sabbatical-notes/recap1/">here</a> it is!)
 
 ## Further reading / footnotes
-
-1  For some encouragement with the creative struggle: <a target="_blank" href="https://visakanv.substack.com/p/when-the-vision-isnt-manifesting">here's a piece</a> from Visa. It's like coming up for air hearing other artists also talk about their struggles, and funnily enough to hear that the struggles never really go away (probably because we are essentially chasing after God). If you're also feeling the creative struggle, you're not alone
-
-2  <a target="_blank" href="https://www.youtube.com/watch?v=_mwm67Nmiz8">The entire chat</a> between Dr. K and Dantes is 2.5 hours long, and I highly recommend watching the whole thing, even in and of itself, for a great intellectual and emotional conversation with a very satisfying set-up and pay-off. In a sentence: Dude-bro grindset guy, who is actually extremely self-reflective, comes to see the emotional root of his defense mechanisms and is shown a whole other emotional dimension of how to understand himself and find security
-

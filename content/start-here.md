@@ -27,7 +27,7 @@ In June 2023 <a target="_blank" href="https://billy.dev/posts/new-game-plus/">I 
 
 <a name="now"></a>
 ## What I'm doing now
-<small>_Inspired by Derek Sivers' <a target="_blank" href="https://nownownow.com/about">now page</a> movement. Last updated on Apr 9, 2024._</small>
+<small>_Inspired by Derek Sivers' <a target="_blank" href="https://nownownow.com/about">now page</a> movement. Last updated on May 16, 2024._</small>
 
 ### Living in SF
 I moved to San Francisco after graduating college in 2016, and I've been living here since (8 years now!). But I think from 2020 onward is when I really started to enjoy living here. Most Sunday mornings you can find me playing <a target="_blank" href="https://heylo.group/sfbv">volleyball</a> at Ocean Beach.
@@ -60,7 +60,7 @@ Blog
 1. <a target="_blank" href="https://billy.dev/posts/sabbatical-notes/3/">Sabbatical Notes #3: Goals</a>
 1. <a target="_blank" href="https://billy.dev/posts/emptiness">An Encounter with The Emptiness</a>
 1. <a target="_blank" href="https://billy.dev/posts/sabbatical-notes/4/">Sabbatical Notes #4: October</a>
-1. <a target="_blank" href="https://billy.dev/posts/sabbatical-notes/recap1/">Sabbatical Notes: July October</a>
+1. <a target="_blank" href="https://billy.dev/posts/sabbatical-notes/recap1/">Sabbatical Notes: July - October</a>
 1. <a target="_blank" href="https://billy.dev/posts/sabbatical-notes/5/">Sabbatical Notes #5: Self-Love</a>
 1. <a target="_blank" href="https://billy.dev/posts/2023-review/">2023: Year In Review</a>
 1. <a target="_blank" href="https://billy.dev/posts/love-the-grind/">(How to) Love The Grind</a>
@@ -73,6 +73,7 @@ Music
 1. <a target="_blank" href="https://soundcloud.com/billyisyoung/oasis-wonderwall">Oasis -- Wonderwall</a> (song cover)
 1. <a target="_blank" href="https://www.youtube.com/watch?v=H7jtI4stySI">Taylor Swift -- Mine (Taylor's Version)</a> (drum cover)
 1. <a target="_blank" href="https://www.youtube.com/watch?v=gpUGLWtg9zY">Taylor Swift -- Red (Taylor's Version)</a> (drum cover)
+1. <a target="_blank" href="https://www.youtube.com/watch?v=xiJMd8MdBq0">Paramore -- Still Into You</a> (drum cover)
 1. 
 
 Drawing

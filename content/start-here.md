@@ -46,10 +46,10 @@ In the meantime, I'm doing creative work that I love.
 ### Sabbatical projects
 Right now I'm spending my time:
 
-- Doing (free) <a target="_blank" href="https://www.linkedin.com/feed/update/urn:li:activity:7110433966653935616/">career consults</a>, answering people's questions about career and career transitions
 - Writing blog posts here
-- Playing the drums, learning new songs, and making the occasional <a target="_blank" href="https://www.youtube.com/watch?v=H7jtI4stySI">cover video</a>
+- Playing the drums, learning new songs, and making the occasional <a target="_blank" href="https://www.youtube.com/watch?v=xiJMd8MdBq0">cover video</a>
 - <a target="_blank" href="https://www.instagram.com/billyy_art/">Drawing</a>
+- Practicing Motivational Interviewing
 
 **Projects I've completed since June 2023**
 

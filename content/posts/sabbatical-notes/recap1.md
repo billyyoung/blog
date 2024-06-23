@@ -76,11 +76,14 @@ I was all for getting another perspective on my plans, especially from a slightl
 
 And it turns out this was exactly what I needed (and I would have never been able to guess it at the time).
 
-The first part of the process was deciding on my service project. When discussing my plans for coaching and writing with Tasshin and Mary, I guess it was clear that I wasn't really enjoying myself. Instead of receiving affirmation, I was nudged in a different direction: "What are times/projects in the past where you had the most fun? What would a purely fun project look like?", and then "What if Having Fun satisfied the 'service' part of the service project?" 
+The first part of the process was deciding on my service project. When discussing my plans for coaching and writing with Tasshin and Mary, I guess it was clear that I wasn't really enjoying myself. Instead of receiving affirmation, I was nudged in a different direction: "What are times/projects in the past where you had the most fun? What would a purely fun project look like?", and then:
+
+"What if Having Fun satisfied the 'service' part of the service project?"  
+"What if Having Fun was being of sufficient service to others?"
 
 ‼️
 
-This cracked me open and revealed one of my blind spots. Why _was_ I so focused on being productive and providing value over having fun? Why did I feel like I couldn't just do a project purely for fun, like a music project? In fact, the idea had never even crossed my mind.
+This cracked me open and revealed one of my blind spots. _Why was I so focused on being productive and providing value over having fun?_ Why did I feel like I couldn't just do a project purely for fun, like a music project? In fact, the idea had never even crossed my mind.
 
 I took a walk to try to process things. And that's when the floodgates opened; I inadvertently stumbled over <a target="_blank" href="https://www.masterclass.com/articles/crossing-the-threshold">The Threshold</a>, in the hero's journey sense.
 

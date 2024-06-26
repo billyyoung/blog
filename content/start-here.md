@@ -27,7 +27,7 @@ In June 2023 <a target="_blank" href="https://billy.dev/posts/new-game-plus/">I 
 
 <a name="now"></a>
 ## What I'm doing now
-<small>_Inspired by Derek Sivers' <a target="_blank" href="https://nownownow.com/about">now page</a> movement. Last updated on Jun 12, 2024._</small>
+<small>_Inspired by Derek Sivers' <a target="_blank" href="https://nownownow.com/about">now page</a> movement. Last updated on Jun 25, 2024._</small>
 
 ### Living in SF
 I moved to San Francisco after graduating college in 2016, and I've been living here since (8 years now!). But I think from 2020 onward is when I really started to enjoy living here. Most Sunday mornings you can find me playing <a target="_blank" href="https://heylo.group/sfbv">volleyball</a> at Ocean Beach.
@@ -43,17 +43,9 @@ I recognize now that more achievements and other external things won't truly sat
 
 In the meantime, I'm doing creative work that I love.
 
-### Sabbatical projects
-Right now I'm spending my time:
+### Sabbatical projects completed, since June 2023
 
-- Writing blog posts here
-- Playing the drums, learning new songs, and making the occasional <a target="_blank" href="https://www.youtube.com/watch?v=xiJMd8MdBq0">cover video</a>
-- <a target="_blank" href="https://www.instagram.com/billyy_art/">Drawing</a>
-- Practicing Motivational Interviewing
-
-**Projects I've completed since June 2023**
-
-Blog
+**Blog**
 1. <a target="_blank" href="https://billy.dev/posts/sabbatical-notes/1-doing/">Sabbatical Notes #1</a>
 1. <a target="_blank" href="https://billy.dev/posts/sabbatical-notes/2-fun/">Sabbatical Notes #2: Fun</a>
 1. Creating this new [About Me](#) page and [Now](#now) page
@@ -68,9 +60,10 @@ Blog
 1. <a target="_blank" href="https://billy.dev/posts/becoming-a-fit-person/">Becoming a Fit Person</a>
 1. <a target="_blank" href="https://billy.dev/posts/sabbatical-notes/6/">Sabbatical Notes #6: Is This It?</a>
 1. <a target="_blank" href="https://billy.dev/posts/sabbatical-notes/7/">Sabbatical Notes #7: Learning How To Be Happy</a>
+1. <a target="_blank" href="https://billy.dev/posts/what-you-like">How Do You Figure Out What You Like?</a>
 1. 
 
-Music
+**Music**
 1. <a target="_blank" href="https://soundcloud.com/billyisyoung/hamilton-dear-theodosia">Hamilton -- Dear Theodosia</a> (song cover)
 1. <a target="_blank" href="https://soundcloud.com/billyisyoung/oasis-wonderwall">Oasis -- Wonderwall</a> (song cover)
 1. <a target="_blank" href="https://www.youtube.com/watch?v=H7jtI4stySI">Taylor Swift -- Mine (Taylor's Version)</a> (drum cover)
@@ -78,8 +71,8 @@ Music
 1. <a target="_blank" href="https://www.youtube.com/watch?v=xiJMd8MdBq0">Paramore -- Still Into You</a> (drum cover)
 1. 
 
-Drawing
-1. <a target="_blank" href="https://www.instagram.com/billyy_art/">Portrait study sketches</a>; current cadence is 1/week
+**Drawing**
+1. <a target="_blank" href="https://www.instagram.com/billyy_art/">Portrait study sketches</a>; current cadence is 2-3/week
 1. <a target="_blank" href="https://www.instagram.com/p/C0hcPWjPvPW/">Art vs Artist 2023</a> post + <a target="_blank" href="https://www.instagram.com/reel/C1Fgpi9ObpM/">2023 art recap</a> reel
 1. 
 

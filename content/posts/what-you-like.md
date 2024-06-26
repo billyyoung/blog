@@ -68,7 +68,7 @@ _"I don’t know who I am, and at the same time, I dislike who I am and how I ac
 
 
 [^1]: A friend asked me to share some of my answers to these introspection prompts, so here we go:  
-1\. **What I like / what do I value?** <a target="_blank" href="http://localhost:1313/start-here/">See here.</a>  
+1\. **What I like / what do I value?** <a target="_blank" href="https://billy.dev/start-here">See here.</a>  
 2\. **Moments when I had the most fun?** Often related to music or raucous times with close friends.  
 3\. **What am I a sicko about?** Probably self-development, and cooking videos. This makes up the majority of my (many) hours spent on youtube.  
 4\. **Am I taking sufficient care of myself?** This prompt got me to finally do a bunch of apartment cleaning which has felt nice now that it's done :)  

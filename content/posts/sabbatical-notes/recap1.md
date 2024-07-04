@@ -122,7 +122,7 @@ And things went more or less according to plan.[^2] And it __was__ fun![^3]
 
 Here's the video: 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H7jtI4stySI?si=COtFkaUjC50to0Xj" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/p9HKvE4ZcmA?si=FGhRGxRb0XLJbMtw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <big>_Objective #2 - Reconnect with Fun - DONE_</big>
 

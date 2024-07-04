@@ -92,7 +92,7 @@ Here's me doing the "Art vs Artist" trend with some of my favourite drawings fro
 
 
 ### Drums
-I recorded two drum covers this year: <a target="_blank" href="https://www.youtube.com/watch?v=H7jtI4stySI">Mine (Taylor's Version)</a> and <a target="_blank" href="https://www.youtube.com/watch?v=gpUGLWtg9zY">Red (Taylor's Version)</a>, both by Taylor Swift.
+I recorded two drum covers this year: <a target="_blank" href="https://www.youtube.com/watch?v=p9HKvE4ZcmA">Mine (Taylor's Version)</a> and <a target="_blank" href="https://www.youtube.com/watch?v=gpUGLWtg9zY">Red (Taylor's Version)</a>, both by Taylor Swift.
 
 "Learn the drums" was the <a target="_blank" href="https://billy.dev/posts/sabbatical-notes/2-fun/">Fun Project</a> I decided on early into my sabbatical. And boy was it fun.
 

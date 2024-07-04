@@ -66,7 +66,7 @@ In the meantime, I'm doing creative work that I love.
 **Music**
 1. <a target="_blank" href="https://soundcloud.com/billyisyoung/hamilton-dear-theodosia">Hamilton -- Dear Theodosia</a> (song cover)
 1. <a target="_blank" href="https://soundcloud.com/billyisyoung/oasis-wonderwall">Oasis -- Wonderwall</a> (song cover)
-1. <a target="_blank" href="https://www.youtube.com/watch?v=H7jtI4stySI">Taylor Swift -- Mine (Taylor's Version)</a> (drum cover)
+1. <a target="_blank" href="https://www.youtube.com/watch?v=p9HKvE4ZcmA">Taylor Swift -- Mine (Taylor's Version)</a> (drum cover)
 1. <a target="_blank" href="https://www.youtube.com/watch?v=gpUGLWtg9zY">Taylor Swift -- Red (Taylor's Version)</a> (drum cover)
 1. <a target="_blank" href="https://www.youtube.com/watch?v=xiJMd8MdBq0">Paramore -- Still Into You</a> (drum cover)
 1. 

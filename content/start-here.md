@@ -27,7 +27,7 @@ In June 2023 <a target="_blank" href="https://billy.dev/posts/new-game-plus/">I 
 
 <a name="now"></a>
 ## What I'm doing now
-<small>_Inspired by Derek Sivers' <a target="_blank" href="https://nownownow.com/about">now page</a> movement. Last updated on Jun 25, 2024._</small>
+<small>_Inspired by Derek Sivers' <a target="_blank" href="https://nownownow.com/about">now page</a> movement. Last updated on Jul 10, 2024._</small>
 
 ### Living in SF
 I moved to San Francisco after graduating college in 2016, and I've been living here since (8 years now!). But I think from 2020 onward is when I really started to enjoy living here. Most Sunday mornings you can find me playing <a target="_blank" href="https://heylo.group/sfbv">volleyball</a> at Ocean Beach.
@@ -67,8 +67,9 @@ In the meantime, I'm doing creative work that I love.
 1. <a target="_blank" href="https://soundcloud.com/billyisyoung/hamilton-dear-theodosia">Hamilton -- Dear Theodosia</a> (song cover)
 1. <a target="_blank" href="https://soundcloud.com/billyisyoung/oasis-wonderwall">Oasis -- Wonderwall</a> (song cover)
 1. <a target="_blank" href="https://www.youtube.com/watch?v=p9HKvE4ZcmA">Taylor Swift -- Mine (Taylor's Version)</a> (drum cover)
-1. <a target="_blank" href="https://www.youtube.com/watch?v=gpUGLWtg9zY">Taylor Swift -- Red (Taylor's Version)</a> (drum cover)
+1. <a target="_blank" href="https://www.youtube.com/watch?v=ij9RIKnLTcM">Taylor Swift -- Red (Taylor's Version)</a> (drum cover)
 1. <a target="_blank" href="https://www.youtube.com/watch?v=xiJMd8MdBq0">Paramore -- Still Into You</a> (drum cover)
+1. New <a target="_blank" href="https://www.youtube.com/@billyonthedrums">youtube channel</a> just for my drum covers
 1. 
 
 **Drawing**
@@ -82,5 +83,5 @@ I like to do all sorts of things! Here's where you can find me:
 - I **write** here
 - I do most of my online socializing on **twitter**: <a target="_blank" href="https://twitter.com/billyisyoung">@billyisyoung</a>
 - I post my latest **drawings** at <a target="_blank" href="https://www.instagram.com/billyy_art/">@billyy_art</a> (or you can see all of them starting with #1 in <a target="_blank" href="https://twitter.com/billyisyoung/status/1328059097783160838">this twitter thread</a>)
-- I have a <a target="_blank" href="https://www.youtube.com/@billyy">youtube channel</a> with my **drum** covers, and videos about the **tech** industry
+- I sometimes make <a target="_blank" href="https://www.youtube.com/@billyonthedrums">drum cover videos</a>, and <a target="_blank" href="https://www.youtube.com/@billyy">tech career videos</a>
 - I sometimes **sing** covers and post them on <a target="_blank" href="https://soundcloud.com/billyisyoung">soundcloud</a>

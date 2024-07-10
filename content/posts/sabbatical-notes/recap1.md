@@ -135,7 +135,7 @@ Here's the video:
 GYG was done. I had my big realization, and then I challenged it by doing my drum project. But honestly, I didn't feel all that different. It was like taking a single step through fog: you'd still be in the fog... The only way out is forward. But where was forward?
 
 I thought of a few options, but none felt like MUST-DOs:
-* I could do another drum video--I was already practicing a new song (<a target="_blank" href="https://www.youtube.com/watch?v=clZoDqRwSRU">Red</a> by Taylor Swift) and I knew I would enjoy the process a second time
+* I could do another drum video--I was already practicing a new song (<a target="_blank" href="https://www.youtube.com/watch?v=ij9RIKnLTcM">Red</a> by Taylor Swift) and I knew I would enjoy the process a second time
 * I wanted to start writing again--I'd taken a break since it felt like I'd been forcing it, fighting against my internal editor, but I believed I could start again in a light, playful, and sustainable way this time
 * Coaching was still in the back of my mind, along with lingering concerns around income
 

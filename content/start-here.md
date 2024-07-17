@@ -68,7 +68,7 @@ In the meantime, I'm doing creative work that I love.
 1. <a target="_blank" href="https://soundcloud.com/billyisyoung/oasis-wonderwall">Oasis -- Wonderwall</a> (song cover)
 1. <a target="_blank" href="https://www.youtube.com/watch?v=p9HKvE4ZcmA">Taylor Swift -- Mine (Taylor's Version)</a> (drum cover)
 1. <a target="_blank" href="https://www.youtube.com/watch?v=ij9RIKnLTcM">Taylor Swift -- Red (Taylor's Version)</a> (drum cover)
-1. <a target="_blank" href="https://www.youtube.com/watch?v=xiJMd8MdBq0">Paramore -- Still Into You</a> (drum cover)
+1. <a target="_blank" href="https://www.youtube.com/watch?v=s0GkwoczN2M">Paramore -- Still Into You</a> (drum cover)
 1. New <a target="_blank" href="https://www.youtube.com/@billyonthedrums">youtube channel</a> just for my drum covers
 1. 
 

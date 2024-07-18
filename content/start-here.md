@@ -27,7 +27,7 @@ In June 2023 <a target="_blank" href="https://billy.dev/posts/new-game-plus/">I 
 
 <a name="now"></a>
 ## What I'm doing now
-<small>_Inspired by Derek Sivers' <a target="_blank" href="https://nownownow.com/about">now page</a> movement. Last updated on Jul 10, 2024._</small>
+<small>_Inspired by Derek Sivers' <a target="_blank" href="https://nownownow.com/about">now page</a> movement. Last updated on Jul 18, 2024._</small>
 
 ### Living in SF
 I moved to San Francisco after graduating college in 2016, and I've been living here since (8 years now!). But I think from 2020 onward is when I really started to enjoy living here. Most Sunday mornings you can find me playing <a target="_blank" href="https://heylo.group/sfbv">volleyball</a> at Ocean Beach.
@@ -61,6 +61,7 @@ In the meantime, I'm doing creative work that I love.
 1. <a target="_blank" href="https://billy.dev/posts/sabbatical-notes/6/">Sabbatical Notes #6: Is This It?</a>
 1. <a target="_blank" href="https://billy.dev/posts/sabbatical-notes/7/">Sabbatical Notes #7: Learning How To Be Happy</a>
 1. <a target="_blank" href="https://billy.dev/posts/what-you-like">How Do You Figure Out What You Like?</a>
+1. <a target="_blank" href="https://billy.dev/posts/sabbatical-notes/8/">Sabbatical Notes #8: Year One</a>
 1. 
 
 **Music**

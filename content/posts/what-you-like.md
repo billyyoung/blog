@@ -49,10 +49,11 @@ _ If I stripped away the external results from doing X, would I still do it? e.g
 
 **Develop awareness of when you are seeking answers externally.** E.g. What are other people doing? How do I beat this person? I want what she has. This is a trap, since the answers you actually want are within you, and won't be found external to you. [^2]
 
+<a name="motto"></a>
 ## Extended thoughts
 At some point recently, I fell back to asking myself <a target="_blank" href="https://billy.dev/posts/sabbatical-notes/6/">"Is this it?"</a>. I've been doing what I like, now where does this lead? Or is this ultimately just a form of hedonism? But now with the ideas of 'harmony' and 'taking care of yourself', I think I'm more OK with it.
 
-**Nurture harmony. Take care of yourself. Build what you enjoy building, and eventually do it in community.**
+**Nurture your harmony. Take care of yourself. Build what you enjoy building, and eventually do it in community.**
 
 That feels pretty good. That feels sufficient. If things start devolving into hedonism or if disharmony starts to spread, I think I'll realize it (eventually), and then course-correct. Otherwise, I'm on the path and moving forward, and that's all I can really hope for day to day.
 

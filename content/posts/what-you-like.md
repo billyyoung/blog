@@ -1,7 +1,7 @@
 ---
 title: "How Do You Figure Out What You Like?"
 date: 2024-06-25T18:00:00-07:00
-description: "During the times when it's not obvious..."
+description: "During the times when it's not obvious"
 type: "posts"
 mins: 4
 ---

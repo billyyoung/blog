@@ -10,7 +10,7 @@ Since its inception, my France trip has sort of been a plan of conflict.
 
 _A chance to watch the Olympics live? Hell yeah! [^1]_  
 _A chance to live out a childhood dream of residing in France for a couple months? Hell yeah!!_  
-_Except August is also the most exciting I've been to go all in on spinning up a coaching business… which I can't really do while I'm on vacation in France._  
+_Except August is also the most excited I've been to go all-in on spinning up a coaching business… which I can't really do while I'm on vacation in France._  
 
 I had another experience this past year of feeling guilt/FOMO about taking a vacation when I wanted to be working on projects, and what helped greatly was introspecting and processing and coming to accept that (1) yes I would like to work on projects, but (2) I also want this vacation and to have a good time and that time is also a gift to myself, so let me consciously choose this trade-off so I can be fully present on my vacation to enjoy it to the fullest.
 
@@ -22,7 +22,7 @@ If I go **sightseeing** (fun), I also think "OK, but I'm kinda hitting my limit 
 If I **cook** for myself in my airbnb (fun, healthy), I also think "why am I sitting here eating chicken breast?"  
 If I **eat out** (yum), I also think "this is starting to get a bit indulgent, in food or cost or both"
 
-One thing that still feels good though, whether in Paris or SF, is hitting the gym and getting those post-workout endorphins. Writing, too.
+One thing that still feels good though, whether in Paris or SF, is hitting the gym and getting those post-workout endorphins. Writing feels good too.
 
 I'm not entirely sure where to go from here, but I'm figuring it out. Some scattered thoughts include:
 * Binary A-or-B thinking is a trap, life isn't just either/or, there's balance to be had

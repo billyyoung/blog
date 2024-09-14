@@ -44,7 +44,7 @@ I recognize now that more achievements and other external things won't truly sat
 In the meantime, I'm doing creative work that I love.
 
 ### Sabbatical projects completed, since June 2023
-<small>_Last updated on Aug 29, 2024._</small>
+<small>_Last updated on Sep 14, 2024._</small>
 
 **Blog**
 1. <a target="_blank" href="https://billy.dev/posts/sabbatical-notes/1-doing/">Sabbatical Notes #1</a>
@@ -65,6 +65,7 @@ In the meantime, I'm doing creative work that I love.
 1. <a target="_blank" href="https://billy.dev/posts/sabbatical-notes/8/">Sabbatical Notes #8: Year One</a>
 1. <a target="_blank" href="https://billy.dev/posts/overthinking/comments/">Overthinking: Having a Comments Section</a>
 1. <a target="_blank" href="https://billy.dev/posts/overthinking/vacation/">Overthinking: Vacation</a>
+1. <a target="_blank" href="https://billy.dev/posts/walls">Walls</a>
 1.
 
 **Music**

@@ -24,7 +24,7 @@ Meanwhile, my entire mindset around my career has shifted to a <a target="_blank
 ## Drawing
 I'm still at it, slowly and steadily. And it's still challenging and rewarding.
 
-I drew around 50 portrait studies in 2022, with <a target="_blank" href="https://www.instagram.com/p/CmFsbV2Jobp/">some of them</a> being my favourite works to date.
+I drew **47 portrait studies** (<a target="_blank" href="https://twitter.com/billyisyoung/status/1509447342180626433">#308-354</a>) over <a target="_blank" href="https://twitter.com/billyisyoung/status/1835341196845011308">122</a>/365 days (~= 61h) in 2022, with <a target="_blank" href="https://www.instagram.com/p/CmFsbV2Jobp/">some of them</a> being my favourite works to date.
 
 I'm also starting to sit down and do more drawing from imagination and drawing shapes in perspective. This has been on my mind <a target="_blank" href="https://twitter.com/billyisyoung/status/1393826931859095562">all year</a>, but now I feel like I've advanced from "I have no idea wtf I'm doing" to "wtf is this... though maybe I can try X,Y,Z". (Thanks, in no small part, to the countless artists' and instructional insta posts and reels I've watched this year.)
 

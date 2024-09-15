@@ -81,7 +81,7 @@ My writing goals have become something like:
 In 2024, I'll be keeping this theme of gentleness, reestablishing a steady writing cadence, and then seeing where I can challenge myself.
 
 ### Drawing
-I finished 51 portrait studies over 145/365 days in 2023, and passed the 400-mark of studies completed since I started drawing 3 years ago, in May 2020.
+I finished **51 portrait studies** (<a target="_blank" href="https://twitter.com/billyisyoung/status/1631764932525170688">#355-406</a>) over <a target="_blank" href="https://twitter.com/billyisyoung/status/1835348872635220131">145</a>/365 days (~= 73h) in 2023, passing the 400-mark of studies completed since I started drawing in May 2020, three years ago.
 
 I still like drawing! I realize I have something of an affinity toward it. It's easy for me to sit down and do it. The feedback loop is near-immediate which feeds my engineering brain, and the finished product is sometimes profoundly beautiful which feeds my artist brain. (There's something about constantly working at the edge of your ability, feeling the gap between your skill and your taste lessen even just by an infinitesimal amount, and then that process creating a piece of work. It makes the work beautiful.)
 

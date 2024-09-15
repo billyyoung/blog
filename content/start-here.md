@@ -75,6 +75,7 @@ In the meantime, I'm doing creative work that I love.
 1. <a target="_blank" href="https://www.youtube.com/watch?v=ij9RIKnLTcM">Taylor Swift -- Red (Taylor's Version)</a> (drum cover)
 1. <a target="_blank" href="https://www.youtube.com/watch?v=s0GkwoczN2M">Paramore -- Still Into You</a> (drum cover)
 1. New <a target="_blank" href="https://www.youtube.com/@billyonthedrums">youtube channel</a> just for my drum covers
+1. <a target="_blank" href="https://www.youtube.com/watch?v=LzpwCWTatZU">Taylor Swift -- Better Than Revenge (Taylor's Version)</a> (drum cover)
 1. 
 
 **Drawing**

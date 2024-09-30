@@ -10,11 +10,14 @@ It happens every time now, when I return from traveling. The moment I step out o
 
 I have to close my eyes tight and really _pull_ in order to get back to the other place, and even then I can't return myself there, to my body in that place. I'm still _here_, trying to watch a movie about _there_ through squinted eyes.
 
-\*
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">in my 20s i arrogantly dismissed the notion of taking lots of photos+videos of moments because it detracted from being in the moment<br><br>but now i better understand the effect of Time one&#39;s senses--experience enough Time and the past becomes lost, like &quot;holy sh*t did this actually…</p>&mdash; billy (@billyisyoung) <a href="https://twitter.com/billyisyoung/status/1811948979359195607?ref_src=twsrc%5Etfw">July 13, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-\*
+<div>
+  <img style="width:60%; margin-bottom:0px" src="https://byoung-blog.s3.us-west-1.amazonaws.com/2024-09-29-photos.png">
+  <div style="text-align:center">
+    <small>
+      <a target="_blank" href="https://twitter.com/billyisyoung/status/1811948979359195607">twitter.com</a>
+    </small>
+  </div>
+</div>
 
 What's scarier is that I might forget the _types of thoughts_ that came while being in the other place, because those thoughts feel precious in a way I'm not able to describe. Thoughts questioning old patterns and routines, free thoughts, thoughts of "well what do I do now?" trying to fill in the newly empty space in my day, thoughts of art and effort and mastery. Thoughts coloured by very different background stresses, and nourished by a few too many buttery pastries, maybe.
 

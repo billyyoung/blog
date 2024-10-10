@@ -44,7 +44,7 @@ I recognize now that more achievements and other external things won't truly sat
 In the meantime, I'm doing creative work that I love.
 
 ### Sabbatical projects completed, since June 2023
-<small>_Last updated on Sep 29, 2024._</small>
+<small>_Last updated on Oct 10, 2024._</small>
 
 **Blog**
 1. <a target="_blank" href="https://billy.dev/posts/sabbatical-notes/1-doing/">Sabbatical Notes #1</a>
@@ -78,6 +78,7 @@ In the meantime, I'm doing creative work that I love.
 1. <a target="_blank" href="https://www.youtube.com/watch?v=s0GkwoczN2M">Paramore -- Still Into You</a> (drum cover)
 1. New <a target="_blank" href="https://www.youtube.com/@billyonthedrums">youtube channel</a> just for my drum covers
 1. <a target="_blank" href="https://www.youtube.com/watch?v=LzpwCWTatZU">Taylor Swift -- Better Than Revenge (Taylor's Version)</a> (drum cover)
+1. <a target="_blank" href="https://soundcloud.com/billyisyoung/vaundy-odoriko">Vaundy -- 踊り子 "odoriko"</a> (song cover)
 1. 
 
 **Drawing**

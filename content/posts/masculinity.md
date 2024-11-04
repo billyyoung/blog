@@ -26,7 +26,7 @@ I kinda know the **traits I like to see** in men. Things like:
 * Takes care of himself in some form (e.g. fitness, grooming, job security)
 * Reliable, there for his friends
 
-But then you look at **society**, and the you get a whole host of **conflicting messages**. There's calls to attain external things like money, status, getting girls, etc. (which you eventually learn don't bring lasting fulfillment). There's calls to re-embrace traditional and traditional gender roles. There's calls to recognize your male privilege and use it to be an ally and support marginalized groups. There's calls to _just go to therapy already_ (more on this below).
+But then you look at **society**, and the you get a whole host of **conflicting messages**. There's calls to attain external things like money, status, getting girls, etc. (which you eventually learn don't bring lasting fulfillment). There's calls to re-embrace tradition and traditional gender roles. There's calls to recognize your male privilege and use it to be an ally and support marginalized groups. There's calls to _just go to therapy already_ (more on this below).
 
 And many men haven't looked within themselves very deeply and don't know what they want[^2], so they end up following whatever voice is loudest. Or they just try to do their own thing and ignore all of the noise altogether.
 

@@ -7,7 +7,7 @@ type: "posts"
 mins: 2
 ---
 
-I recently encountered this fun synthesis of ideas:
+Here's a fun little synthesis of thoughts:
 * I enjoy reading and I read about ~10 books per year
 * After 5-10[^1] years[^2], if I reread an old book, it's almost like I'm reading it for the first time
 

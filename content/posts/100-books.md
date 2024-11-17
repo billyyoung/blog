@@ -2,7 +2,7 @@
 title: "100 Books"
 date: 2024-11-16T18:00:00-08:00
 lastupdated: 2024-11-16T18:00:00-08:00
-description: "My book rotation for the rest of my life, maybe"
+description: "My book rotation for life, maybe"
 type: "posts"
 mins: 2
 ---

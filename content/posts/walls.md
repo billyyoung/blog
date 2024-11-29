@@ -42,7 +42,7 @@ As a bit of an experiment, I'm going to try to maintain a list here. I'll add it
 * **Fit-It reflex**
 <small>
     * Trying to immediately jump to problem-solving away any negative feelings
-    * How do you stop chasing, and be present? How do you learn to sit still, and not feel like you're wasting time?
+    * How do you stop looking forward, wanting to fix everything, and be present? How do you learn to sit still, and not feel like you're wasting time?
 
 </small>
 

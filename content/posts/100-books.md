@@ -9,7 +9,7 @@ mins: 2
 
 Here's a fun little synthesis of thoughts:
 * I enjoy reading and I read about ~10 books per year
-* After 5-10[^1] years[^2], if I reread an old book, it's almost like I'm reading it for the first time
+* After 5-10[^1] years, if I reread an old book, it's almost like I'm reading it for the first time.[^2]
 
 Thus: **If I can find 50-100 books that I absolutely adore, I could just rotate reading through those books and be set for life!**[^3] And wouldn't it be fun if I had my list and my friends had theirs, and we could compare notes?
  
@@ -34,10 +34,12 @@ And so, here's my 100 Books:
 1. **The Inner Game of Tennis** by Timothy Gallwey; read: 2024
 1. **There Is No Antimemetics Division** by qntm; read: 2024
 1. **Good Work** by Paul Millerd; read: 2024
+1. **The Writing Life** by Annie Dillard; read: 2025
+1. **The Fire Next Time** by James Baldwin; read: 2025
 1. 
 
 [^1]: I'm still trying to figure out my exact _N_ here, but I'm guessing it will fall somewhere between 6-10 years. From experience, for N=5 years after I've read a book, I'll have forgotten most of the content but maybe rememeber wisps of how the book made me feel. N=10 is a nice round number and seems promising, but I only started tracking what books I've read since 2016 so I don't have any candidates to test this out on yet.
 
-[^2]: Interestingly this near-decade-long decay seems to only apply to books I actually like. I was looking back at what books I've read over the years, and there were books I'd read just 3 years ago that I didn't really care for that I had already completely 100% forgotten about.
+[^2]: Interestingly this long decay seems to only apply to books I actually like. I was looking back at what books I've read over the years, and there were books I had read just 1-2 years ago that I didn't really care for that I had already completely 100% forgotten about.
 
 [^3]: Of course I doubt I would just exclusively stick to this rotation of books and never read anything new again. But I love the _idea_ of having such a list.

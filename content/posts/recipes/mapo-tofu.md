@@ -10,7 +10,7 @@ _Adapted from <a target="_blank" href="https://thewoksoflife.com/ma-po-tofu-real
 Total time: 30 mins
 
 ## Ingredients
-Makes 2 big servings -- 59g protein, 21g fat, 8g carbs
+Makes 2 big servings -- 500cal; 59g protein, 21g fat, 8g carbs
 * 1 package tofu -- _recommend silken or soft_
 * 1 lb ground beef/pork/chicken -- _preferably 90/10 or less fat, but not necessary; see directions_
 * 2+ tbsp minced ginger, or a 2" segment -- _yes that much_

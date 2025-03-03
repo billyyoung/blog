@@ -17,12 +17,11 @@ I like <a target="_blank" href="https://billy.dev/posts/letter-29/">introspectio
 
 I like playing music (drums, singing, piano), cooking, drawing, volleyball, coding, and making the occasional <a target="_blank" href="https://billy.dev/posts/taxes/">spreadsheet</a>.
 
-In June 2023 <a target="_blank" href="https://billy.dev/posts/new-game-plus/">I left my job</a> of 7 years in software engineering, and I'm currently on a sabbatical!
+In June 2023 <a target="_blank" href="https://billy.dev/posts/new-game-plus/">I left my job</a> of 7 years in software engineering, and I'm currently on a sabbatical.
 
 ### Other facts
 - Born in Halifax, NS, Canada; raised in Windsor, ON, Canada
 - Bachelor of Mathematics: Computer Science (2016) from the University of Waterloo
-- Currently living in San Francisco, CA
 - Proficient in French
 
 <a name="now"></a>

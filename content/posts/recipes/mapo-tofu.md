@@ -40,16 +40,16 @@ Prep
 
 Cooking
 * Recommend using a saute pan or dutch oven for surface area and height
-* Brown your meat
+* Brown your **meat** --> a good initial sear is enough, and meat should be fully cooked by the end
 * Drain however much excess rendered fat you'd like using a paper towel, leaving some fat to fry the rest of the ingredients
-* Add in the 2 tbsp douban jiang --> fry it a bit to heat it up and extract some of its oil
-* Add the minced ginger, minced garlic, and arbols if using --> fry for 30-60s or until fragrant
-* Add the ground sichuan peppercorns --> fry for ~30s (DO NOT LET THIS BURN)
-* Add in the 1 cup chicken stock or water + 2 tbsp shaoxing wine
-* Add 1/2 tbsp light soy + 1/2 tbsp dark soy, plus more to taste
-* Add 1/4 tsp sugar, plus more to taste, if using
+* Add in the 2 tbsp **douban jiang** --> fry it a bit to heat it up and extract some of its oil
+* Stir in the minced **ginger**, minced **garlic**, and **arbols** if using --> fry for 30-60s or until fragrant
+* Stir in the **ground sichuan peppercorn** --> fry for ~30s (DO NOT LET THIS BURN)
+* Add in the 1 cup **chicken stock** or water + 2 tbsp **shaoxing wine**
+* Add 1/2 tbsp **light soy** + 1/2 tbsp **dark soy**, plus more to taste
+* Add 1/4 tsp **sugar**, plus more to taste, if using
 * Bring this to a simmer
-* Add in 1 tsp black vinegar, if using
-* Stir in corn starch slurry
-* Toss in tofu --> let the tofu warm up and let the slurry thicken everything, 3-5 mins
-* Finish with scallions and sesame oil, and serve with rice
+* Add in 2 tsp **black vinegar**, if using
+* Stir in **corn starch slurry**
+* Stir in **tofu** --> let the tofu warm up and let the slurry thicken everything, 3-5 mins
+* Finish with **scallions** and **sesame oil**, and serve with rice

@@ -23,7 +23,7 @@ Makes 2 big servings -- 59g protein, 21g fat, 8g carbs
 * Chinkiang black vinegar -- _ideal to maximize flavour, but not mandatory_ 
 * Corn starch + water
 * (optional) 1/4 tsp sugar
-* (optional) 1-2 chile de arbol, cut into 1" slices and deseeded -- _if you want it spicier_
+* (optional) 1-2 dried chile de arbol, cut into 1" slices and deseeded -- _if you want it spicier_
 
 Finish with
 * 2 scallions, diced

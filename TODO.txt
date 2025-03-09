@@ -1,0 +1,5 @@
+Task: write docs for how everything I find works!
+
+Task: RSS – find a way to exclude certain posts from RSS (and therefore emails)
+
+

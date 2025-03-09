@@ -2,17 +2,21 @@ Reading speed:
 200 wpm for adults
 
 Local server:
-$ hugo server --buildDrafts --buildFuture
+$ ./run_local.sh
 
-Draft:
+Drafts:
 add "draft: true" in the header of a post, see blog/archetypes/default.md
 
-Install a Hugo theme:
+Install a new Hugo theme:
 - add it as a submodule (e.g. my fork of ezhil - https://github.com/billyyoung/ezhil)
 
 Recover on a new machine:
 - check submodules, `.gitmodules`
 - repull submodules - `$ git submodule update --init --recursive`
+
+[2025-03-09]
+_index.md in /posts/ subfolders apply the front matter to all posts in the folder
+but i'm currently hacking it a bit to use it as a template for the list.html page for the subfolder, e.g. /posts/sabbatical-notes/
 
 [2022-02-20]
 If I ever want to convert my posts to /yyyy/mm/dd/name format:

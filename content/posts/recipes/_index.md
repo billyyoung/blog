@@ -1,4 +1,4 @@
 ---
 heading: "My Recipes"
-title: "debug recipes"
+title: "My Recipes"
 ---

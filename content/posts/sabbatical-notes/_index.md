@@ -1,4 +1,4 @@
 ---
 heading: "Sabbatical Notes"
-title: "debug sab"
+title: "Sabbatical Notes"
 ---

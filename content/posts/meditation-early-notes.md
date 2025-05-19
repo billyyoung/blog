@@ -88,6 +88,16 @@ Currently for my sits, I like to do:
 
 This year, I also started attending some group meditations a couple times per month. One is hosted by friends (we mostly do open awareness + _metta_), and another is <a target="_blank" href="https://serviceguild.fun/saturday-night-metta/">Saturday Night Metta</a> hosted over zoom.
 
+## How's it going?
+
+I'm now enlightened!! jk
+
+It's been good. Actually it's been more than good. It's strange, I'm not sure why I have this urge to downplay it. But actually I think I've experienced a non-trivial amount of positive change from the meditation I've done so far, mainly with _metta_. I've noticeably "leveled up" in the amount of love I feel toward myself compared to one year ago. There were even a few days earlier this year where I had the thought "oh wow I actually love myself" and felt this to be true in a way I had never felt before. Much of this progress came from doing well-guided _metta_ meditation (and e.g. identifying objects of vast amounts of love).
+
+And so I want to do more meditation in general.
+
+The purported longer-term benefits of a strengthened prefrontal cortex or _moksha_ still feel largely distant and abstract to me. But I'm motivated to continue and also see if I can experience these firsthand.
+
 ## Miscellaneous thoughts
 
 ### Community helps a lot

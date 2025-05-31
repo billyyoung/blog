@@ -38,6 +38,11 @@ name = "Blog"
 url = "/posts"
 weight = 3
 
+[[menu.main]]
+name = "Sabbatical Notes"
+url = "/posts/sabbatical-notes"
+weight = 4
+
 # socials
 [[params.social]]
 name = "Twitter"

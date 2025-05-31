@@ -69,7 +69,10 @@ In the meantime, I'm doing creative work that I love.
 1. <a target="_blank" href="https://billy.dev/posts/how-was-your-trip">How Was Your Trip?</a>
 1. <a target="_blank" href="https://billy.dev/posts/sabbatical-notes/9/">Sabbatical Notes #9: Good Work</a>
 1. <a target="_blank" href="https://billy.dev/posts/100-books">100 Books</a>
-1. <a target="_blank" href="https://billy.dev/posts/2024-review/">2024: Year In Review</a>
+1. <a target="_blank" href="https://billy.dev/posts/2024-review">2024: Year In Review</a>
+1. <a target="_blank" href="https://billy.dev/posts/drawing-vs-sf6">Drawing vs Street Fighter 6</a>
+1. <a target="_blank" href="https://billy.dev/posts/meditation-early-notes">Early Notes on Meditation</a>
+1. <a target="_blank" href="https://billy.dev/posts/indecision">Mechanics of Indecision</a>
 1.
 
 **Music**

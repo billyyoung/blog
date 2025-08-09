@@ -1,7 +1,7 @@
 ---
 title: "Compendium: Burnout"
 date: 2025-06-16T14:00:00-07:00
-description: "All of my writing linked in one place"
+description: "All of my writing on burnout linked in one place"
 type: "posts"
 mins: 4
 ---

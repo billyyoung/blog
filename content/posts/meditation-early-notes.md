@@ -18,7 +18,7 @@ From what I've learned so far, there's a rough 2x2 model for different types of 
 {open awareness, focusing} x {grounding, inquisitive}.
 
 Here's how I'd categorize some practices I know of:
-* Noticing-practice with the breath – open awareness, inquisitive
+* Noticing the mechanics of the breath – open awareness, inquisitive
 * Staring at a wall for 30 mins and seeing what comes up – open awareness
 * _Nadi shuddhi_ (alternate nostril breathing) – focusing
 * _Metta_ (loving-kindness) – focusing, inquisitive

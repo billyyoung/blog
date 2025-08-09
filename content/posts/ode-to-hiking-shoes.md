@@ -1,7 +1,7 @@
 ---
-title: "Ode to Shoes"
+title: "Ode to Hiking Shoes"
 date: 2025-08-09T17:00:00-06:00
-description: "I never expected to own a pair of hiking shoes"
+description: "I never expected to own a pair"
 type: "posts"
 mins: 3
 ---

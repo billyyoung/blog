@@ -14,6 +14,12 @@ Recover on a new machine:
 - check submodules, `.gitmodules`
 - repull submodules - `$ git submodule update --init --recursive`
 
+Images and AWS management
+- https://aws.amazon.com
+- Sign In
+- "Don't have" -> "sign in as root user"
+- S3 - object permissions should be "Everyone" has Read access
+
 [2025-03-09]
 _index.md in /posts/ subfolders apply the front matter to all posts in the folder
 but i'm currently hacking it a bit to use it as a template for the list.html page for the subfolder, e.g. /posts/sabbatical-notes/

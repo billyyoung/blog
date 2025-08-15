@@ -88,6 +88,7 @@ Essentially: instead of trying to make the right decision, just make _a_ decisio
 
 Can you still end up screwed? 100%. Something is going to hit the fan one way or another, no matter which path you pick. This is a fact of life. But we can move forward in spite of this, and deal with whatever else happens.
 
+<a name="what-can-you-do"></a>
 # What can you do?
 
 Idk man. I personally think the decisive way is how I would like to live. And if you want to be like that, you kinda need to find the right framing/beliefs that speak to you, and nurture them and practice them so that you're able to make bigger and bigger decisions with equanimity.

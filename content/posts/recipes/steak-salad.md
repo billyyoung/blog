@@ -23,6 +23,7 @@ Makes 2 servings
 
 Finish with
 * Parmigiano reggiano, shaved
+* (Optional) Crushed mixed nuts
 
 ## Directions
 
@@ -43,5 +44,6 @@ Assembly
 * In a huge salad bowl - spoon the dressing on the sides of the bowl to coat
 * Toss in salad greens
 * Slice steak, and toss in
+* Crush nuts, and toss in, if using
 * Give everything a big mix, adding more dressing directly to the salad as needed
 * Finish with freshly shaved parm and more black pepper

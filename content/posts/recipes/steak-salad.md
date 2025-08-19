@@ -27,7 +27,7 @@ Finish with
 ## Directions
 
 Steak
-* For a **cold steak salad** as the original recipe intends: cook your steak before you make the dressing so it has a chance to cool down a bit
+* For a **cold steak salad** as the original recipe intends: cook steak before you make the dressing so it has a chance to cool down a bit
 
 Dressing
 * In a mortar and pestle - smash your **anchovy** and **garlic** with a touch of kosher salt to form a paste
@@ -41,7 +41,7 @@ Dressing
 
 Assembly
 * In a huge salad bowl - spoon the dressing on the sides of the bowl to coat
-* Toss in your salad greens
-* Slice your steak, and toss in the slices (and optionally any steak juices)
+* Toss in salad greens
+* Slice steak, and toss in
 * Give everything a big mix, adding more dressing directly to the salad as needed
 * Finish with freshly shaved parm and more black pepper

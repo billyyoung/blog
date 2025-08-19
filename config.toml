@@ -43,6 +43,11 @@ name = "Sabbatical Notes"
 url = "/posts/sabbatical-notes"
 weight = 4
 
+[[menu.main]]
+name = "Recipes"
+url = "/posts/recipes"
+weight = 5
+
 # socials
 [[params.social]]
 name = "Twitter"

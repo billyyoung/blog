@@ -1,5 +1,5 @@
 ---
-title: "Recipe: Assertive Steak Salad"
+title: "Recipe: Assertive Caesar-y Steak Salad"
 date: 2025-08-18T22:00:00-07:00
 description: ""
 type: "recipes"
@@ -37,7 +37,7 @@ Dressing
   * Use the remaining lemon to adjust the acidity at the end, to your taste
 * Add in the **greek yogurt** and **mayo**; you can adjust the ratio and amounts to your liking
 * Salt & pepper to taste
-* Dressing should be _very_ assertive
+* Dressing should be _very assertive_
 
 Assembly
 * In a huge salad bowl - spoon the dressing on the sides of the bowl to coat

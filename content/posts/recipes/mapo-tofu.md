@@ -5,7 +5,7 @@ description: "Macros: 59p, 21f, 8c"
 type: "recipes"
 ---
 
-_Adapted from <a target="_blank" href="https://thewoksoflife.com/ma-po-tofu-real-deal/">The Woks of Life</a>_
+_Adapted from <a target="_blank" href="https://thewoksoflife.com/ma-po-tofu-real-deal/">The Woks of Life</a> to be more meat-forward._
 
 Total time: 30 mins
 

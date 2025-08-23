@@ -100,11 +100,15 @@ Some frames that I find compelling:
 * Pick the option that you'll regret not trying
 * Pick the option that you'd be proud of picking
 
-Alternatively: start small.
+<big>--</big>  
 
-Intentionally make a choice that you think is the "the wrong decision". The next time you go to your favourite restaurant, order something different than your favourite order. (And notice any discomfort you feel, and dig in to where that's coming from.)
+Alternatively: **start small**. Try a bit of exposure therapy!
 
-Try developing a "noticing practice" – of when you feel discomfort or fear, when you want to shy away from deciding, when you want to avoid pain, when you shut down ideas because you think they aren't going to work. Keep a note on your phone tallying when you feel this way. Bonus points if you can use these opportunities to inspect what's going on[^3]. I've found this type of noticing practice can bring up new details and insights (e.g. in frequency, patterns), which can help with further unclenching.
+Intentionally make a choice that you think is the "the wrong decision". The next time you go to your favourite restaurant, **take a risk** and order something different than your favourite order. (And notice any discomfort you feel, and dig in to where that's coming from.)
+
+Consider developing a "noticing practice" – of when you feel discomfort or fear, when you want to shy away from deciding, when you want to avoid pain, when you shut down ideas because you think they aren't going to work. Keep a note on your phone tallying when you feel this way. Bonus points if you can use these opportunities to inspect what's going on[^3]. I've found this type of noticing practice can bring up new details and insights (e.g. in frequency, patterns), which can help with further unclenching.
+
+<big>--</big>  
 
 I've also heard some people really benefit from "playing the tape through" and simulating bad outcomes in their head. Imagine you made your choice, and X bad thing happened as a result. What's bad about it? And then how would you respond?[^3]
 

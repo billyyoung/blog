@@ -1,7 +1,7 @@
 ---
-title: "Recipe: Tandoori Chicken Drumsticks at home"
+title: "Recipe: 'Tandoori' Chicken Drumsticks"
 date: 2025-08-19T08:00:00-07:00
-description: ""
+description: "I should figure out the macros for this"
 type: "recipes"
 ---
 

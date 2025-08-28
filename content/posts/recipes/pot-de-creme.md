@@ -16,7 +16,6 @@ Total time: 20 mins + 60 mins bake + 3h fridge
 
 ## Ingredients
 Makes 3 servings -- 380cal; 9g protein, 26g fat, 30g carbs
-total 91c, 78f, 28p, 1142bbb
 * 3 bags earl grey tea (ideally decaf for this late night dessert)
 * 1/4 cup heavy cream
 * 1 cup whole milk

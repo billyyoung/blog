@@ -8,17 +8,17 @@ mins: 4
 
 I feel like I'm wasting away. 
 
-I spend ~10 hours each weekday within the world of Work, and I no longer enjoy it (but oh how I used to!). I scramble around, I'm in meetings, I help with planning, I get pinged and pulled into conversatons. I get annoyed with people and their incompetence, and my incompetence. I avoid the work I need to do (Why? Don't want to face reality. Of what? That I have to get this boring-ass sh*t done? idk). I'm learning still, but what I'm learning now is mostly 'How to Improve Coordination and Cross-Functional Collaboration' (vs more technical skills). And coordination problems are annoying.
+I spend ~10 hours each weekday within the world of Work, and I no longer enjoy it (but oh how I used to!). I scramble around, I'm in meetings, I help with planning, I get pinged and pulled into conversatons. I get annoyed with people and their incompetence, and my own incompetence. I avoid the work I need to do (Why? Don't want to face reality. Of what? That I have to get this boring-ass sh*t done? idk). I'm learning still, but what I'm learning now is mostly _'How to Improve Coordination and Cross-Functional Collaboration'_ (vs more technical skills). And coordination problems are annoying.
 
 So I rebel, I slack off, I procrastinate, I don't fully focus on work. I half-work throughought the day, which extends my working hours because of guilt plus the actual things that need to get done.
 
-There are very few days now where I feel satisfied, like "OK I got a lot done today" in the sense of deep, meaningful work (that doesn't inolve me doing some rogue coding; a sign maybe). It feels like choppy work salad, and it's really not doing it for me. I often find myself shouting, to myself, "I wish I could retire" or "I don't want to work". 
+There are very few days now where I feel satisfied, like "OK I got a lot done today" in the sense of deep, meaningful work (that doesn't involve me doing some rogue coding; a sign, maybe). It feels like choppy work salad, and it's really not doing it for me. I often find myself saying to myself, "I wish I could retire," or "I don't want to work". 
 
 How did I get here?
 
 I've been at my company for a while now (6.5 years!). But the last two and a half years, basically starting with COVID, have felt kinda like I've been stuck on rails. I'm only really noticing it now, looking back while writing this. 
 
-I'd reached maybe _minor Guru_ status (I'm half-joking here). And then the company wants to use you for more high-leverage work. But the qualities that get you to become a Guru in the first place are not indicative of if you will like or succeed in this higher role. I was a domain owner and then I grew into a leader within my org, partly out of my own interest in taking on the role but also partly out of a sense of duty and necessity. 
+I reached _minor Guru_ status (I'm half-joking here). And then the company wants to use you for more high-leverage work. But the qualities that get you to become a Guru in the first place are not indicative of if you will like or succeed in this higher role. I was a domain owner and then I grew into a leader within my org, partly out of my own interest in taking on the role but also partly out of a sense of duty and necessity.
 
 Right now, I do a lot of planning and very little coding. _And after writing this all out, I think I'm in the wrong role for me!_ 
 

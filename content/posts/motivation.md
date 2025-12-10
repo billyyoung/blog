@@ -1,7 +1,7 @@
 ---
 title: "What Is Motivation?"
 date: 2025-12-09T23:00:00-08:00
-description: "And how to act, independent of it"
+description: "And how to act without it"
 type: "posts"
 mins: 6
 ---

@@ -42,8 +42,8 @@ Another way to change how we feel is to **examine our relationship to our experi
 **What do LLMs really helpful with?**
 * Introspection
 * Exploring thoughts and feelings
-  * “Help me understand this - ”
-  * “I have some things to get off my chest - ”
+  * "Help me understand this -"
+  * "I have some things to get off my chest -"
 * Pulling up relevant theories and best practices, and presenting them in a digestible way 
 
 This is generally the realm of what's called expressive therapy (i.e. what we think of as stereotypical therapy) -- exploring one’s thoughts and feelings, and gaining insight into memories and the unconscious.[^1]
@@ -60,11 +60,12 @@ This is generally the realm of what's called supportive therapy (kind of like su
 
 ## Pitfalls to keep in mind
 * Garbage in, garbage out
-  * "Objectivity" – your chat can only be as objective as your subjectivity allows → so share more, and share honestly
+  * "Objectivity" – your chat can only be as objective as your own subjectivity allows → so share more, and share honestly
   * ChatGPT will never say you're the problem
     * (Unless you tell it to call you out, and even then it can be iffy)
 * Sycophancy, being over-validated and not challenged enough
 * Epistemic drift, and weakening reality testing
+* If ^ goes on for long enough, there's risk of <a target="_blank" href="https://www.youtube.com/watch?v=MW6FMgOzklw">AI-induced psychosis</a>
 
 ## Helpful ways of interacting
 * Be as open and honest as you are comfortable being
@@ -73,9 +74,9 @@ This is generally the realm of what's called supportive therapy (kind of like su
 * If its responses aren’t landing for you, say that (and ideally say why) → hopefully it adjusts and you adjust too
 
 ## Tips for prompts
-* Include any models, systems, frameworks that you know that resonate with you -- this will immediately give you a language to work off of
-  * E.g. dhamma, IFS, neuroscience, tarot, enneagram, <a target="_blank" href="https://www.reddit.com/r/ChatGPTPro/comments/12juous/cbt_therapy_prompt/">CBT</a>
-  * I've included what I use in the example below
+* Include any models, systems, frameworks you know that resonate with you -- this will immediately give you a language to work off of
+  * E.g. <a target="_blank" href="https://www.reddit.com/r/ChatGPTPro/comments/12juous/cbt_therapy_prompt/">CBT</a>, IFS, neuroscience, dhamma, tarot, enneagram
+  * You can see what I use in my example below
 * Specify any details on communication style that you prefer
   * E.g. descriptive language, vivid imagery, no fluff directness
 * Iterate, iterate, iterate

@@ -39,7 +39,7 @@ url = "/posts"
 weight = 3
 
 [[menu.main]]
-name = "Sabbatical Notes"
+name = "Sabbatical Notes (2023-2025)"
 url = "/posts/sabbatical-notes"
 weight = 4
 

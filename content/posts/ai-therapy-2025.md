@@ -1,7 +1,7 @@
 ---
 title: "My tips for using AI for therapy"
 date: 2025-12-11T22:00:00-08:00
-description: "Read at your own risk"
+description: "Proceed with caution..."
 type: "posts"
 mins: 4
 ---

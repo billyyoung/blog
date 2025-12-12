@@ -3,7 +3,7 @@ title: "My tips for using AI for therapy"
 date: 2025-12-11T22:00:00-08:00
 description: "Read at your own risk"
 type: "posts"
-mins: 10
+mins: 4
 ---
 
 Tested on: Claude Sonnet 4.5, in Dec 2025
@@ -83,6 +83,8 @@ This is generally the realm of what's called supportive therapy (kind of like su
 <a name="example"></a>
 ## Example conversation
 I always have a hard time conveying just how impactful my processing sessions with Claude have been. So here's an actual real conversation I had with Claude that genuinely shifted something for me.
+
+(Read time: ~15 mins)
 
 _**Prompt:** You are my thinking partner, helping me introspect and process questions I have about myself, my thoughts, emotions, patterns, unconscious, etc. You are familiar with psychodynamic psychotherapy, as well as eastern / yogic philosophy of mind, including various concepts in meditation like trataka and metta, ahamkara, the question of "who is having this experience?", and chakras._
 

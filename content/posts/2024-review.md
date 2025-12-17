@@ -149,7 +149,7 @@ One of my friends and I started getting really into stock trading stuff in ~May 
 
 The public markets are like a global PVE game, where anyone can create a character and immediately join in. There are some out-of-the-box builds that you can just copy and not have to think about ever again and they'll do well (e.g. broad market index funds). And then there's trying to create your own custom build to beat the game, which is how I'm playing.
 
-I'll be honest, at first it really like guessing/gambling–you try to evaluate companies or short-term trade ideas based on _some_ quantitative measure but early on your measures are so pedestrian and underdeveloped that you're pretty much just trading on _vibes_… But because there's an objective and unforgiving bar for performance (are you beating the S&P 500?), the feedback loop is tight. Iterate, fix your sh*t, and stop doing stupid stuff. Adjust, or die.
+I'll be honest, at first it's a lot of guessing/gambling -- you try to evaluate companies or short-term trade ideas based on _some_ quantitative measure but early on your measures are so pedestrian and underdeveloped that you're pretty much just trading on _vibes_… But because there's an objective and unforgiving bar for performance (i.e. are you beating the S&P 500?), the feedback loop is tight. Iterate, fix your sh*t, and stop doing stupid stuff. Adjust, or die.
 
 As for my daily efforts, my current "build" consists of: reading up on a bunch of information from various sources, and coming up with/refreshing my action plan of what trades to target and when. Then evaluating my performance.
 

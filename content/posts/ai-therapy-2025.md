@@ -35,43 +35,44 @@ E.g. "If I speak up, then I will make a fool of myself" is an intermediate belie
 
 Another way to change how we feel is to **examine our relationship to our experience**. Events alone have no emotion; it is our cognitive attribution of the event that causes the emotion/feeling.
 
-(Thus it's extra important to understand the risks of using LLMs, as they directly operate on our cognition! But more on this below.)
+(Thus it's extra important to understand the risks of using LLMs, as they directly operate on our cognition! More on this below.)
 
 ## When is an LLM helpful? -- Expressive therapy vs supportive therapy
 
-**What do LLMs really helpful with?**
+**What are LLMs really helpful with?**
 * Introspection
 * Exploring thoughts and feelings
-  * "Help me understand this -"
-  * "I have some things to get off my chest -"
+  * "Help me understand this --"
+  * "I have some things to get off my chest --"
 * Pulling up relevant theories and best practices, and presenting them in a digestible way 
 
-This is generally the realm of what's called expressive therapy (i.e. what we think of as stereotypical therapy) -- exploring one’s thoughts and feelings, and gaining insight into memories and the unconscious.[^1]
+This is generally the realm of what's called expressive therapy -- exploring one’s thoughts and feelings, and gaining insight into memories and the unconscious[^1]. I.e. what we think of as stereotypical therapy.
 
 **What are LLMs not as helpful with?"**
 * Providing you lots of validation*
   * \*LLMs are actually very good at this! But in the context of therapy this can actually hamper us
-  * e.g. "Tell me I'm right about this - "
+  * e.g. "Tell me I'm right about this --"
 * When you ask it to tell you what to do
   * (You need to decide this for yourself, or you’re not going to be addressing the root of your problems)
-* Remaining rooted in reality -- gentle challenging you, reality testing
+* Reality testing, and challenging your beliefs/biases
 
 This is generally the realm of what's called supportive therapy (kind of like supporting baseline psychological function).
 
 ## Pitfalls to keep in mind
 * Garbage in, garbage out
-  * "Objectivity" – your chat can only be as objective as your own subjectivity allows → so share more, and share honestly
-  * ChatGPT will never say you're the problem
-    * (Unless you tell it to call you out, and even then it can be iffy)
-* Sycophancy, being over-validated and not challenged enough
-* Epistemic drift, and weakening reality testing
-* If ^ goes on for long enough, there's risk of <a target="_blank" href="https://www.youtube.com/watch?v=MW6FMgOzklw">AI-induced psychosis</a>
+  * "Objectivity" is not real – your chat can only be as objective as your own subjectivity allows
+  * So share more, and share honestly
+* Sycophancy -- ChatGPT will never say you're the problem
+  * (Unless you tell it to call you out, and even then it can be iffy)
+* Weakened ability to reality-test due to the LLM over-validating you or serving you believable junk
+  * If ^ goes on for long enough, you're at risk of <a target="_blank" href="https://www.youtube.com/watch?v=MW6FMgOzklw">AI-induced psychosis</a>
 
 ## Helpful ways of interacting
 * Be as open and honest as you are comfortable being
 * Be descriptive of not just your thoughts but your thinking process, what you're feeling, etc.
 * The more details you provide, the more it has to work off of
 * If its responses aren’t landing for you, say that (and ideally say why) → hopefully it adjusts and you adjust too
+* Double-check answers presented to you as "fact" -- they should be easy to search and verify
 
 ## Tips for prompts
 * Include any models, systems, frameworks you know that resonate with you -- this will immediately give you a language to work off of
@@ -80,6 +81,9 @@ This is generally the realm of what's called supportive therapy (kind of like su
 * Specify any details on communication style that you prefer
   * E.g. descriptive language, vivid imagery, no fluff directness
 * Iterate, iterate, iterate
+* **Do your own research!**
+  * Don't solely rely on LLMs for knowledge and understanding
+  * Seek out other sources, read broadly, etc.
 
 <a name="example"></a>
 ## Example conversation

@@ -4,7 +4,6 @@ date: 2025-12-30T18:00:00+08:00
 description: "How many years can fit inside one year, again?"
 type: "posts"
 mins: 6
-draft: true
 ---
 
 <small>_See my review of 2024 <a target="_blank" href="https://billy.dev/posts/2024-review/">here</a>._</small>

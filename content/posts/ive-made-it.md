@@ -6,6 +6,8 @@ type: "posts"
 mins: 5
 ---
 
+<small>_If you want to comment on this post, you can do so on my <a target="_blank" href="https://billyy.substack.com/p/ive-made-it">x-post</a> on substack._</small>
+
 This is something that's been on my mind since the end of 2024, and I'm still not sure how to put it to words tactfully, nor is it something I even fully understand. So this is going to be fairly messy, and we'll see how far I get.
 
 Sometime during my sabbatical, and before grad school was even an option in my mind, I would get this feeling of **"I've made it"** bubbling up within me from time to time. Now, if you asked me to describe how this feels, what would I say, hmmm?

@@ -6,7 +6,8 @@ type: "posts"
 mins: 6
 ---
 
-<small>_See my review of 2024 <a target="_blank" href="https://billy.dev/posts/2024-review/">here</a>._</small>
+<small>_See my review of 2024 <a target="_blank" href="https://billy.dev/posts/2024-review/">here</a>._</small>  
+<small>_If you want to comment on this post, you can do so on my <a target="_blank" href="https://billyy.substack.com/p/2025-year-in-review">x-post</a> on substack._</small>
 
 A lot happened this year!
 

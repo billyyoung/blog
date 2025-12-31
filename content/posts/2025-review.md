@@ -32,7 +32,7 @@ Almost immediately upon starting my clinical training and getting acculturated t
 
 _"Hell yeah, this is so sick,"_ is something I found myself saying _a lot_.
 
-And it's not just the vibes being aligned. It's the day-to-day and general direction feeling good too. During my sabbatical, I kept returning to one of my values: industry ("to work hard and well at my life tasks"). And I wanted the next thing I did to be something that I _wanted_ to work hard at. Something that I could do for 8 hours per day that didn't want to make me bash my head into a wall. The "8 hours" part is really important to me, because it represents having a Main Thing that you're pursuing and trying to get good at. That's what I want for myself.
+And it's not just the vibes being aligned. It's the day-to-day and general direction feeling good too. During my sabbatical, I kept returning to one of my values: industry ("to work hard and well at my life tasks"). And I wanted the next thing I did to be something that I _wanted_ to work hard at. Something that I could do for 8 hours per day that didn't want to make me bash my head into a wall. The "8 hours" part is really important to me, because it represents having a Main Thing that I'm pursuing and trying to get good at. That's what I want for myself.
 
 I'd considered art, but ultimately it wasn't something I could do for hours a day. I'd considered stock trading, but that felt hollow, like I wasn't contributing anything to other people. I'd considered life coaching, but I found I really did not like the marketing side of starting up a life coaching business.
 
@@ -110,7 +110,7 @@ Again, with school now in full swing, I'm not sure what kind of posts I'll be pu
 * Sinners (2025) - _IMAX re-release_
 * Physical: Asia (2025)
 
-
+<a name="monthly"></a>
 # Appendix: Monthly report
 Mostly for my own records.
 

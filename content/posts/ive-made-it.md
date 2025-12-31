@@ -34,6 +34,9 @@ Some of it is probably psychological and emotional. At the start of my sabbatica
 
 Another factor is what I'll call **"attunement to self"** and one's "hit rate" on decisions. I think about this stuff a lot, which maybe gives me an EXP boost of sorts. Figure out what you like (and what you don't like). Focus your time and energy on what you want to see more of (thereby focusing less on what you don't want to see more of). Know thyself. And through being more attuned to yourself, you'll be able to make decisions that are more and more aligned with your values and what you want. Your hit rate on (1) how many of your decisions feel good, and (2) how deeply those decisions feel good will increase. I encountered this framing in my mid-20s, and one of the cool byproducts was that I started paying attention to my attunement and hit rate, and could actually feel it improving over the years (I'm 32 now).
 
+I also keep coming back to this idea of: **what can I do for 8 hours per day** that doesn't make me want to bash my head into a wall? Or, what flavour of **sh\*t sandwich** would I be OK eating every day, for potentially years on end? This is also related to attunement to self, in that I am much more discering of what sh\*t sandwiches I will or will not eat. There was a time in my life where the sh\*t sandwich I chose really wasn't for me, and eventually I became miserable and burnt out. But the sh\*t sandwich I've chosen now, and the stresses that make it up, I feel are both manageable and worth it. So that probably helps a lot too.
+
+...
 
 Not to say that I’m totally zen now or I don’t have any struggles. I definitely do! I’m still constantly trying to improve a boatload of things in my life, in a grasping way. But now there’s a growing part of me that believes that I've made it. And to not sweat the small stuff, and it's almost all small stuff. (Also, spending time with my friends' 7-month-old feels like it contributed too.)
 

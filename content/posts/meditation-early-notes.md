@@ -48,6 +48,7 @@ One caveat here is that I think the type of meditation you do matters. E.g. with
 
 I've also heard that if you meditate consistently enough, you will inevitably run into painful inner stuff, regardless of the type of meditation you do or how aggressively you tend to repress things, just by nature of us all having our own hang-ups. So it may not be an exclusively feel-good thing.
 
+<a name="needs"></a>
 ### 3. Contentment as a Need of the soul
 
 Whoo OK I don't know how deep I want to get into this. In Hinduism there's this concept of _purushartha_, which is actually very analogous to Maslow's Hierarchy of Needs. It describes 4 possible dimensions that people can pursue to have a happy life:

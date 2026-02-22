@@ -1,7 +1,7 @@
 ---
 title: "100 Books"
 date: 2024-11-16T18:00:00-08:00
-lastupdated: 2025-01-18T15:00:00-08:00
+lastupdated: 2026-02-21T17:00:00-08:00
 description: "My book rotation for life, maybe"
 type: "posts"
 mins: 2
@@ -36,6 +36,7 @@ And so, here's my 100 Books:
 1. **Good Work** by Paul Millerd; read: 2024
 1. **The Writing Life** by Annie Dillard; read: 2025
 1. **The Fire Next Time** by James Baldwin; read: 2025
+1. **Already Free** by Bruce Tift; read: 2026
 1. 
 
 [^1]: I'm still trying to figure out my exact _N_ here, but I'm guessing it will fall somewhere between 6-10 years. From experience, for N=5 years after I've read a book, I'll have forgotten most of the content but maybe rememeber wisps of how the book made me feel. N=10 is a nice round number and seems promising, but I only started tracking what books I've read since 2016 so I don't have any candidates to test this out on yet.

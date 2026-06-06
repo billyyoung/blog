@@ -42,7 +42,7 @@ Now for some miscellaneous advanced items.
 
 After becoming familiar with prioritizing being an **empathetic nonjudgmental presence**, one thing that may come up next is our desire for a clear understanding of everything at all times. There will be times with patients where you feel like something doesn’t make sense, or you have a sense that the moment is significant but you don’t know why. Your immediate response in the room will be to try to map everything out in search of a clear answer, with the hopes of providing an interpretation that captures exactly what’s happening. _However, this is actually not your job._ Your job is to put the _patient_ in a position to explore the thing that doesn’t make sense (so they can develop their own understanding of it). And this is freeing.
 
-Lastly, this work has a surprising amount in common with creative work. It is, of course, important to build an understanding of the theory and the technical details. AND deepening your understanding of your patients will not be achieved through grinding. Like with writing, going on walks is part of the work.
+Lastly, this work has a surprising amount in common with creative work. They say that most of the therapy work happens outside of the room. For the therapist, it is, of course, important to build an understanding of the theory and the technical details, plan interventions, etc. AND deepening your understanding of your patients will not be achieved through grinding alone. Like with writing, going on walks is part of the work.
 
 \*
 

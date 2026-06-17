@@ -1,10 +1,13 @@
 ---
-title: "Early Notes on Meditation"
+title: "Early Notes on: Meditation"
 date: 2025-05-18T20:00:00-07:00
-description: "From a beginner"
+description: "There are so many different types!"
 type: "posts"
 mins: 6
 ---
+<small>_If you want to comment on this post, you can do so on my <a target="_blank" href="https://billyy.substack.com/p/early-notes-on-meditation">x-post</a> on substack._</small>
+<br>
+<small>_Italicized terms are in Sankrit unless otherwise specified._</small>
 
 I think more beginners should write a quick 500 words about their experience with a new activity. Then it's not just the experienced folks talking about the thing in a way that's detached from the beginner experience, as they've forgotten what it's like to be a beginner.
 
@@ -12,10 +15,9 @@ So here are some of my notes on meditation as a beginner, having looked into it 
 
 ## There are different types of meditation
 
-This is important, because the type of meditation you do will determine the experience you have, and some people have a **much better time** with certain approaches vs others.
+This is important because the type of meditation you do will determine the experience you have, and some people have a **much better time** with certain approaches vs others.
 
-From what I've learned so far, there's a rough 2x2 model for different types of meditation techniques –  
-{open awareness, focusing} x {grounding, inquisitive}.
+From what I've learned so far, there's a rough 2x2 model for different types of meditation techniques – {open awareness, focusing} x {grounding, inquisitive}.
 
 Here are my own loose definitions:
 
@@ -28,8 +30,10 @@ Here's how I'd categorize some practices I know of:
 * Noticing the mechanics of the breath – open awareness, inquisitive
 * Staring at a wall for 30 mins and seeing what comes up – open awareness
 * _Nadi shuddhi_ (alternate nostril breathing) – focusing
-* _Metta_ (loving-kindness) – focusing, inquisitive
+* _Metta_ (Pali[^1] for loving-kindness) – focusing, inquisitive
 * Cold plunge – grounding
+
+[^1]: Most of the italicized terms in this post are in Sanskrit, which is the language Hinduism tends to use and the language I tend to use when looking into these topics. _Metta_ is in Pali, which is the language Buddhism tends to use. The corresponding term in Sanskrit is _maitrī_. BUT for whatever reason no one I know says _maitrī_ and everyone I know says _metta_ when referring to loving-kindness meditation. So that’s why it’s the only Pali term here and in my vocabulary.
 
 <img src="https://byoung-blog.s3.us-west-1.amazonaws.com/2025-05-18-meditation-2x2-filled.jpg">
 
@@ -63,8 +67,8 @@ Here's a great <a target="_blank" href="https://www.youtube.com/watch?v=FQ1d5rC0
 
 If I were to describe it, I'd say _metta_ is practice in:
 * Noticing what loving different people feels like
-* Noticing what loving yourself feels like
-* Increasing your capacity to generate feelings of love toward yourself and others
+* Noticing what loving myself feels like
+* Increasing my capacity to generate feelings of love toward myself and others
 
 So far it's been pretty nice, and I've definitely noticed my capacity improve.
 
@@ -77,11 +81,11 @@ Very briefly: in Hinduism there's this concept of _purushartha_ (which happens t
 1. _Dharma_ ~= life purpose needs, doing the things that only you can do
 1. _Moksha_ ~= "soul needs", contentment, liberation
 
-In Western society, we tend to focus on (1) and (2), while we bumble around trying to figure out (3). But even when you have all of 1-3, you may find that something still feels missing, and that's where _moksha_ comes in.[^1]
+In Western society, we tend to focus on 1 and 2, while we bumble around trying to figure out 3. But even when you have all of 1-3, you may find that something still feels missing, and that's where _moksha_ comes in.[^2]
 
 Meditation is apparently one way to feed this dimension of "soul needs".
 
-[^1]: Interestingly, the combination of Religion + Church also fits well with this model of _purushartha_ – Religion fills the needs of: _dharma_ (life purpose) and _moksha_ (contentment); while Church fills the needs of: _kama_ (relational) and _dharma_, and maybe even _artha_ (materal) too. Credit to my friend Sam for this observation.
+[^2]: Interestingly, the combination of Religion + Church also fits well with this model of _purushartha_ – Religion fills the needs of: _dharma_ (life purpose) and _moksha_ (contentment); while Church fills the needs of: _kama_ (relational) and _dharma_, and maybe even _artha_ (materal) too. Credit to my friend Sam for this observation.
 
 
 ## How did I start?
@@ -123,4 +127,4 @@ If you're looking for permission to approach meditation this way, I'll happily g
 * This <a target="_blank" href="https://www.youtube.com/watch?v=AiXiyLJz8-U">Dr. K video</a> (3h) on meaning, purpose, and motivation legitimately changed my life. It covers _purushartha_, _dharma_, and more
 * My friend Tasshin leads _metta_ meditations at <a target="_blank" href="https://serviceguild.fun/saturday-night-metta/">Saturday Night Metta</a>, and posts his <a target="_blank" href="https://www.youtube.com/playlist?list=PLXcbtcE8U1ze4UPgoYh72jgyhj4TIM_l7">guided meditations</a> on youtube, if want more _metta_
 
-That's all for now. I don't have a comments section, so if you want to chat more about this feel free to email me (hello@billy.dev) or [message me](https://x.com/billyisyoung)!
+That's all for now. If you want to chat more about this, feel free to <a target="_blank" href="https://billyy.substack.com/p/early-notes-on-meditation">comment on substack</a>, email me (hello@billy.dev), or [message me](https://x.com/billyisyoung)!

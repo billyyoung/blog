@@ -6,16 +6,23 @@ type: "posts"
 mins: 6
 ---
 
-There's a thought that pops up in my twitter sphere every now and then that I'm partial to, and it's this: **more beginners should write a quick 500 words about their experience with a new activity**. Then it's not just experienced folks talking about the thing in a way that's detached from the beginner experience, as they've forgotten what it's like to be a beginner.
+I think more beginners should write a quick 500 words about their experience with a new activity. Then it's not just the experienced folks talking about the thing in a way that's detached from the beginner experience, as they've forgotten what it's like to be a beginner.
 
 So here are some of my notes on meditation as a beginner, having looked into it for a few months now.
 
 ## There are different types of meditation
 
-I think this is important, because the type of meditation you do will determine the experience you have, and some people have a much better time with certain approaches over others.
+This is important, because the type of meditation you do will determine the experience you have, and some people have a **much better time** with certain approaches vs others.
 
 From what I've learned so far, there's a rough 2x2 model for different types of meditation techniques –  
 {open awareness, focusing} x {grounding, inquisitive}.
+
+Here are my own loose definitions:
+
+* **Open awareness** = letting thoughts arise → then noticing what comes up
+* **Focusing** = concentrating on an object or task → to quiet the mind
+* **Grounding** = concentrating on or experiencing sensations → to quiet the mind
+* **Inquisitive** = examining a phenomenon → then noticing what comes up
 
 Here's how I'd categorize some practices I know of:
 * Noticing the mechanics of the breath – open awareness, inquisitive
@@ -26,11 +33,11 @@ Here's how I'd categorize some practices I know of:
 
 <img src="https://byoung-blog.s3.us-west-1.amazonaws.com/2025-05-18-meditation-2x2-filled.jpg">
 
-Different approaches have different effects. Open awareness practice, for example, might not be a good starting point for you if you like to repress stuff, as those repressed thoughts might come rushing to the surface. A focusing practice might be more beneficial for you in this case.
+Different approaches have different effects. Open awareness practice, for example, might not be a good starting point if you like to repress stuff, as those repressed thoughts might come rushing to the surface. A focusing practice might be more beneficial for you in this case. Or if you have ADHD, I highly recommend trying a focusing practice like _nadi shuddhi_ -- see the "How did I start?" section below for instructions.
 
 ## Why did I start?
 
-### 1. It's like going to the gym for your mind  
+### 1. Strengthening -- it's like going to the gym for your mind
 
 Many types of meditation help strengthen your prefrontal cortex, which is responsible for decision-making and executive function. This sounded appealing to me.
 
@@ -40,7 +47,7 @@ Meditation can apparently help the CEO-you be less at the mercy of your emotions
 
 Also like with going to the gym, meditation is not _necessary_ for living. But there are definitely some benefits. And similarly with the gym, you can choose how intense you want to be, as well as what goals you actually want to work toward (e.g. strength vs. aesthetics vs. mobility and stability, etc.).
 
-### 2. It feels nice
+### 2. Calming -- it feels nice
 
 At the end of most meditation sits I've done, I range from feeling a little bit more relaxed to very relaxed. I know people who've been meditating for a while that get super blissed out after a 30-min meditation, and that seems kinda cool too.
 
@@ -48,22 +55,7 @@ One caveat here is that I think the type of meditation you do matters. E.g. with
 
 I've also heard that if you meditate consistently enough, you will inevitably run into painful inner stuff, regardless of the type of meditation you do or how aggressively you tend to repress things, just by nature of us all having our own hang-ups. So it may not be an exclusively feel-good thing.
 
-<a name="needs"></a>
-### 3. Contentment as a Need of the soul
-
-Whoo OK I don't know how deep I want to get into this. In Hinduism there's this concept of _purushartha_, which is actually very analogous to Maslow's Hierarchy of Needs. It describes 4 possible dimensions that people can pursue to have a happy life:
-1. _Artha_ ~= material needs, financial means
-1. _Kama_ ~= social and relational needs, pleasure, love
-1. _Dharma_ ~= life purpose needs, doing the things that only you can do
-1. _Moksha_ ~= "soul needs", contentment, liberation
-
-In Western society, we tend to focus on (1) and (2), while we bumble around trying to figure out (3). But even when you have all of 1-3, you may find that something still feels missing, and that's where _moksha_ comes in.
-
-Meditation is apparently one way to feed this dimension of "soul needs".
-
-Side note: interestingly, the combination of Religion + Church also fits well with this model – Religion fills 3-4, and Church fills 2-3 and maybe even 1 too. Credit to my friend Sam for this observation.
-
-### 4. Metta, and Self-Love
+### 3. Cultivating -- Metta, and Self-Love
 
 I've written <a target="_blank" href="https://billy.dev/posts/sabbatical-notes/5/">previously</a> about wanting to develop more self-love, spurred on by <a target="_blank" href="https://billy.dev/posts/sabbatical-notes/recap1/">discoveries</a> during my sabbatical. And one way I heard you can do this is through _metta_ meditation, also called loving-kindness meditation.
 
@@ -76,11 +68,27 @@ If I were to describe it, I'd say _metta_ is practice in:
 
 So far it's been pretty nice, and I've definitely noticed my capacity improve.
 
+<a name="needs"></a>
+### 4. Contentment as a Need of the soul
+
+Very briefly: in Hinduism there's this concept of _purushartha_ (which happens to be very analogous to Maslow's Hierarchy of Needs). It describes 4 possible dimensions that people can pursue to have a happy life:
+1. _Artha_ ~= material needs, financial means
+1. _Kama_ ~= social and relational needs, pleasure, love
+1. _Dharma_ ~= life purpose needs, doing the things that only you can do
+1. _Moksha_ ~= "soul needs", contentment, liberation
+
+In Western society, we tend to focus on (1) and (2), while we bumble around trying to figure out (3). But even when you have all of 1-3, you may find that something still feels missing, and that's where _moksha_ comes in.[^1]
+
+Meditation is apparently one way to feed this dimension of "soul needs".
+
+[^1]: Interestingly, the combination of Religion + Church also fits well with this model of _purushartha_ – Religion fills the needs of: _dharma_ (life purpose) and _moksha_ (contentment); while Church fills the needs of: _kama_ (relational) and _dharma_, and maybe even _artha_ (materal) too. Credit to my friend Sam for this observation.
+
+
 ## How did I start?
 
 I started with _metta_ and _nadi shuddhi_ (alternate nostril breathing), for 10-20 mins total.
 
-That <a target="_blank" href="https://www.youtube.com/watch?v=FQ1d5rC062c">metta video</a> got me started, and it has everything you need. _Nadi shuddhi_ I picked up through <a target="_blank" href="https://www.healthygamer.gg/about/guide">Dr. K's Guide to Mental Health</a>; it's the <a target="_blank" href="https://coaching.healthygamer.gg/guide/meditations/nadi-shuddhi">first</a> meditation technique that's covered. 
+This <a target="_blank" href="https://www.youtube.com/watch?v=FQ1d5rC062c">metta video</a> got me started, and it has everything you need. And here's a <a target="_blank" href="https://www.youtube.com/watch?v=1W7oUZ8EVbI">free video</a> on _nadi shuddhi_.
 
 Currently for my sits, I like to do:
 * 7 mins - _nadi shuddhi_
@@ -90,8 +98,6 @@ Currently for my sits, I like to do:
 This year, I also started attending some group meditations a couple times per month. One is hosted by friends (we mostly do open awareness + _metta_), and another is <a target="_blank" href="https://serviceguild.fun/saturday-night-metta/">Saturday Night Metta</a> hosted over zoom.
 
 ## How's it going?
-
-I'm now enlightened!! jk
 
 It's been good. Actually it's been more than good. It's strange, I'm not sure why I have this urge to downplay it. But actually I think I've experienced a non-trivial amount of positive change from the meditation I've done so far, mainly with _metta_. I've noticeably "leveled up" in the amount of love I feel toward myself compared to one year ago. There were even a few days earlier this year where I had the thought "oh wow I actually love myself" and felt this to be true in a way I had never felt before. Much of this progress came from doing well-guided _metta_ meditation (and e.g. identifying objects of vast amounts of love).
 
@@ -110,8 +116,6 @@ I used to think it was weird and bad to approach meditation in a sort of consump
 But that's kind of what it was designed for.
 
 If you're looking for permission to approach meditation this way, I'll happily give it. It's OK to meditate to get skills, feel good, and gain blessings. Hell yeah.  
-
-<hr>
 
 ## Bonus Resources
 * I've been enjoying my friend Dr. Tucker Peck's book <a target="_blank" href="https://www.amazon.com/dp/B0DXJ12JV7">Sanity and Sainthood: Integrating Meditation and Psychotherapy</a> on Theravada Buddhism meditation and philosophy, and therapy

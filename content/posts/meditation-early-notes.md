@@ -7,7 +7,7 @@ mins: 6
 ---
 <small>_If you want to comment on this post, you can do so on my <a target="_blank" href="https://billyy.substack.com/p/early-notes-on-meditation">x-post</a> on substack._</small>
 <br>
-<small>_Italicized terms are in Sankrit unless otherwise specified._</small>
+<small>_Italicized terms are in Sanskrit unless otherwise specified._</small>
 
 I think more beginners should write a quick 500 words about their experience with a new activity. Then it's not just the experienced folks talking about the thing in a way that's detached from the beginner experience, as they've forgotten what it's like to be a beginner.
 

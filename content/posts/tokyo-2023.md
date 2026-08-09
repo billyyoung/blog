@@ -4,6 +4,8 @@ date: 2023-06-27T21:30:00-07:00
 description: "How I relax in Tokyo, now..."
 type: "posts"
 mins: 20
+aliases:
+  - /tokyo/
 ---
 
 <!--

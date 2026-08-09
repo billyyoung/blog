@@ -4,6 +4,8 @@ languageCode = "en-us"
 title = "Billy's Thoughts"
 theme = "ezhil"
 
+panicOnWarning = true
+
 googleAnalytics = "UA-143355000-1"
 
 [markup]

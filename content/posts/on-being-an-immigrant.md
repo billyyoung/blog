@@ -1,5 +1,5 @@
 ---
-title: "On being an immigrant"
+title: "On Being An Immigrant"
 date: 2026-09-07T12:00:00-07:00
 description: "Reflections before starting year two of grad school"
 type: "posts"

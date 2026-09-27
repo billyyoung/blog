@@ -14,7 +14,7 @@ Makes 2 servings
 * 1 steak
 * 3 anchovy fillets packed in oil
 * 1 garlic clove
-* 1 lemon
+* 1 lemon, whole
 * 1 heaping tbsp greek yogurt, or more
 * 1 heaping tbsp mayonnaise, or more
 * Salt & pepper
@@ -31,12 +31,13 @@ Steak
 * For a **cold steak salad** as the original recipe intends: cook steak before you make the dressing so it has a chance to cool down a bit
 
 Dressing
-* In a mortar and pestle - smash your **anchovy** and **garlic** with a touch of kosher salt to form a paste
+* Crush **garlic** with a garlic press
+* In a mortar and pestle - smash your **anchovies** and **garlic** with a touch of kosher salt to form a paste
   * You can also just chop everything fine with a knife, but a mortar and pestle make this super easy
 * Transfer **paste** to a bowl big enough to house the final dressing
 * Zest and juice 1/2 the **lemon**, and add it to the paste
   * Use the remaining lemon to adjust the acidity at the end, to your taste
-* Add in the **greek yogurt** and **mayo**; you can adjust the ratio and amounts to your liking
+* Add the **greek yogurt** and **mayo**
 * Salt & pepper to taste
 * Dressing should be _very assertive_
 

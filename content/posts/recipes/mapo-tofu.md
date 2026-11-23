@@ -16,6 +16,7 @@ Makes 2 big servings -- 500cal; 59g protein, 21g fat, 8g carbs
 * 2+ tbsp minced ginger, or a 2" segment -- _yes that much_
 * 6-8 cloves of garlic, minced -- _yes that many_
 * 2+ tbsp <a target="_blank" href="https://usa.lkk.com/en/products/chili-bean-sauce">spicy douban jiang</a>
+* (optional) 1 tbsp douchi (fermented black soybeans), minced
 * 1/4 tsp ground sichuan peppercorn, or 2 tsp whole sichuan peppercorns
 * 1 cup low sodium chicken broth, or water
 * Light soy sauce, dark soy sauce
@@ -33,20 +34,22 @@ Finish with
 Prep
 * Mince your **ginger** using the <a target="_blank" href="https://youtu.be/KRrsifp2FpA?si=-cgzVLiQ5_zQ33NX&t=150">smashing technique</a>
 * Mince your **garlic** using the smashing technique or a garlic press
+* Mince your **douchi** if using
 * Cut your **tofu** into cubes
-* If using **whole sichuan peppercorns**, grind them down to a fine powder using a mortar and pestle
-    * _If you're a try-hard: remove any shiny black seeds in your peppercorns before grinding. Apparently these are very bitter, I wouldn't know, I've always removed them._
+* In a bowl, make your **soy sauce mixture** with 2 tbsp shaoxing wine + 1/2 tbsp light soy + 1/2 tbsp dark soy
 * In a bowl, make your **corn starch slurry** with 1 tsp corn starch + 1 tbsp water
+* If using **whole sichuan peppercorns**, grind them down to a fine powder using a mortar and pestle
+    * _If you're a try-hard: remove any shiny black seeds in your peppercorns before grinding. Apparently these are very bitter. I wouldn't know, I've always removed them._
 
 Cooking
 * Recommend using a saute pan or dutch oven for surface area and height
 * Brown your **meat** --> a good initial sear is enough, and meat should be fully cooked by the end
 * Drain however much excess rendered fat you'd like using a paper towel, leaving some fat to fry the rest of the ingredients
-* Add in the 2 tbsp **douban jiang** --> fry it a bit to heat it up and extract some of its oil
+* Add in the 2 tbsp **douban jiang**, and **douchi** if using --> fry for 30-60s, to extract some of its oil
 * Stir in the minced **ginger**, minced **garlic**, and **arbols** if using --> fry for 30-60s or until fragrant
 * Stir in the **ground sichuan peppercorn** --> fry for ~30s (DO NOT LET THIS BURN)
-* Add in the 1 cup **chicken stock** or water + 2 tbsp **shaoxing wine**
-* Add 1/2 tbsp **light soy** + 1/2 tbsp **dark soy**, plus more to taste
+* Add 1 cup **chicken stock** or water
+* Add in **soy sauce mixture**, plus more light soy to taste
 * Add 1/4 tsp **sugar**, plus more to taste, if using
 * Bring this to a simmer
 * Add in 2 tsp **black vinegar**, if using

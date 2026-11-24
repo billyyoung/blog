@@ -18,7 +18,7 @@ Makes 2 big servings -- 500cal; 59g protein, 21g fat, 8g carbs
 * 2+ tbsp <a target="_blank" href="https://usa.lkk.com/en/products/chili-bean-sauce">spicy douban jiang</a>
 * (optional) 1 tbsp douchi (fermented black soybeans), minced
 * 1/4 tsp ground sichuan peppercorn, or 2 tsp whole sichuan peppercorns
-* 1 cup low sodium chicken broth, or water
+* 3/4 cup low sodium chicken broth, or water
 * Light soy sauce, dark soy sauce
 * Shaoxing wine -- _ideal to maximize flavour, but not mandatory_ 
 * Chinkiang black vinegar -- _ideal to maximize flavour, but not mandatory_ 
@@ -39,7 +39,7 @@ Prep
 * In a bowl, make your **soy sauce mixture** with 2 tbsp shaoxing wine + 1/2 tbsp light soy + 1/2 tbsp dark soy
 * In a bowl, make your **corn starch slurry** with 1 tsp corn starch + 1 tbsp water
 * If using **whole sichuan peppercorns**, grind them down to a fine powder using a mortar and pestle
-    * _If you're a try-hard: remove any shiny black seeds in your peppercorns before grinding. Apparently these are very bitter. I wouldn't know, I've always removed them._
+  * _If you're a try-hard: remove any shiny black seeds in your peppercorns before grinding. Apparently these are very bitter. I wouldn't know, I've always removed them._
 
 Cooking
 * Recommend using a saute pan or dutch oven for surface area and height
@@ -52,6 +52,7 @@ Cooking
 * Add in **soy sauce mixture**, plus more light soy to taste
 * Add 1/4 tsp **sugar**, plus more to taste, if using
 * Bring this to a simmer
+  * Add more stock/water here if needed
 * Add in 2 tsp **black vinegar**, if using
 * Stir in **corn starch slurry**
 * Stir in **tofu** --> let the tofu warm up and let the slurry thicken everything, 3-5 mins
